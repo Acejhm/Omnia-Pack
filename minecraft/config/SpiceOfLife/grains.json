@@ -1,0 +1,13 @@
+{
+	"food":{
+		"oredict":[
+			"listAllgrain",
+			"cropCorn",
+			"cropRice",
+			"foodRicecake"
+		]
+	},
+	"name" : "Grains",
+	"enabled" : true,
+	"color" : "gold"
+}

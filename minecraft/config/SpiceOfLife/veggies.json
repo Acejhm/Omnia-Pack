@@ -1,0 +1,17 @@
+{
+	"food":{
+		"oredict":[
+			"listAllveggie",
+			"foodGrilledasparagus",
+			"foodGrilledeggplant"
+		]
+	},
+	"exclude":{
+		"oredict":[
+			"cropCorn"
+		]
+	},
+	"name" : "Vegetables",
+	"enabled" : true,
+	"color" : "green"
+}

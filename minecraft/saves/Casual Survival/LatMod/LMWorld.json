@@ -1,0 +1,16 @@
+{
+  "warps": {},
+  "custom_server_data": {},
+  "custom_common_data": {},
+  "settings": {
+    "border_enabled": false,
+    "world_border": [
+      {
+        "dim": 0,
+        "x": 0,
+        "z": 0,
+        "size": 0
+      }
+    ]
+  }
+}

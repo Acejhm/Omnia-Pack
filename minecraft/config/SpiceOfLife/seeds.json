@@ -1,0 +1,11 @@
+{
+	"food":{
+		"oredict":[
+			"listAllseeds",
+			"foodRoastedpumpkinseeds"
+		]
+	},
+	"name" : "Seeds",
+	"enabled" : true,
+	"color" : "tan"
+}

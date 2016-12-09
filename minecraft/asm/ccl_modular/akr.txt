@@ -1,0 +1,1302 @@
+// class version 50.0 (50)
+// access flags 0x21
+public class akr extends alw  {
+
+  // compiled from: SourceFile
+
+  // access flags 0x0
+  I a
+
+  // access flags 0x0
+  [Z b
+
+  // access flags 0x0
+  [I M
+
+  // access flags 0x4
+  protected <init>(Lawt;)V
+   L0
+    LINENUMBER 10 L0
+    ALOAD 0
+    ALOAD 1
+    INVOKESPECIAL alw.<init> (Lawt;)V
+   L1
+    LINENUMBER 121 L1
+    ALOAD 0
+    ICONST_4
+    NEWARRAY T_BOOLEAN
+    PUTFIELD akr.b : [Z
+   L2
+    LINENUMBER 122 L2
+    ALOAD 0
+    ICONST_4
+    NEWARRAY T_INT
+    PUTFIELD akr.M : [I
+   L3
+    LINENUMBER 11 L3
+    RETURN
+    MAXSTACK = 2
+    MAXLOCALS = 2
+
+  // access flags 0x2
+  private n(Lahb;III)V
+   L0
+    LINENUMBER 14 L0
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    INVOKEVIRTUAL ahb.e (III)I
+    ISTORE 5
+   L1
+    LINENUMBER 16 L1
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    ALOAD 0
+    INVOKESTATIC aji.b (Laji;)I
+    ICONST_1
+    IADD
+    INVOKESTATIC aji.e (I)Laji;
+    ILOAD 5
+    ICONST_2
+    INVOKEVIRTUAL ahb.d (IIILaji;II)Z
+    POP
+   L2
+    LINENUMBER 17 L2
+    RETURN
+    MAXSTACK = 7
+    MAXLOCALS = 6
+
+  // access flags 0x1
+  public a(Lahb;IIILjava/util/Random;)V
+   L0
+    LINENUMBER 23 L0
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    INVOKEVIRTUAL akr.e (Lahb;III)I
+    ISTORE 6
+   L1
+    LINENUMBER 25 L1
+    ICONST_1
+    ISTORE 7
+   L2
+    LINENUMBER 26 L2
+    ALOAD 0
+    GETFIELD akr.J : Lawt;
+    GETSTATIC awt.i : Lawt;
+    IF_ACMPNE L3
+    ALOAD 1
+    GETFIELD ahb.t : Laqo;
+    GETFIELD aqo.f : Z
+    IFNE L3
+    ICONST_2
+    ISTORE 7
+   L3
+    LINENUMBER 28 L3
+   FRAME FULL [akr ahb I I I java/util/Random I I] []
+    ICONST_1
+    ISTORE 8
+   L4
+    LINENUMBER 29 L4
+    ALOAD 0
+    ALOAD 1
+    INVOKEVIRTUAL akr.a (Lahb;)I
+    ISTORE 9
+   L5
+    LINENUMBER 30 L5
+    ILOAD 6
+    IFLE L6
+   L7
+    LINENUMBER 31 L7
+    BIPUSH -100
+    ISTORE 10
+   L8
+    LINENUMBER 32 L8
+    ALOAD 0
+    ICONST_0
+    PUTFIELD akr.a : I
+   L9
+    LINENUMBER 33 L9
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ICONST_1
+    ISUB
+    ILOAD 3
+    ILOAD 4
+    ILOAD 10
+    INVOKEVIRTUAL akr.a (Lahb;IIII)I
+    ISTORE 10
+   L10
+    LINENUMBER 34 L10
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ICONST_1
+    IADD
+    ILOAD 3
+    ILOAD 4
+    ILOAD 10
+    INVOKEVIRTUAL akr.a (Lahb;IIII)I
+    ISTORE 10
+   L11
+    LINENUMBER 35 L11
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    ICONST_1
+    ISUB
+    ILOAD 10
+    INVOKEVIRTUAL akr.a (Lahb;IIII)I
+    ISTORE 10
+   L12
+    LINENUMBER 36 L12
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    ICONST_1
+    IADD
+    ILOAD 10
+    INVOKEVIRTUAL akr.a (Lahb;IIII)I
+    ISTORE 10
+   L13
+    LINENUMBER 38 L13
+    ILOAD 10
+    ILOAD 7
+    IADD
+    ISTORE 11
+   L14
+    LINENUMBER 39 L14
+    ILOAD 11
+    BIPUSH 8
+    IF_ICMPGE L15
+    ILOAD 10
+    IFGE L16
+   L15
+    LINENUMBER 40 L15
+   FRAME FULL [akr ahb I I I java/util/Random I I I I I I] []
+    ICONST_M1
+    ISTORE 11
+   L16
+    LINENUMBER 42 L16
+   FRAME FULL [akr ahb I I I java/util/Random I I I I I I] []
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ICONST_1
+    IADD
+    ILOAD 4
+    INVOKEVIRTUAL akr.e (Lahb;III)I
+    IFLT L17
+   L18
+    LINENUMBER 43 L18
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ICONST_1
+    IADD
+    ILOAD 4
+    INVOKEVIRTUAL akr.e (Lahb;III)I
+    ISTORE 12
+   L19
+    LINENUMBER 44 L19
+    ILOAD 12
+    BIPUSH 8
+    IF_ICMPLT L20
+    ILOAD 12
+    ISTORE 11
+    GOTO L17
+   L20
+    LINENUMBER 45 L20
+   FRAME FULL [akr ahb I I I java/util/Random I I I I I I I] []
+    ILOAD 12
+    BIPUSH 8
+    IADD
+    ISTORE 11
+   L17
+    LINENUMBER 47 L17
+   FRAME FULL [akr ahb I I I java/util/Random I I I I I I] []
+    GOTO L21
+   L22
+   FRAME FULL [] [java/lang/Throwable]
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    ATHROW
+   L23
+    LINENUMBER 50 L23
+   FRAME FULL [] [java/lang/Throwable]
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    ATHROW
+   L24
+    LINENUMBER 51 L24
+   FRAME FULL [] [java/lang/Throwable]
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    ATHROW
+   L25
+    LINENUMBER 52 L25
+   FRAME FULL [] [java/lang/Throwable]
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    ATHROW
+   L26
+   FRAME FULL [] [java/lang/Throwable]
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    ATHROW
+   L27
+    LINENUMBER 53 L27
+   FRAME FULL [] [java/lang/Throwable]
+    NOP
+    NOP
+    ATHROW
+   L21
+    LINENUMBER 56 L21
+   FRAME FULL [akr ahb I I I java/util/Random I I I I I I] []
+    ALOAD 0
+    GETFIELD akr.J : Lawt;
+    GETSTATIC awt.i : Lawt;
+    IF_ACMPNE L28
+   L29
+    LINENUMBER 57 L29
+    ILOAD 6
+    BIPUSH 8
+    IF_ICMPGE L28
+    ILOAD 11
+    BIPUSH 8
+    IF_ICMPGE L28
+   L30
+    LINENUMBER 58 L30
+    ILOAD 11
+    ILOAD 6
+    IF_ICMPLE L28
+   L31
+    LINENUMBER 59 L31
+    ALOAD 5
+    ICONST_4
+    INVOKEVIRTUAL java/util/Random.nextInt (I)I
+    IFEQ L28
+   L32
+    LINENUMBER 60 L32
+    ILOAD 9
+    ICONST_4
+    IMUL
+    ISTORE 9
+   L28
+    LINENUMBER 65 L28
+   FRAME FULL [akr ahb I I I java/util/Random I I I I I I] []
+    ILOAD 11
+    ILOAD 6
+    IF_ICMPNE L33
+   L34
+    LINENUMBER 66 L34
+    ILOAD 8
+    IFEQ L35
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    INVOKESPECIAL akr.n (Lahb;III)V
+    GOTO L35
+   L33
+    LINENUMBER 68 L33
+   FRAME FULL [akr ahb I I I java/util/Random I I I I I I] []
+    ILOAD 11
+    ISTORE 6
+   L36
+    LINENUMBER 69 L36
+    ILOAD 6
+    IFGE L37
+   L38
+    LINENUMBER 70 L38
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    INVOKEVIRTUAL ahb.f (III)Z
+    POP
+    GOTO L35
+   L37
+    LINENUMBER 72 L37
+   FRAME FULL [akr ahb I I I java/util/Random I I I I I I] []
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    ILOAD 6
+    ICONST_2
+    INVOKEVIRTUAL ahb.a (IIIII)Z
+    POP
+   L39
+    LINENUMBER 73 L39
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    ALOAD 0
+    ILOAD 9
+    INVOKEVIRTUAL ahb.a (IIILaji;I)V
+   L40
+    LINENUMBER 74 L40
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    ALOAD 0
+    INVOKEVIRTUAL ahb.d (IIILaji;)V
+   L35
+    LINENUMBER 77 L35
+   FRAME FULL [akr ahb I I I java/util/Random I I I I I I] []
+    GOTO L41
+   L6
+    LINENUMBER 78 L6
+   FRAME FULL [akr ahb I I I java/util/Random I I I I] []
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    INVOKESPECIAL akr.n (Lahb;III)V
+   L41
+    LINENUMBER 80 L41
+   FRAME FULL [akr ahb I I I java/util/Random I I I I] []
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ICONST_1
+    ISUB
+    ILOAD 4
+    INVOKESPECIAL akr.q (Lahb;III)Z
+    IFEQ L42
+   L43
+    LINENUMBER 81 L43
+    ALOAD 0
+    GETFIELD akr.J : Lawt;
+    GETSTATIC awt.i : Lawt;
+    IF_ACMPNE L44
+   L45
+    LINENUMBER 82 L45
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ICONST_1
+    ISUB
+    ILOAD 4
+    INVOKEVIRTUAL ahb.a (III)Laji;
+    INVOKEVIRTUAL aji.o ()Lawt;
+    GETSTATIC awt.h : Lawt;
+    IF_ACMPNE L44
+   L46
+    LINENUMBER 83 L46
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ICONST_1
+    ISUB
+    ILOAD 4
+    GETSTATIC ajn.b : Laji;
+    INVOKEVIRTUAL ahb.b (IIILaji;)Z
+    POP
+   L47
+    LINENUMBER 84 L47
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ICONST_1
+    ISUB
+    ILOAD 4
+    INVOKEVIRTUAL akr.m (Lahb;III)V
+   L48
+    LINENUMBER 85 L48
+    RETURN
+   L44
+    LINENUMBER 89 L44
+   FRAME FULL [akr ahb I I I java/util/Random I I I I] []
+    ILOAD 6
+    BIPUSH 8
+    IF_ICMPLT L49
+   L50
+    LINENUMBER 90 L50
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ICONST_1
+    ISUB
+    ILOAD 4
+    ILOAD 6
+    INVOKESPECIAL akr.h (Lahb;IIII)V
+    GOTO L51
+   L49
+    LINENUMBER 92 L49
+   FRAME FULL [akr ahb I I I java/util/Random I I I I] []
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ICONST_1
+    ISUB
+    ILOAD 4
+    ILOAD 6
+    BIPUSH 8
+    IADD
+    INVOKESPECIAL akr.h (Lahb;IIII)V
+    GOTO L51
+   L42
+    LINENUMBER 94 L42
+   FRAME FULL [akr ahb I I I java/util/Random I I I I] []
+    ILOAD 6
+    IFLT L51
+    ILOAD 6
+    IFEQ L52
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ICONST_1
+    ISUB
+    ILOAD 4
+    INVOKESPECIAL akr.p (Lahb;III)Z
+    IFEQ L51
+   L52
+    LINENUMBER 95 L52
+   FRAME FULL [akr ahb I I I java/util/Random I I I I] []
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    INVOKESPECIAL akr.o (Lahb;III)[Z
+    ASTORE 10
+   L53
+    LINENUMBER 96 L53
+    ILOAD 6
+    ILOAD 7
+    IADD
+    ISTORE 11
+   L54
+    LINENUMBER 97 L54
+    ILOAD 6
+    BIPUSH 8
+    IF_ICMPLT L55
+   L56
+    LINENUMBER 98 L56
+    ICONST_1
+    ISTORE 11
+   L55
+    LINENUMBER 100 L55
+   FRAME FULL [akr ahb I I I java/util/Random I I I I [Z I] []
+    ILOAD 11
+    BIPUSH 8
+    IF_ICMPLT L57
+    RETURN
+   L57
+    LINENUMBER 101 L57
+   FRAME FULL [akr ahb I I I java/util/Random I I I I [Z I] []
+    ALOAD 10
+    ICONST_0
+    BALOAD
+    IFEQ L58
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ICONST_1
+    ISUB
+    ILOAD 3
+    ILOAD 4
+    ILOAD 11
+    INVOKESPECIAL akr.h (Lahb;IIII)V
+   L58
+    LINENUMBER 102 L58
+   FRAME FULL [akr ahb I I I java/util/Random I I I I [Z I] []
+    ALOAD 10
+    ICONST_1
+    BALOAD
+    IFEQ L59
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ICONST_1
+    IADD
+    ILOAD 3
+    ILOAD 4
+    ILOAD 11
+    INVOKESPECIAL akr.h (Lahb;IIII)V
+   L59
+    LINENUMBER 103 L59
+   FRAME FULL [akr ahb I I I java/util/Random I I I I [Z I] []
+    ALOAD 10
+    ICONST_2
+    BALOAD
+    IFEQ L60
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    ICONST_1
+    ISUB
+    ILOAD 11
+    INVOKESPECIAL akr.h (Lahb;IIII)V
+   L60
+    LINENUMBER 104 L60
+   FRAME FULL [akr ahb I I I java/util/Random I I I I [Z I] []
+    ALOAD 10
+    ICONST_3
+    BALOAD
+    IFEQ L51
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    ICONST_1
+    IADD
+    ILOAD 11
+    INVOKESPECIAL akr.h (Lahb;IIII)V
+   L51
+    LINENUMBER 107 L51
+   FRAME FULL [akr ahb I I I java/util/Random I I I I] []
+    RETURN
+    MAXSTACK = 7
+    MAXLOCALS = 13
+
+  // access flags 0x2
+  private h(Lahb;IIII)V
+   L0
+    LINENUMBER 110 L0
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    INVOKESPECIAL akr.q (Lahb;III)Z
+    IFEQ L1
+   L2
+    LINENUMBER 111 L2
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    INVOKEVIRTUAL ahb.a (III)Laji;
+    ASTORE 6
+   L3
+    LINENUMBER 112 L3
+    ALOAD 0
+    GETFIELD akr.J : Lawt;
+    GETSTATIC awt.i : Lawt;
+    IF_ACMPNE L4
+   L5
+    LINENUMBER 113 L5
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    INVOKEVIRTUAL akr.m (Lahb;III)V
+    GOTO L6
+   L4
+    LINENUMBER 115 L4
+   FRAME FULL [akr ahb I I I I aji] []
+    ALOAD 6
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    INVOKEVIRTUAL ahb.e (III)I
+    ICONST_0
+    INVOKEVIRTUAL aji.b (Lahb;IIIII)V
+   L6
+    LINENUMBER 117 L6
+   FRAME FULL [akr ahb I I I I aji] []
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    ALOAD 0
+    ILOAD 5
+    ICONST_3
+    INVOKEVIRTUAL ahb.d (IIILaji;II)Z
+    POP
+   L1
+    LINENUMBER 119 L1
+   FRAME FULL [akr ahb I I I I] []
+    RETURN
+    MAXSTACK = 9
+    MAXLOCALS = 7
+
+  // access flags 0x2
+  private c(Lahb;IIIII)I
+   L0
+    LINENUMBER 125 L0
+    SIPUSH 1000
+    ISTORE 7
+   L1
+    LINENUMBER 126 L1
+    ICONST_0
+    ISTORE 8
+   L2
+   FRAME FULL [akr ahb I I I I I I I] []
+    ILOAD 8
+    ICONST_4
+    IF_ICMPGE L3
+   L4
+    LINENUMBER 127 L4
+    ILOAD 8
+    IFNE L5
+    ILOAD 6
+    ICONST_1
+    IF_ICMPNE L5
+    GOTO L6
+   L5
+    LINENUMBER 128 L5
+   FRAME FULL [akr ahb I I I I I I I] []
+    ILOAD 8
+    ICONST_1
+    IF_ICMPNE L7
+    ILOAD 6
+    IFNE L7
+    GOTO L6
+   L7
+    LINENUMBER 129 L7
+   FRAME FULL [akr ahb I I I I I I I] []
+    ILOAD 8
+    ICONST_2
+    IF_ICMPNE L8
+    ILOAD 6
+    ICONST_3
+    IF_ICMPNE L8
+    GOTO L6
+   L8
+    LINENUMBER 130 L8
+   FRAME FULL [akr ahb I I I I I I I] []
+    ILOAD 8
+    ICONST_3
+    IF_ICMPNE L9
+    ILOAD 6
+    ICONST_2
+    IF_ICMPNE L9
+    GOTO L6
+   L9
+    LINENUMBER 132 L9
+   FRAME FULL [akr ahb I I I I I I I] []
+    ILOAD 2
+    ISTORE 9
+   L10
+    LINENUMBER 133 L10
+    ILOAD 3
+    ISTORE 10
+   L11
+    LINENUMBER 134 L11
+    ILOAD 4
+    ISTORE 11
+   L12
+    LINENUMBER 136 L12
+    ILOAD 8
+    IFNE L13
+    IINC 9 -1
+   L13
+    LINENUMBER 137 L13
+   FRAME FULL [akr ahb I I I I I I I I I I] []
+    ILOAD 8
+    ICONST_1
+    IF_ICMPNE L14
+    IINC 9 1
+   L14
+    LINENUMBER 138 L14
+   FRAME FULL [akr ahb I I I I I I I I I I] []
+    ILOAD 8
+    ICONST_2
+    IF_ICMPNE L15
+    IINC 11 -1
+   L15
+    LINENUMBER 139 L15
+   FRAME FULL [akr ahb I I I I I I I I I I] []
+    ILOAD 8
+    ICONST_3
+    IF_ICMPNE L16
+    IINC 11 1
+   L16
+    LINENUMBER 141 L16
+   FRAME FULL [akr ahb I I I I I I I I I I] []
+    ALOAD 0
+    ALOAD 1
+    ILOAD 9
+    ILOAD 10
+    ILOAD 11
+    INVOKESPECIAL akr.p (Lahb;III)Z
+    IFEQ L17
+   L18
+    LINENUMBER 142 L18
+    GOTO L6
+   L17
+    LINENUMBER 143 L17
+   FRAME FULL [akr ahb I I I I I I I I I I] []
+    ALOAD 1
+    ILOAD 9
+    ILOAD 10
+    ILOAD 11
+    INVOKEVIRTUAL ahb.a (III)Laji;
+    INVOKEVIRTUAL aji.o ()Lawt;
+    ALOAD 0
+    GETFIELD akr.J : Lawt;
+    IF_ACMPNE L19
+    ALOAD 1
+    ILOAD 9
+    ILOAD 10
+    ILOAD 11
+    INVOKEVIRTUAL ahb.e (III)I
+    IFNE L19
+   L20
+    LINENUMBER 144 L20
+    GOTO L6
+   L19
+    LINENUMBER 146 L19
+   FRAME FULL [akr ahb I I I I I I I I I I] []
+    ALOAD 0
+    ALOAD 1
+    ILOAD 9
+    ILOAD 10
+    ICONST_1
+    ISUB
+    ILOAD 11
+    INVOKESPECIAL akr.p (Lahb;III)Z
+    IFEQ L21
+   L22
+    LINENUMBER 147 L22
+    ILOAD 5
+    ICONST_4
+    IF_ICMPGE L6
+   L23
+    LINENUMBER 148 L23
+    ALOAD 0
+    ALOAD 1
+    ILOAD 9
+    ILOAD 10
+    ILOAD 11
+    ILOAD 5
+    ICONST_1
+    IADD
+    ILOAD 8
+    INVOKESPECIAL akr.c (Lahb;IIIII)I
+    ISTORE 12
+   L24
+    LINENUMBER 149 L24
+    ILOAD 12
+    ILOAD 7
+    IF_ICMPGE L25
+    ILOAD 12
+    ISTORE 7
+   L25
+    LINENUMBER 150 L25
+   FRAME FULL [akr ahb I I I I I I I I I I I] []
+    GOTO L6
+   L21
+    LINENUMBER 152 L21
+   FRAME FULL [akr ahb I I I I I I I I I I] []
+    ILOAD 5
+    IRETURN
+   L6
+    LINENUMBER 126 L6
+   FRAME FULL [akr ahb I I I I I I I] []
+    IINC 8 1
+    GOTO L2
+   L3
+    LINENUMBER 156 L3
+   FRAME FULL [akr ahb I I I I I I I] []
+    ILOAD 7
+    IRETURN
+    MAXSTACK = 7
+    MAXLOCALS = 13
+
+  // access flags 0x2
+  private o(Lahb;III)[Z
+   L0
+    LINENUMBER 160 L0
+    ICONST_0
+    ISTORE 5
+   L1
+   FRAME FULL [akr ahb I I I I] []
+    ILOAD 5
+    ICONST_4
+    IF_ICMPGE L2
+   L3
+    LINENUMBER 161 L3
+    ALOAD 0
+    GETFIELD akr.M : [I
+    ILOAD 5
+    SIPUSH 1000
+    IASTORE
+   L4
+    LINENUMBER 162 L4
+    ILOAD 2
+    ISTORE 6
+   L5
+    LINENUMBER 163 L5
+    ILOAD 3
+    ISTORE 7
+   L6
+    LINENUMBER 164 L6
+    ILOAD 4
+    ISTORE 8
+   L7
+    LINENUMBER 166 L7
+    ILOAD 5
+    IFNE L8
+    IINC 6 -1
+   L8
+    LINENUMBER 167 L8
+   FRAME FULL [akr ahb I I I I I I I] []
+    ILOAD 5
+    ICONST_1
+    IF_ICMPNE L9
+    IINC 6 1
+   L9
+    LINENUMBER 168 L9
+   FRAME FULL [akr ahb I I I I I I I] []
+    ILOAD 5
+    ICONST_2
+    IF_ICMPNE L10
+    IINC 8 -1
+   L10
+    LINENUMBER 169 L10
+   FRAME FULL [akr ahb I I I I I I I] []
+    ILOAD 5
+    ICONST_3
+    IF_ICMPNE L11
+    IINC 8 1
+   L11
+    LINENUMBER 170 L11
+   FRAME FULL [akr ahb I I I I I I I] []
+    ALOAD 0
+    ALOAD 1
+    ILOAD 6
+    ILOAD 7
+    ILOAD 8
+    INVOKESPECIAL akr.p (Lahb;III)Z
+    IFEQ L12
+   L13
+    LINENUMBER 171 L13
+    GOTO L14
+   L12
+    LINENUMBER 172 L12
+   FRAME FULL [akr ahb I I I I I I I] []
+    ALOAD 1
+    ILOAD 6
+    ILOAD 7
+    ILOAD 8
+    INVOKEVIRTUAL ahb.a (III)Laji;
+    INVOKEVIRTUAL aji.o ()Lawt;
+    ALOAD 0
+    GETFIELD akr.J : Lawt;
+    IF_ACMPNE L15
+    ALOAD 1
+    ILOAD 6
+    ILOAD 7
+    ILOAD 8
+    INVOKEVIRTUAL ahb.e (III)I
+    IFNE L15
+   L16
+    LINENUMBER 173 L16
+    GOTO L14
+   L15
+    LINENUMBER 175 L15
+   FRAME FULL [akr ahb I I I I I I I] []
+    ALOAD 0
+    ALOAD 1
+    ILOAD 6
+    ILOAD 7
+    ICONST_1
+    ISUB
+    ILOAD 8
+    INVOKESPECIAL akr.p (Lahb;III)Z
+    IFEQ L17
+   L18
+    LINENUMBER 176 L18
+    ALOAD 0
+    GETFIELD akr.M : [I
+    ILOAD 5
+    ALOAD 0
+    ALOAD 1
+    ILOAD 6
+    ILOAD 7
+    ILOAD 8
+    ICONST_1
+    ILOAD 5
+    INVOKESPECIAL akr.c (Lahb;IIIII)I
+    IASTORE
+    GOTO L14
+   L17
+    LINENUMBER 178 L17
+   FRAME FULL [akr ahb I I I I I I I] []
+    ALOAD 0
+    GETFIELD akr.M : [I
+    ILOAD 5
+    ICONST_0
+    IASTORE
+   L14
+    LINENUMBER 160 L14
+   FRAME FULL [akr ahb I I I I I I I] []
+    IINC 5 1
+    GOTO L1
+   L2
+    LINENUMBER 183 L2
+   FRAME FULL [akr ahb I I I I] []
+    ALOAD 0
+    GETFIELD akr.M : [I
+    ICONST_0
+    IALOAD
+    ISTORE 5
+   L19
+    LINENUMBER 184 L19
+    ICONST_1
+    ISTORE 6
+   L20
+   FRAME FULL [akr ahb I I I I I] []
+    ILOAD 6
+    ICONST_4
+    IF_ICMPGE L21
+   L22
+    LINENUMBER 185 L22
+    ALOAD 0
+    GETFIELD akr.M : [I
+    ILOAD 6
+    IALOAD
+    ILOAD 5
+    IF_ICMPGE L23
+    ALOAD 0
+    GETFIELD akr.M : [I
+    ILOAD 6
+    IALOAD
+    ISTORE 5
+   L23
+    LINENUMBER 184 L23
+   FRAME FULL [akr ahb I I I I I] []
+    IINC 6 1
+    GOTO L20
+   L21
+    LINENUMBER 188 L21
+   FRAME FULL [akr ahb I I I I I] []
+    ICONST_0
+    ISTORE 6
+   L24
+   FRAME FULL [akr ahb I I I I I] []
+    ILOAD 6
+    ICONST_4
+    IF_ICMPGE L25
+   L26
+    LINENUMBER 189 L26
+    ALOAD 0
+    GETFIELD akr.b : [Z
+    ILOAD 6
+    ALOAD 0
+    GETFIELD akr.M : [I
+    ILOAD 6
+    IALOAD
+    ILOAD 5
+    IF_ICMPNE L27
+    ICONST_1
+    GOTO L28
+   L27
+   FRAME FULL [akr ahb I I I I I] [[Z I]
+    ICONST_0
+   L28
+   FRAME FULL [akr ahb I I I I I] [[Z I I]
+    BASTORE
+   L29
+    LINENUMBER 188 L29
+    IINC 6 1
+    GOTO L24
+   L25
+    LINENUMBER 191 L25
+   FRAME FULL [akr ahb I I I I I] []
+    ALOAD 0
+    GETFIELD akr.b : [Z
+    ARETURN
+    MAXSTACK = 9
+    MAXLOCALS = 9
+
+  // access flags 0x2
+  private p(Lahb;III)Z
+   L0
+    LINENUMBER 195 L0
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    INVOKEVIRTUAL ahb.a (III)Laji;
+    ASTORE 5
+   L1
+    LINENUMBER 196 L1
+    ALOAD 5
+    GETSTATIC ajn.ao : Laji;
+    IF_ACMPEQ L2
+    ALOAD 5
+    GETSTATIC ajn.av : Laji;
+    IF_ACMPEQ L2
+    ALOAD 5
+    GETSTATIC ajn.an : Laji;
+    IF_ACMPEQ L2
+    ALOAD 5
+    GETSTATIC ajn.ap : Laji;
+    IF_ACMPEQ L2
+    ALOAD 5
+    GETSTATIC ajn.aH : Laji;
+    IF_ACMPNE L3
+   L2
+    LINENUMBER 197 L2
+   FRAME FULL [akr ahb I I I aji] []
+    ICONST_1
+    IRETURN
+   L3
+    LINENUMBER 199 L3
+   FRAME FULL [akr ahb I I I aji] []
+    ALOAD 5
+    GETFIELD aji.J : Lawt;
+    GETSTATIC awt.E : Lawt;
+    IF_ACMPNE L4
+    ICONST_1
+    IRETURN
+   L4
+    LINENUMBER 201 L4
+   FRAME FULL [akr ahb I I I aji] []
+    ALOAD 5
+    GETFIELD aji.J : Lawt;
+    INVOKEVIRTUAL awt.c ()Z
+    IRETURN
+    MAXSTACK = 4
+    MAXLOCALS = 6
+
+  // access flags 0x4
+  protected a(Lahb;IIII)I
+   L0
+    LINENUMBER 205 L0
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    INVOKEVIRTUAL akr.e (Lahb;III)I
+    ISTORE 6
+   L1
+    LINENUMBER 206 L1
+    ILOAD 6
+    IFGE L2
+    ILOAD 5
+    IRETURN
+   L2
+    LINENUMBER 207 L2
+   FRAME FULL [akr ahb I I I I I] []
+    ILOAD 6
+    IFNE L3
+    ALOAD 0
+    DUP
+    GETFIELD akr.a : I
+    ICONST_1
+    IADD
+    PUTFIELD akr.a : I
+   L3
+    LINENUMBER 208 L3
+   FRAME FULL [akr ahb I I I I I] []
+    ILOAD 6
+    BIPUSH 8
+    IF_ICMPLT L4
+   L5
+    LINENUMBER 209 L5
+    ICONST_0
+    ISTORE 6
+   L4
+    LINENUMBER 211 L4
+   FRAME FULL [akr ahb I I I I I] []
+    ILOAD 5
+    IFLT L6
+    ILOAD 6
+    ILOAD 5
+    IF_ICMPGE L7
+   L6
+   FRAME FULL [akr ahb I I I I I] []
+    ILOAD 6
+    GOTO L8
+   L7
+   FRAME FULL [akr ahb I I I I I] []
+    ILOAD 5
+   L8
+   FRAME FULL [akr ahb I I I I I] [I]
+    IRETURN
+    MAXSTACK = 5
+    MAXLOCALS = 7
+
+  // access flags 0x2
+  private q(Lahb;III)Z
+   L0
+    LINENUMBER 215 L0
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    INVOKEVIRTUAL ahb.a (III)Laji;
+    INVOKEVIRTUAL aji.o ()Lawt;
+    ASTORE 5
+   L1
+    LINENUMBER 216 L1
+    ALOAD 5
+    ALOAD 0
+    GETFIELD akr.J : Lawt;
+    IF_ACMPNE L2
+    ICONST_0
+    IRETURN
+   L2
+    LINENUMBER 217 L2
+   FRAME FULL [akr ahb I I I awt] []
+    ALOAD 5
+    GETSTATIC awt.i : Lawt;
+    IF_ACMPNE L3
+    ICONST_0
+    IRETURN
+   L3
+    LINENUMBER 218 L3
+   FRAME FULL [akr ahb I I I awt] []
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    INVOKESPECIAL akr.p (Lahb;III)Z
+    IFNE L4
+    ICONST_1
+    GOTO L5
+   L4
+   FRAME FULL [akr ahb I I I awt] []
+    ICONST_0
+   L5
+   FRAME FULL [akr ahb I I I awt] [I]
+    IRETURN
+    MAXSTACK = 5
+    MAXLOCALS = 6
+
+  // access flags 0x1
+  public b(Lahb;III)V
+   L0
+    LINENUMBER 223 L0
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    INVOKESPECIAL alw.b (Lahb;III)V
+   L1
+    LINENUMBER 224 L1
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    INVOKEVIRTUAL ahb.a (III)Laji;
+    ALOAD 0
+    IF_ACMPNE L2
+   L3
+    LINENUMBER 225 L3
+    ALOAD 1
+    ILOAD 2
+    ILOAD 3
+    ILOAD 4
+    ALOAD 0
+    ALOAD 0
+    ALOAD 1
+    INVOKEVIRTUAL akr.a (Lahb;)I
+    INVOKEVIRTUAL ahb.a (IIILaji;I)V
+   L2
+    LINENUMBER 227 L2
+   FRAME FULL [akr ahb I I I] []
+    RETURN
+    MAXSTACK = 7
+    MAXLOCALS = 5
+
+  // access flags 0x1
+  public L()Z
+   L0
+    LINENUMBER 231 L0
+    ICONST_1
+    IRETURN
+    MAXSTACK = 1
+    MAXLOCALS = 1
+}

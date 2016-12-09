@@ -1,0 +1,126 @@
+{
+	"CopperGravel": 
+	{
+        "template": "uniform",
+        "block": 
+		[
+			{"name" : "minecraft:gravel", "weight": 70},
+			{"name" : "TConstruct:GravelOre", "metadata" : 2, "weight": 30}
+		]
+		"material": "minecraft:stone",
+        "clusterSize": 20,
+        "numClusters": 8,
+        "minHeight": 60,
+        "maxHeight": 105,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": 
+		[
+            -1,
+            1
+        ]
+    },
+	"TinGravel":
+	{
+        "template": "uniform",
+         "block": 
+		[
+			{"name" : "minecraft:gravel", "weight": 70},
+			{"name" : "TConstruct:GravelOre", "metadata" : 3, "weight": 30}
+		]
+		"material": "minecraft:stone",
+        "clusterSize": 12,
+        "numClusters": 6,
+        "minHeight": 50,
+        "maxHeight": 95,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": 
+		[
+            -1,
+            1
+        ]
+    },
+	"IronGravel": 
+	{
+        "template": "uniform",
+        "block":  "TConstruct:GravelOre",
+		"material" : "minecraft:gravel",
+        "clusterSize": 8,
+        "numClusters": 4,
+        "minHeight": 40,
+        "maxHeight": 95,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": 
+		[
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": 
+		[
+            -1,
+            1
+        ]
+    },
+	"AluminumGravel":
+	{
+        "template": "uniform",
+        "block": {"name" : "TConstruct:GravelOre", "metadata" : 4},
+		"material" : "minecraft:gravel",
+        "clusterSize": 6,
+        "numClusters": 5,
+        "minHeight": 50,
+        "maxHeight": 85,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": 
+		[
+            -1,
+            1
+        ]
+    },
+	"GoldGravel":
+	{
+        "template": "uniform",
+        "block": {"name" : "TConstruct:GravelOre", "metadata" : 1},
+		"material" : "minecraft:gravel",
+        "clusterSize": 6,
+        "numClusters": 3,
+        "minHeight": 15,
+        "maxHeight": 40,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": 
+		[
+            -1,
+            1
+        ]
+    },
+	"Aluminium": 
+	{
+        "template": "uniform",
+        "block": {"name": "TConstruct:SearedBrick", "metadata": 5},
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 40,
+        "maxHeight": 70,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": 
+		[
+            -1,
+            1
+        ]
+    }
+}

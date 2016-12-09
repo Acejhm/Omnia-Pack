@@ -1,0 +1,213 @@
+{
+	"Air Cluster":
+	{
+		"template": "uniform",
+        "block":  {"name": "Thaumcraft:blockCustomOre", "metadata": 1},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 4,
+        "minHeight": 60,
+        "maxHeight": 160,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": 
+		[
+			{"type": "dictionary", "entry": "MOUNTAIN"},
+			{"type": "dictionary", "entry": "HILLS"},
+			{"type": "dictionary", "entry": "JUNGLE"},
+			{"type": "dictionary", "entry": "PLAINS"}
+		],
+        "dimensionRestriction": "blacklist",
+        "dimensions": 
+		[
+            -1,
+            1
+        ]
+	},
+	"Balanced Cluster": 
+	{
+        "template": "uniform",
+        "block": 
+		[
+			{"name": "Thaumcraft:blockCustomOre", "metadata": 1,"weight": 10},
+			{"name": "Thaumcraft:blockCustomOre", "metadata": 2, "weight": 10},
+			{"name": "Thaumcraft:blockCustomOre", "metadata": 3,"weight": 10},
+			{"name": "Thaumcraft:blockCustomOre", "metadata": 4, "weight": 10},
+			{"name": "Thaumcraft:blockCustomOre", "metadata": 5, "weight": 10},
+			{"name": "Thaumcraft:blockCustomOre", "metadata": 6, "weight": 10}
+		],
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 2,
+        "minHeight":10,
+        "maxHeight": 160,
+        "retrogen": "true",
+        "biomeRestriction": "blacklist",
+        "biomes": 
+		[
+			{"type": "dictionary", "entry": "MAGICAL"}
+		],
+        "dimensionRestriction": "blacklist",
+        "dimensions": 
+		[
+            -1,
+            1
+        ]
+    },
+	"Balanced Cluster-Magic Biome": 
+	{
+        "template": "uniform",
+        "block": 
+		[
+			{"name": "Thaumcraft:blockCustomOre", "metadata": 1,"weight": 10},
+			{"name": "Thaumcraft:blockCustomOre", "metadata": 2, "weight": 10},
+			{"name": "Thaumcraft:blockCustomOre", "metadata": 3,"weight": 10},
+			{"name": "Thaumcraft:blockCustomOre", "metadata": 4, "weight": 10},
+			{"name": "Thaumcraft:blockCustomOre", "metadata": 5, "weight": 10},
+			{"name": "Thaumcraft:blockCustomOre", "metadata": 6, "weight": 10}
+		],
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 8,
+        "minHeight":10,
+        "maxHeight": 160,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": 
+		[
+			{"type": "dictionary", "entry": "MAGICAL"}
+		],
+        "dimensionRestriction": "blacklist",
+        "dimensions": 
+		[
+            -1,
+            1
+        ]
+    },
+	"Earth Cluster":
+	{
+		"template": "uniform",
+        "block":  {"name": "Thaumcraft:blockCustomOre", "metadata": 4},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 4,
+        "minHeight": 50,
+        "maxHeight": 100,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": 
+		[
+			{"type": "dictionary", "entry": "FOREST"},
+			{"type": "dictionary", "entry": "SWAMP"},
+			{"type": "dictionary", "entry": "JUNGLE"},
+			{"type": "dictionary", "entry": "PLAINS"}
+		],
+        "dimensionRestriction": "blacklist",
+        "dimensions": 
+		[
+            -1,
+            1
+        ]
+	},
+	"Entropy Cluster":
+	{
+		"template": "uniform",
+        "block":  {"name": "Thaumcraft:blockCustomOre", "metadata": 6},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 4,
+        "minHeight": 20,
+        "maxHeight": 160,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": 
+		[
+			{"type": "dictionary", "entry": "MOUNTAIN"},
+			{"type": "dictionary", "entry": "WASTELAND"},
+			{"type": "dictionary", "entry": "MUSHROOM"},
+			{"type": "dictionary", "entry": "DESERT"}
+		],
+        "dimensionRestriction": "blacklist",
+        "dimensions": 
+		[
+            -1,
+            1
+        ]
+	},
+	"Fire Cluster":
+	{
+		"template": "uniform",
+        "block":  {"name": "Thaumcraft:blockCustomOre", "metadata": 2},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 4,
+        "minHeight": 2,
+        "maxHeight": 30,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": 
+		[
+			{"type": "dictionary", "entry": "DESERT"},
+			{"type": "dictionary", "entry": "BEACH"},
+			{"type": "dictionary", "entry": "NETHER"},
+			{"type": "dictionary", "entry": "WASTELAND"}
+		],
+        "dimensionRestriction": "blacklist",
+        "dimensions": 
+		[
+            -1,
+            1
+        ]
+	},
+	"Order Cluster":
+	{
+		"template": "uniform",
+        "block":  {"name": "Thaumcraft:blockCustomOre", "metadata": 5},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 4,
+        "minHeight": 20,
+        "maxHeight": 160,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": 
+		[
+			{"type": "dictionary", "entry": "FROZEN"},
+			{"type": "dictionary", "entry": "PLAINS"},
+			{"type": "dictionary", "entry": "WATER"},
+			{"type": "dictionary", "entry": "HILLS"}
+		],
+        "dimensionRestriction": "blacklist",
+        "dimensions": 
+		[
+            -1,
+            1
+        ]
+	},
+	"Water Cluster":
+	{
+		"template": "uniform",
+        "block":  {"name": "Thaumcraft:blockCustomOre", "metadata": 3},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 4,
+        "minHeight": 40,
+        "maxHeight": 80,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": 
+		[
+			{"type": "dictionary", "entry": "SWAMP"},
+			{"type": "dictionary", "entry": "BEACH"},
+			{"type": "dictionary", "entry": "WATER"},
+			{"type": "dictionary", "entry": "FROZEN"}
+		],
+        "dimensionRestriction": "blacklist",
+        "dimensions": 
+		[
+            -1,
+            1
+        ]
+	}
+	
+}

@@ -1,0 +1,130 @@
+{
+    "Copper": 
+	{
+        "template": "uniform",
+         "block": 
+		[
+			{"name": "ThermalFoundation:Ore", "weight": 60},
+			{"name": "Railcraft:tile.railcraft.ore", "metadata": 9, "weight": 40}
+		]
+        "clusterSize": 8,
+        "numClusters": 10,
+        "minHeight": 50,
+        "maxHeight": 95,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": 
+		[
+            -1,
+            1
+        ]
+    },
+    "Tin": 
+	{
+        "template": "uniform",
+        "block": 
+		[
+			{"name": "ThermalFoundation:Ore", "metadata": 1, "weight": 60},
+			{"name": "Railcraft:tile.railcraft.ore", "metadata": 10, "weight": 40}
+		]
+        "clusterSize": 8,
+        "numClusters": 10,
+        "minHeight": 40,
+        "maxHeight": 85,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": 
+		[
+            -1,
+            1
+        ]
+    },
+    "Silver": 
+	{
+        "template": "uniform",
+        "block": 
+		[
+            {"name": "ThermalFoundation:Ore", "metadata": 2, "weight":80},
+            {"name": "ThermalFoundation:Ore", "metadata": 3, "weight":20}
+        ],
+        "clusterSize": 8,
+        "numClusters": 10,
+        "minHeight": 5,
+        "maxHeight": 30,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes":[],
+        "dimensionRestriction": "blacklist",
+        "dimensions": 
+		[
+            -1,
+            1
+        ]
+    },
+    "Lead": 
+	{
+        "template": "uniform",
+        "block": 
+		[
+            {"name": "ThermalFoundation:Ore", "metadata": 3, "weight": 90},
+            {"name": "ThermalFoundation:Ore", "metadata": 2, "weight": 10}
+        ],
+        "clusterSize": 8,
+        "numClusters": 8,
+        "minHeight": 10,
+        "maxHeight": 35,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": 
+		[
+            -1,
+            1
+        ]
+    },
+	"Ferrous":
+	{
+		"template": "uniform",
+        "block": 
+		[
+			{"name": "ThermalFoundation:Ore", "metadata": 4, "weight": 80},
+			{"name": "Railcraft:tile.railcraft.ore", "metadata": 7, "weight": 20}
+        ],
+		"clusterSize": 6,
+        "numClusters": 2,
+        "minHeight": 5,
+        "maxHeight": 20,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": 
+		[
+            -1,
+            1
+        ]
+	},
+    "Nickel":
+	{
+        "template": "uniform",
+        "block": {"name": "ThermalFoundation:Ore", "metadata": 4},
+        "clusterSize": 4,
+        "numClusters": 2,
+        "minHeight": 5,
+        "maxHeight": 20,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": 
+		[
+            -1,
+            1
+        ]
+    }
+}

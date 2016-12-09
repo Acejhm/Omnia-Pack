@@ -1,0 +1,13 @@
+{
+	"food":{
+		"oredict":[
+			"listAllnut",
+			"foodRoastedchestnut",
+			"cropCoconut",
+			"foodRoastedcoconut"
+		]
+	},
+	"name" : "Nuts",
+	"enabled" : true,
+	"color" : "tan"
+}

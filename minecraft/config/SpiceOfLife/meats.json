@@ -1,0 +1,17 @@
+{
+	"food":{
+		"oredict":[
+			"listAllmeatraw",
+			"listAllmeatcooked",
+			"foodBakedham",
+			"foodFriedegg",
+			"foodBeefjerky",
+			"foodZombiejerky",
+			"foodApricotglazedpork",
+			"foodBreadedporkchop"
+		]
+	},
+	"name" : "Meats",
+	"enabled" : true,
+	"color" : "dark_red"
+}

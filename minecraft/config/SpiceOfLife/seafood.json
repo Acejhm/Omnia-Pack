@@ -1,0 +1,21 @@
+{
+	"food":{
+		"oredict":[
+			"listAllfishraw",
+			"foodClamraw",
+			"foodCrabraw",
+			"listAllfishcooked",
+			"foodCoconutshrimp",
+			"foodSushi",
+			"foodShrimpcooked",
+			"foodScallopcooked",
+			"foodOctopuscooked",
+			"foodClamcooked",
+			"foodCrayfishcooked",
+			"foodCrabcooked"
+		]
+	},
+	"name" : "Seafood",
+	"enabled" : true,
+	"color" : "aqua"
+}

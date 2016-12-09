@@ -1,0 +1,20 @@
+"Silver Fish Block": 
+	{
+        "template": "uniform",
+        "block": "monster_egg",
+        "material": "minecraft:stone",
+        "clusterSize": 30,
+        "numClusters": 3,
+		"chunkChance": 5,
+        "minHeight": 2,
+        "maxHeight": 80,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": 
+		[
+            -1,
+            1
+        ]
+    },

@@ -1,0 +1,49 @@
+{
+	"Saltpeter": 
+	{
+        "template": "uniform",
+        "block": "Railcraft:tile.railcraft.ore",
+        "material": "minecraft:sandstone",
+        "clusterSize": 4,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 24,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": 
+		[
+			{"type": "dictionary", "entry": "DESERT"}
+			{"type": "dictionary", "entry": "OCEAN"}
+		],
+        "dimensionRestriction": "blacklist",
+        "dimensions": 
+		[
+            -1,
+            1
+        ]
+    },
+	"Sulfur":
+	{
+		"template": 
+		{"type": "underfluid","generator": "cluster", "genFluid": ["minecraft:lava", "minecraft:flowing_lava"]},
+		"block": "Railcraft:tile.railcraft.ore"
+		"material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 6,
+        "minHeight": 0,
+        "maxHeight": 24,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": 
+		[
+			{"type": "dictionary", "entry": "DESERT"},
+			{"type": "dictionary", "entry": "OCEAN"}
+		],
+        "dimensionRestriction": "blacklist",
+        "dimensions": 
+		[
+			-1,
+			1
+		]
+	}
+}

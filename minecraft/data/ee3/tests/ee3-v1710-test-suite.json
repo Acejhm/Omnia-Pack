@@ -1,0 +1,369 @@
+[
+  {
+    "itemstack": {
+      "name": "EE3:calcinator"
+    },
+    "energyValue": 772.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:aludel"
+    },
+    "energyValue": 1794.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:glassBell"
+    },
+    "energyValue": 7.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:researchStation"
+    },
+    "energyValue": 520.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:augmentationTable"
+    },
+    "energyValue": 284.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalChest"
+    },
+    "energyValue": 576.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalChest",
+      "metaValue": 1
+    },
+    "energyValue": 16448.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalChest",
+      "metaValue": 2
+    },
+    "energyValue": 65600.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:chalkBlock"
+    },
+    "energyValue": 320.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalFuelBlock"
+    },
+    "energyValue": 18720.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalFuelBlock",
+      "metaValue": 1
+    },
+    "energyValue": 147744.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalFuelBlock",
+      "metaValue": 2
+    },
+    "energyValue": 1179936.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:ashInfusedStone"
+    },
+    "energyValue": 2.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:ashInfusedStoneSlab"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalBag"
+    },
+    "energyValue": 560.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalBag",
+      "metaValue": 1
+    },
+    "energyValue": 16432.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalBag",
+      "metaValue": 2
+    },
+    "energyValue": 65584.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalDust"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalDust",
+      "metaValue": 1
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalDust",
+      "metaValue": 2
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalDust",
+      "metaValue": 3
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalFuel"
+    },
+    "energyValue": 2080.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalFuel",
+      "metaValue": 1
+    },
+    "energyValue": 16416.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalFuel",
+      "metaValue": 2
+    },
+    "energyValue": 131104.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:stoneInert"
+    },
+    "energyValue": 3076.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:shardMinium"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:stoneMinium"
+    },
+    "energyValue": 68612.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:stonePhilosophers"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:chalk"
+    },
+    "energyValue": 80.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalUpgrade"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalUpgrade",
+      "metaValue": 1
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalUpgrade",
+      "metaValue": 2
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:diviningRod"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchenomicon"
+    },
+    "energyValue": 8352.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:matter"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:matter",
+      "metaValue": 1
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:matter",
+      "metaValue": 2
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:matter",
+      "metaValue": 3
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:matter",
+      "metaValue": 4
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:matter",
+      "metaValue": 5
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:matter",
+      "metaValue": 6
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:matter",
+      "metaValue": 7
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:matter",
+      "metaValue": 8
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:gem"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:gem",
+      "metaValue": 1
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:gem",
+      "metaValue": 2
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:gem",
+      "metaValue": 3
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:gem",
+      "metaValue": 4
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:gem",
+      "metaValue": 5
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:gem",
+      "metaValue": 6
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:lootBall"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:knowledgeScroll"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:potionLethe"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:shovelDarkMatter"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:pickAxeDarkMatter"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:hammerDarkMatter"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:axeDarkMatter"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:hoeDarkMatter"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:fishingRodDarkMatter"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:shearsDarkMatter"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:bowDarkMatter"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:swordDarkMatter"
+    }
+  }
+]

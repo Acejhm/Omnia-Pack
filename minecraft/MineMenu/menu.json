@@ -1,0 +1,17 @@
+{
+  "main": {
+    "0": {
+      "title": "Travellers Gear",
+      "icon": {
+        "name": "minecraft:stone",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "TG.keybind.activeaAbilities",
+          "toggle": false
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,8416 @@
+[
+  {
+    "fluidstack": {
+      "name": "biodiesel"
+    },
+    "energyValue": 600.0
+  },
+  {
+    "fluidstack": {
+      "name": "creosote"
+    },
+    "energyValue": 128.0
+  },
+  {
+    "fluidstack": {
+      "name": "ethanol"
+    },
+    "energyValue": 400.0
+  },
+  {
+    "fluidstack": {
+      "name": "lava"
+    },
+    "energyValue": 0.064
+  },
+  {
+    "fluidstack": {
+      "name": "milk"
+    },
+    "energyValue": 0.064
+  },
+  {
+    "fluidstack": {
+      "name": "plantoil"
+    },
+    "energyValue": 200.0
+  },
+  {
+    "fluidstack": {
+      "name": "water"
+    },
+    "energyValue": 0.001
+  },
+  {
+    "orestack": {
+      "name": "cobblestone"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "orestack": {
+      "name": "dustRedstone"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "orestack": {
+      "name": "dyeBlack"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeBlue"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeBrown"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeCyan"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeGray"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeGreen"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeLightBlue"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeLightGray"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeLime"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeMagenta"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeOrange"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyePink"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyePurple"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeRed"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeWhite"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeYellow"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "gemDiamond"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "orestack": {
+      "name": "gemEmerald"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "orestack": {
+      "name": "gemLapis"
+    },
+    "energyValue": 864.0
+  },
+  {
+    "orestack": {
+      "name": "gemQuartz"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "orestack": {
+      "name": "ingotGold"
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "orestack": {
+      "name": "ingotIron"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "orestack": {
+      "name": "logWood"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "orestack": {
+      "name": "oreCoal"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "orestack": {
+      "name": "oreDiamond"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "orestack": {
+      "name": "oreEmerald"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "orestack": {
+      "name": "oreGold"
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "orestack": {
+      "name": "oreIron"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "orestack": {
+      "name": "oreLapis"
+    },
+    "energyValue": 864.0
+  },
+  {
+    "orestack": {
+      "name": "oreQuartz"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "orestack": {
+      "name": "oreRedstone"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "orestack": {
+      "name": "plankWood"
+    },
+    "energyValue": 8.0
+  },
+  {
+    "orestack": {
+      "name": "record"
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "orestack": {
+      "name": "sand"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "orestack": {
+      "name": "sandstone"
+    },
+    "energyValue": 4.0
+  },
+  {
+    "orestack": {
+      "name": "slabWood"
+    },
+    "energyValue": 4.0
+  },
+  {
+    "orestack": {
+      "name": "slimeball"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "orestack": {
+      "name": "stairWood"
+    },
+    "energyValue": 12.0
+  },
+  {
+    "orestack": {
+      "name": "stickWood"
+    },
+    "energyValue": 4.0
+  },
+  {
+    "orestack": {
+      "name": "stone"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "orestack": {
+      "name": "treeLeaves"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "orestack": {
+      "name": "treeSapling"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stone"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:grass"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dirt",
+      "metaValue": 32767
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cobblestone"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:sand",
+      "metaValue": 32767
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:gravel"
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:glass",
+      "metaValue": 32767
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:sandstone",
+      "metaValue": 32767
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:web"
+    },
+    "energyValue": 12.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:tallgrass",
+      "metaValue": 32767
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:deadbush"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:yellow_flower"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:red_flower",
+      "metaValue": 32767
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:brown_mushroom"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:red_mushroom"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:mossy_cobblestone"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:obsidian"
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:snow_layer"
+    },
+    "energyValue": 0.125
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:ice"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cactus"
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:pumpkin"
+    },
+    "energyValue": 144.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:netherrack"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:soul_sand"
+    },
+    "energyValue": 49.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stonebrick",
+      "metaValue": 32767
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:vine"
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:mycelium"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:waterlily"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:end_stone"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:anvil",
+      "metaValue": 1
+    },
+    "energyValue": 5290.667
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:anvil",
+      "metaValue": 2
+    },
+    "energyValue": 2645.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:hardened_clay"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:double_plant",
+      "metaValue": 32767
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:apple"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:coal"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:coal",
+      "metaValue": 1
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:diamond"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:iron_ingot"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:gold_ingot"
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:string"
+    },
+    "energyValue": 12.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:feather"
+    },
+    "energyValue": 48.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:gunpowder"
+    },
+    "energyValue": 192.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wheat_seeds"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wheat"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:flint"
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:porkchop"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cooked_porkchop"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:saddle"
+    },
+    "energyValue": 192.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:redstone"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:snowball"
+    },
+    "energyValue": 0.25
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:leather"
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:brick"
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:clay_ball"
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:reeds"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:egg"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:glowstone_dust"
+    },
+    "energyValue": 384.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:fish",
+      "metaValue": 32767
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cooked_fished",
+      "metaValue": 32767
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 2
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 3
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 4
+    },
+    "energyValue": 864.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 5
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 6
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:bone"
+    },
+    "energyValue": 48.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:melon"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:beef"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cooked_beef"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:chicken"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cooked_chicken"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:rotten_flesh"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:ender_pearl"
+    },
+    "energyValue": 1024.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:blaze_rod"
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:ghast_tear"
+    },
+    "energyValue": 4096.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:nether_wart"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:spider_eye"
+    },
+    "energyValue": 128.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:emerald"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:carrot"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potato"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:baked_potato"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:poisonous_potato"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:nether_star"
+    },
+    "energyValue": 24576.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:netherbrick"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:quartz"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockMagicalLog",
+      "metaValue": 1
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockMagicalLeaves"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockMagicalLeaves",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockCustomPlant"
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockCustomPlant",
+      "metaValue": 1
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockCustomPlant",
+      "metaValue": 2
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockCustomPlant",
+      "metaValue": 3
+    },
+    "energyValue": 768.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockCustomPlant",
+      "metaValue": 5
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockCosmeticSolid"
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockCosmeticSolid",
+      "metaValue": 2
+    },
+    "energyValue": 392.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockCosmeticSolid",
+      "metaValue": 3
+    },
+    "energyValue": 392.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockCosmeticSolid",
+      "metaValue": 6
+    },
+    "energyValue": 264.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockCosmeticSolid",
+      "metaValue": 7
+    },
+    "energyValue": 264.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockCosmeticSolid",
+      "metaValue": 11
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockCosmeticSolid",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockCosmeticSolid",
+      "metaValue": 14
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockCosmeticSolid",
+      "metaValue": 15
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockCrystal"
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockCrystal",
+      "metaValue": 1
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockCrystal",
+      "metaValue": 2
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockCrystal",
+      "metaValue": 3
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockCrystal",
+      "metaValue": 4
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockCrystal",
+      "metaValue": 5
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockCrystal",
+      "metaValue": 6
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockMetalDevice"
+    },
+    "energyValue": 1792.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockTable"
+    },
+    "energyValue": 28.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockTable",
+      "metaValue": 15
+    },
+    "energyValue": 28.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockEldritch",
+      "metaValue": 4
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:andesite"
+    },
+    "energyValue": 129.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:andesite",
+      "metaValue": 1
+    },
+    "energyValue": 129.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:andesite",
+      "metaValue": 2
+    },
+    "energyValue": 129.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:andesite",
+      "metaValue": 3
+    },
+    "energyValue": 129.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:andesite",
+      "metaValue": 4
+    },
+    "energyValue": 129.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:andesite",
+      "metaValue": 5
+    },
+    "energyValue": 129.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:andesite",
+      "metaValue": 6
+    },
+    "energyValue": 129.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:bookshelf",
+      "metaValue": 1
+    },
+    "energyValue": 528.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:bookshelf",
+      "metaValue": 2
+    },
+    "energyValue": 528.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:bookshelf",
+      "metaValue": 3
+    },
+    "energyValue": 528.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:bookshelf",
+      "metaValue": 4
+    },
+    "energyValue": 528.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:bookshelf",
+      "metaValue": 5
+    },
+    "energyValue": 528.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:bookshelf",
+      "metaValue": 6
+    },
+    "energyValue": 528.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:bookshelf",
+      "metaValue": 7
+    },
+    "energyValue": 528.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:bookshelf",
+      "metaValue": 8
+    },
+    "energyValue": 528.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:brickCustom",
+      "metaValue": 1
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:brickCustom",
+      "metaValue": 2
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:brickCustom",
+      "metaValue": 3
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:brickCustom",
+      "metaValue": 4
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:brickCustom",
+      "metaValue": 5
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:brickCustom",
+      "metaValue": 6
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:cloud"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:cloud",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:cloud",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:cloud",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:cloud",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:cobblestone",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:cobblestone",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:cobblestone",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:cobblestone",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:cobblestone",
+      "metaValue": 5
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:cobblestone",
+      "metaValue": 6
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:cobblestone",
+      "metaValue": 7
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:cobblestone",
+      "metaValue": 8
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:cobblestone",
+      "metaValue": 9
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:cobblestone",
+      "metaValue": 10
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:cobblestone",
+      "metaValue": 11
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:cobblestone",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:cobblestone",
+      "metaValue": 13
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:cobblestone",
+      "metaValue": 14
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:cobblestone",
+      "metaValue": 15
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_cobblestone",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_cobblestone",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_cobblestone",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_cobblestone",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_cobblestone",
+      "metaValue": 5
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_cobblestone",
+      "metaValue": 6
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_cobblestone",
+      "metaValue": 7
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_cobblestone",
+      "metaValue": 8
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_cobblestone",
+      "metaValue": 9
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_cobblestone",
+      "metaValue": 10
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_cobblestone",
+      "metaValue": 11
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_cobblestone",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_cobblestone",
+      "metaValue": 13
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_cobblestone",
+      "metaValue": 14
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_cobblestone",
+      "metaValue": 15
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:concrete"
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:concrete",
+      "metaValue": 1
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:concrete",
+      "metaValue": 2
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:concrete",
+      "metaValue": 3
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:concrete",
+      "metaValue": 4
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:concrete",
+      "metaValue": 5
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:concrete",
+      "metaValue": 6
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:concrete",
+      "metaValue": 7
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:concrete",
+      "metaValue": 8
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:concrete",
+      "metaValue": 9
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:concrete",
+      "metaValue": 10
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:diamond_block",
+      "metaValue": 1
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:diamond_block",
+      "metaValue": 2
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:diamond_block",
+      "metaValue": 3
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:diamond_block",
+      "metaValue": 4
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:diamond_block",
+      "metaValue": 5
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:diamond_block",
+      "metaValue": 6
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:diamond_block",
+      "metaValue": 7
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:diamond_block",
+      "metaValue": 8
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:diamond_block",
+      "metaValue": 9
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:diamond_block",
+      "metaValue": 10
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:diamond_block",
+      "metaValue": 11
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:diamond_block",
+      "metaValue": 12
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:diorite"
+    },
+    "energyValue": 257.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:diorite",
+      "metaValue": 1
+    },
+    "energyValue": 257.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:diorite",
+      "metaValue": 2
+    },
+    "energyValue": 257.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:diorite",
+      "metaValue": 3
+    },
+    "energyValue": 257.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:diorite",
+      "metaValue": 4
+    },
+    "energyValue": 257.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:diorite",
+      "metaValue": 5
+    },
+    "energyValue": 257.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:diorite",
+      "metaValue": 6
+    },
+    "energyValue": 257.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dirt"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dirt",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dirt",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dirt",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dirt",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dirt",
+      "metaValue": 5
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dirt",
+      "metaValue": 6
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dirt",
+      "metaValue": 7
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dirt",
+      "metaValue": 8
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dirt",
+      "metaValue": 9
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dirt",
+      "metaValue": 10
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dirt",
+      "metaValue": 11
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:emerald_block",
+      "metaValue": 1
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:emerald_block",
+      "metaValue": 2
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:emerald_block",
+      "metaValue": 3
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:emerald_block",
+      "metaValue": 4
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:emerald_block",
+      "metaValue": 5
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:emerald_block",
+      "metaValue": 6
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:emerald_block",
+      "metaValue": 7
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:emerald_block",
+      "metaValue": 8
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:emerald_block",
+      "metaValue": 9
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:emerald_block",
+      "metaValue": 10
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:emerald_block",
+      "metaValue": 11
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock",
+      "metaValue": 1
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock",
+      "metaValue": 2
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock",
+      "metaValue": 3
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock",
+      "metaValue": 4
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock",
+      "metaValue": 5
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock",
+      "metaValue": 6
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock",
+      "metaValue": 7
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock",
+      "metaValue": 8
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock",
+      "metaValue": 9
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock",
+      "metaValue": 10
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock",
+      "metaValue": 11
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock",
+      "metaValue": 12
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock",
+      "metaValue": 13
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock",
+      "metaValue": 14
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock",
+      "metaValue": 15
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock2"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock2",
+      "metaValue": 1
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock2",
+      "metaValue": 2
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock2",
+      "metaValue": 3
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock2",
+      "metaValue": 4
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock2",
+      "metaValue": 5
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock2",
+      "metaValue": 6
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock2",
+      "metaValue": 7
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock2",
+      "metaValue": 8
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock2",
+      "metaValue": 9
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock2",
+      "metaValue": 10
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock2",
+      "metaValue": 11
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock2",
+      "metaValue": 12
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock2",
+      "metaValue": 13
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock2",
+      "metaValue": 14
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:factoryblock2",
+      "metaValue": 15
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock"
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock",
+      "metaValue": 1
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock",
+      "metaValue": 2
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock",
+      "metaValue": 3
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock",
+      "metaValue": 4
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock",
+      "metaValue": 5
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock",
+      "metaValue": 6
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock",
+      "metaValue": 7
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock",
+      "metaValue": 8
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock",
+      "metaValue": 9
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock",
+      "metaValue": 10
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock",
+      "metaValue": 11
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock",
+      "metaValue": 12
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock",
+      "metaValue": 13
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock",
+      "metaValue": 14
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock",
+      "metaValue": 15
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock2"
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock2",
+      "metaValue": 1
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock2",
+      "metaValue": 2
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock2",
+      "metaValue": 3
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock2",
+      "metaValue": 4
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock2",
+      "metaValue": 5
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock2",
+      "metaValue": 6
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock2",
+      "metaValue": 7
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock2",
+      "metaValue": 8
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock2",
+      "metaValue": 9
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock2",
+      "metaValue": 10
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock2",
+      "metaValue": 11
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock2",
+      "metaValue": 12
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock2",
+      "metaValue": 13
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock2",
+      "metaValue": 14
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:fantasyblock2",
+      "metaValue": 15
+    },
+    "energyValue": 235.556
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass",
+      "metaValue": 5
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass",
+      "metaValue": 6
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass",
+      "metaValue": 7
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass",
+      "metaValue": 8
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass",
+      "metaValue": 9
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass",
+      "metaValue": 10
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass",
+      "metaValue": 11
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass",
+      "metaValue": 13
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass",
+      "metaValue": 14
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass",
+      "metaValue": 15
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass2"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass_pane",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass_pane",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass_pane",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass_pane",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass_pane",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass_pane",
+      "metaValue": 13
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass_pane",
+      "metaValue": 14
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glass_pane",
+      "metaValue": 15
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_white"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_white",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_white",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_white",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_white",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_white",
+      "metaValue": 5
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_white",
+      "metaValue": 6
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_white",
+      "metaValue": 7
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_white",
+      "metaValue": 8
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_white",
+      "metaValue": 9
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_white",
+      "metaValue": 10
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_white",
+      "metaValue": 11
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_white",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_white",
+      "metaValue": 13
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_white",
+      "metaValue": 14
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_white",
+      "metaValue": 15
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_yellow"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_yellow",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_yellow",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_yellow",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_yellow",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_yellow",
+      "metaValue": 5
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_yellow",
+      "metaValue": 6
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_yellow",
+      "metaValue": 7
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_yellow",
+      "metaValue": 8
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_yellow",
+      "metaValue": 9
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_yellow",
+      "metaValue": 10
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_yellow",
+      "metaValue": 11
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_yellow",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_yellow",
+      "metaValue": 13
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_yellow",
+      "metaValue": 14
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_yellow",
+      "metaValue": 15
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_lightgray"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_lightgray",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_lightgray",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_lightgray",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_lightgray",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_lightgray",
+      "metaValue": 5
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_lightgray",
+      "metaValue": 6
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_lightgray",
+      "metaValue": 7
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_lightgray",
+      "metaValue": 8
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_lightgray",
+      "metaValue": 9
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_lightgray",
+      "metaValue": 10
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_lightgray",
+      "metaValue": 11
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_lightgray",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_lightgray",
+      "metaValue": 13
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_lightgray",
+      "metaValue": 14
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_lightgray",
+      "metaValue": 15
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_brown"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_brown",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_brown",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_brown",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_brown",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_brown",
+      "metaValue": 5
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_brown",
+      "metaValue": 6
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_brown",
+      "metaValue": 7
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_brown",
+      "metaValue": 8
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_brown",
+      "metaValue": 9
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_brown",
+      "metaValue": 10
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_brown",
+      "metaValue": 11
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_brown",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_brown",
+      "metaValue": 13
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_brown",
+      "metaValue": 14
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_brown",
+      "metaValue": 15
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_white"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_white",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_white",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_white",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_white",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_white",
+      "metaValue": 5
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_white",
+      "metaValue": 6
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_white",
+      "metaValue": 7
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_white",
+      "metaValue": 8
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_white",
+      "metaValue": 9
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_white",
+      "metaValue": 10
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_white",
+      "metaValue": 11
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_white",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_white",
+      "metaValue": 13
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_magenta"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_magenta",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_magenta",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_magenta",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_magenta",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_magenta",
+      "metaValue": 5
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_magenta",
+      "metaValue": 6
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_magenta",
+      "metaValue": 7
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_magenta",
+      "metaValue": 8
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_magenta",
+      "metaValue": 9
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_magenta",
+      "metaValue": 10
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_magenta",
+      "metaValue": 11
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_magenta",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_magenta",
+      "metaValue": 13
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_yellow"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_yellow",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_yellow",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_yellow",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_yellow",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_yellow",
+      "metaValue": 5
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_yellow",
+      "metaValue": 6
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_yellow",
+      "metaValue": 7
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_yellow",
+      "metaValue": 8
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_yellow",
+      "metaValue": 9
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_yellow",
+      "metaValue": 10
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_yellow",
+      "metaValue": 11
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_yellow",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_yellow",
+      "metaValue": 13
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_pink"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_pink",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_pink",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_pink",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_pink",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_pink",
+      "metaValue": 5
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_pink",
+      "metaValue": 6
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_pink",
+      "metaValue": 7
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_pink",
+      "metaValue": 8
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_pink",
+      "metaValue": 9
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_pink",
+      "metaValue": 10
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_pink",
+      "metaValue": 11
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_pink",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_pink",
+      "metaValue": 13
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_lightgray"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_lightgray",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_lightgray",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_lightgray",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_lightgray",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_lightgray",
+      "metaValue": 5
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_lightgray",
+      "metaValue": 6
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_lightgray",
+      "metaValue": 7
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_lightgray",
+      "metaValue": 8
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_lightgray",
+      "metaValue": 9
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_lightgray",
+      "metaValue": 10
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_lightgray",
+      "metaValue": 11
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_lightgray",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_lightgray",
+      "metaValue": 13
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_purple"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_purple",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_purple",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_purple",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_purple",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_purple",
+      "metaValue": 5
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_purple",
+      "metaValue": 6
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_purple",
+      "metaValue": 7
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_purple",
+      "metaValue": 8
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_purple",
+      "metaValue": 9
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_purple",
+      "metaValue": 10
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_purple",
+      "metaValue": 11
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_purple",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_purple",
+      "metaValue": 13
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_brown"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_brown",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_brown",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_brown",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_brown",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_brown",
+      "metaValue": 5
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_brown",
+      "metaValue": 6
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_brown",
+      "metaValue": 7
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_brown",
+      "metaValue": 8
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_brown",
+      "metaValue": 9
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_brown",
+      "metaValue": 10
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_brown",
+      "metaValue": 11
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_brown",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_brown",
+      "metaValue": 13
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_red"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_red",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_red",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_red",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_red",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_red",
+      "metaValue": 5
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_red",
+      "metaValue": 6
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_red",
+      "metaValue": 7
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_red",
+      "metaValue": 8
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_red",
+      "metaValue": 9
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_red",
+      "metaValue": 10
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_red",
+      "metaValue": 11
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_red",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stained_glass_pane_red",
+      "metaValue": 13
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glowstone"
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glowstone",
+      "metaValue": 1
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glowstone",
+      "metaValue": 2
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glowstone",
+      "metaValue": 3
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glowstone",
+      "metaValue": 4
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glowstone",
+      "metaValue": 5
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glowstone",
+      "metaValue": 6
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glowstone",
+      "metaValue": 7
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glowstone",
+      "metaValue": 8
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glowstone",
+      "metaValue": 9
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glowstone",
+      "metaValue": 10
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glowstone",
+      "metaValue": 11
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glowstone",
+      "metaValue": 12
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glowstone",
+      "metaValue": 13
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glowstone",
+      "metaValue": 14
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:glowstone",
+      "metaValue": 15
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:gold_block"
+    },
+    "energyValue": 18432.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:gold_block",
+      "metaValue": 1
+    },
+    "energyValue": 18432.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:gold_block",
+      "metaValue": 2
+    },
+    "energyValue": 18432.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:gold_block",
+      "metaValue": 3
+    },
+    "energyValue": 18432.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:gold_block",
+      "metaValue": 4
+    },
+    "energyValue": 18432.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:gold_block",
+      "metaValue": 5
+    },
+    "energyValue": 18432.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:gold_block",
+      "metaValue": 6
+    },
+    "energyValue": 18432.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:gold_block",
+      "metaValue": 7
+    },
+    "energyValue": 18432.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:gold_block",
+      "metaValue": 8
+    },
+    "energyValue": 18432.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:gold_block",
+      "metaValue": 9
+    },
+    "energyValue": 18432.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:gold_block",
+      "metaValue": 10
+    },
+    "energyValue": 18432.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:gold_block",
+      "metaValue": 11
+    },
+    "energyValue": 18432.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:gold_block",
+      "metaValue": 12
+    },
+    "energyValue": 18432.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:gold_block",
+      "metaValue": 13
+    },
+    "energyValue": 18432.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:gold_block",
+      "metaValue": 14
+    },
+    "energyValue": 18432.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:gold_block",
+      "metaValue": 15
+    },
+    "energyValue": 18432.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:granite"
+    },
+    "energyValue": 513.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:granite",
+      "metaValue": 1
+    },
+    "energyValue": 513.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:granite",
+      "metaValue": 2
+    },
+    "energyValue": 513.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:granite",
+      "metaValue": 3
+    },
+    "energyValue": 513.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:granite",
+      "metaValue": 4
+    },
+    "energyValue": 513.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:granite",
+      "metaValue": 5
+    },
+    "energyValue": 513.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:granite",
+      "metaValue": 6
+    },
+    "energyValue": 513.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:grimstone"
+    },
+    "energyValue": 7.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:grimstone",
+      "metaValue": 1
+    },
+    "energyValue": 7.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:grimstone",
+      "metaValue": 2
+    },
+    "energyValue": 7.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:grimstone",
+      "metaValue": 3
+    },
+    "energyValue": 7.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:grimstone",
+      "metaValue": 4
+    },
+    "energyValue": 7.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:grimstone",
+      "metaValue": 5
+    },
+    "energyValue": 7.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:grimstone",
+      "metaValue": 6
+    },
+    "energyValue": 7.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:grimstone",
+      "metaValue": 7
+    },
+    "energyValue": 7.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:grimstone",
+      "metaValue": 8
+    },
+    "energyValue": 7.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:grimstone",
+      "metaValue": 9
+    },
+    "energyValue": 7.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:grimstone",
+      "metaValue": 10
+    },
+    "energyValue": 7.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:grimstone",
+      "metaValue": 11
+    },
+    "energyValue": 7.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:grimstone",
+      "metaValue": 12
+    },
+    "energyValue": 7.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:grimstone",
+      "metaValue": 13
+    },
+    "energyValue": 7.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:grimstone",
+      "metaValue": 14
+    },
+    "energyValue": 5.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexPlating"
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexPlating",
+      "metaValue": 1
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexPlating",
+      "metaValue": 2
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexPlating",
+      "metaValue": 3
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexPlating",
+      "metaValue": 4
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexPlating",
+      "metaValue": 5
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexPlating",
+      "metaValue": 6
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexPlating",
+      "metaValue": 7
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexPlating",
+      "metaValue": 8
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexPlating",
+      "metaValue": 9
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexPlating",
+      "metaValue": 10
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexPlating",
+      "metaValue": 11
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexPlating",
+      "metaValue": 12
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexPlating",
+      "metaValue": 13
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexPlating",
+      "metaValue": 14
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexPlating",
+      "metaValue": 15
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexLargePlating"
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexLargePlating",
+      "metaValue": 1
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexLargePlating",
+      "metaValue": 2
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexLargePlating",
+      "metaValue": 3
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexLargePlating",
+      "metaValue": 4
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexLargePlating",
+      "metaValue": 5
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexLargePlating",
+      "metaValue": 6
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexLargePlating",
+      "metaValue": 7
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexLargePlating",
+      "metaValue": 8
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexLargePlating",
+      "metaValue": 9
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexLargePlating",
+      "metaValue": 10
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexLargePlating",
+      "metaValue": 11
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexLargePlating",
+      "metaValue": 12
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexLargePlating",
+      "metaValue": 13
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexLargePlating",
+      "metaValue": 14
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:hexLargePlating",
+      "metaValue": 15
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ice"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ice",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ice",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ice",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ice",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ice",
+      "metaValue": 5
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ice",
+      "metaValue": 6
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ice",
+      "metaValue": 7
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ice",
+      "metaValue": 8
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ice",
+      "metaValue": 9
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ice",
+      "metaValue": 10
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ice",
+      "metaValue": 11
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ice",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ice",
+      "metaValue": 13
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ice",
+      "metaValue": 14
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ice",
+      "metaValue": 15
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ice_pillar"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ice_pillar",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ice_pillar",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ice_pillar",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ice_pillar",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ice_pillar",
+      "metaValue": 5
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ice_pillar",
+      "metaValue": 6
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_bars"
+    },
+    "energyValue": 96.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_bars",
+      "metaValue": 1
+    },
+    "energyValue": 96.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_bars",
+      "metaValue": 2
+    },
+    "energyValue": 96.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_bars",
+      "metaValue": 3
+    },
+    "energyValue": 96.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_bars",
+      "metaValue": 4
+    },
+    "energyValue": 96.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_bars",
+      "metaValue": 5
+    },
+    "energyValue": 96.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_bars",
+      "metaValue": 6
+    },
+    "energyValue": 96.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_bars",
+      "metaValue": 7
+    },
+    "energyValue": 96.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_bars",
+      "metaValue": 8
+    },
+    "energyValue": 96.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_bars",
+      "metaValue": 9
+    },
+    "energyValue": 96.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_block"
+    },
+    "energyValue": 2304.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_block",
+      "metaValue": 1
+    },
+    "energyValue": 2304.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_block",
+      "metaValue": 2
+    },
+    "energyValue": 2304.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_block",
+      "metaValue": 3
+    },
+    "energyValue": 2304.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_block",
+      "metaValue": 4
+    },
+    "energyValue": 2304.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_block",
+      "metaValue": 5
+    },
+    "energyValue": 2304.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_block",
+      "metaValue": 6
+    },
+    "energyValue": 2304.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_block",
+      "metaValue": 7
+    },
+    "energyValue": 2304.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_block",
+      "metaValue": 8
+    },
+    "energyValue": 2304.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_block",
+      "metaValue": 9
+    },
+    "energyValue": 2304.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_block",
+      "metaValue": 10
+    },
+    "energyValue": 2304.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_block",
+      "metaValue": 11
+    },
+    "energyValue": 2304.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_block",
+      "metaValue": 12
+    },
+    "energyValue": 2304.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_block",
+      "metaValue": 13
+    },
+    "energyValue": 2304.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_block",
+      "metaValue": 14
+    },
+    "energyValue": 2304.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:iron_block",
+      "metaValue": 15
+    },
+    "energyValue": 2304.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jackolantern1"
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jackolantern2"
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jackolantern3"
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jackolantern4"
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jackolantern5"
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jackolantern6"
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jackolantern7"
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jackolantern8"
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jackolantern9"
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jackolantern10"
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jackolantern11"
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jackolantern12"
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jackolantern13"
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jackolantern14"
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jackolantern15"
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jackolantern16"
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:laboratoryblock"
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:laboratoryblock",
+      "metaValue": 1
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:laboratoryblock",
+      "metaValue": 2
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:laboratoryblock",
+      "metaValue": 3
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:laboratoryblock",
+      "metaValue": 4
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:laboratoryblock",
+      "metaValue": 5
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:laboratoryblock",
+      "metaValue": 6
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:laboratoryblock",
+      "metaValue": 7
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:laboratoryblock",
+      "metaValue": 8
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:laboratoryblock",
+      "metaValue": 9
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:laboratoryblock",
+      "metaValue": 10
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:laboratoryblock",
+      "metaValue": 11
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:laboratoryblock",
+      "metaValue": 12
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:laboratoryblock",
+      "metaValue": 13
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:laboratoryblock",
+      "metaValue": 14
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:laboratoryblock",
+      "metaValue": 15
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:lavastone"
+    },
+    "energyValue": 9.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:lavastone",
+      "metaValue": 1
+    },
+    "energyValue": 9.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:lavastone",
+      "metaValue": 2
+    },
+    "energyValue": 9.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:lavastone",
+      "metaValue": 3
+    },
+    "energyValue": 9.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:lavastone",
+      "metaValue": 4
+    },
+    "energyValue": 9.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:lavastone",
+      "metaValue": 5
+    },
+    "energyValue": 9.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:lavastone",
+      "metaValue": 6
+    },
+    "energyValue": 9.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:lavastone",
+      "metaValue": 7
+    },
+    "energyValue": 9.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:limestone"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:limestone",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:limestone",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:limestone",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:limestone",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:limestone",
+      "metaValue": 5
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:limestone",
+      "metaValue": 6
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:limestone",
+      "metaValue": 7
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:limestone",
+      "metaValue": 8
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:limestone",
+      "metaValue": 9
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:limestone",
+      "metaValue": 10
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:limestone",
+      "metaValue": 11
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:limestone",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:limestone",
+      "metaValue": 13
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:limestone",
+      "metaValue": 14
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:limestone",
+      "metaValue": 15
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble",
+      "metaValue": 5
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble",
+      "metaValue": 6
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble",
+      "metaValue": 7
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble",
+      "metaValue": 8
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble",
+      "metaValue": 9
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble",
+      "metaValue": 10
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble",
+      "metaValue": 11
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble",
+      "metaValue": 13
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble",
+      "metaValue": 14
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble",
+      "metaValue": 15
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar"
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar",
+      "metaValue": 1
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar",
+      "metaValue": 2
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar",
+      "metaValue": 3
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar",
+      "metaValue": 4
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar",
+      "metaValue": 5
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar",
+      "metaValue": 6
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar",
+      "metaValue": 7
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar",
+      "metaValue": 8
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar",
+      "metaValue": 9
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar",
+      "metaValue": 10
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar",
+      "metaValue": 11
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar",
+      "metaValue": 12
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar",
+      "metaValue": 13
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar",
+      "metaValue": 14
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar",
+      "metaValue": 15
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar_slab"
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar_slab",
+      "metaValue": 1
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar_slab",
+      "metaValue": 2
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar_slab",
+      "metaValue": 3
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar_slab",
+      "metaValue": 4
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar_slab",
+      "metaValue": 5
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar_slab",
+      "metaValue": 6
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar_slab",
+      "metaValue": 7
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar_slab",
+      "metaValue": 8
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar_slab",
+      "metaValue": 9
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar_slab",
+      "metaValue": 10
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar_slab",
+      "metaValue": 11
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar_slab",
+      "metaValue": 12
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar_slab",
+      "metaValue": 13
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar_slab",
+      "metaValue": 14
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:marble_pillar_slab",
+      "metaValue": 15
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:rebel"
+    },
+    "energyValue": 39.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:rebel",
+      "metaValue": 1
+    },
+    "energyValue": 39.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:rebel",
+      "metaValue": 2
+    },
+    "energyValue": 39.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:rebel",
+      "metaValue": 3
+    },
+    "energyValue": 39.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:rebel",
+      "metaValue": 4
+    },
+    "energyValue": 39.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:netherrack",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:netherrack",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:netherrack",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:netherrack",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:netherrack",
+      "metaValue": 5
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:netherrack",
+      "metaValue": 6
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:netherrack",
+      "metaValue": 7
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:netherrack",
+      "metaValue": 8
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:netherrack",
+      "metaValue": 9
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:netherrack",
+      "metaValue": 10
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:netherrack",
+      "metaValue": 11
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:netherrack",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:netherrack",
+      "metaValue": 13
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:netherrack",
+      "metaValue": 14
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:netherrack",
+      "metaValue": 15
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:obsidian",
+      "metaValue": 1
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:obsidian",
+      "metaValue": 2
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:obsidian",
+      "metaValue": 3
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:obsidian",
+      "metaValue": 4
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:obsidian",
+      "metaValue": 5
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:obsidian",
+      "metaValue": 6
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:obsidian",
+      "metaValue": 7
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:obsidian",
+      "metaValue": 8
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:obsidian",
+      "metaValue": 9
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:obsidian",
+      "metaValue": 10
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:obsidian",
+      "metaValue": 11
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:obsidian",
+      "metaValue": 12
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:obsidian",
+      "metaValue": 13
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:obsidian",
+      "metaValue": 14
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:obsidian",
+      "metaValue": 15
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:paperwall"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:paperwall",
+      "metaValue": 1
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:paperwall",
+      "metaValue": 2
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:paperwall",
+      "metaValue": 3
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:paperwall",
+      "metaValue": 4
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:paperwall",
+      "metaValue": 5
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:paperwall",
+      "metaValue": 6
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:paperwall",
+      "metaValue": 7
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:paperwall",
+      "metaValue": 8
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:paperwall_block"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:paperwall_block",
+      "metaValue": 1
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:paperwall_block",
+      "metaValue": 2
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:paperwall_block",
+      "metaValue": 3
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:paperwall_block",
+      "metaValue": 4
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:paperwall_block",
+      "metaValue": 5
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:paperwall_block",
+      "metaValue": 6
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:paperwall_block",
+      "metaValue": 7
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:paperwall_block",
+      "metaValue": 8
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:present",
+      "metaValue": 4
+    },
+    "energyValue": 80.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:pumpkin1"
+    },
+    "energyValue": 144.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:pumpkin2"
+    },
+    "energyValue": 144.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:pumpkin3"
+    },
+    "energyValue": 144.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:pumpkin4"
+    },
+    "energyValue": 144.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:pumpkin5"
+    },
+    "energyValue": 144.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:pumpkin6"
+    },
+    "energyValue": 144.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:pumpkin7"
+    },
+    "energyValue": 144.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:pumpkin8"
+    },
+    "energyValue": 144.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:pumpkin9"
+    },
+    "energyValue": 144.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:pumpkin10"
+    },
+    "energyValue": 144.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:pumpkin11"
+    },
+    "energyValue": 144.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:pumpkin12"
+    },
+    "energyValue": 144.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:pumpkin13"
+    },
+    "energyValue": 144.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:pumpkin14"
+    },
+    "energyValue": 144.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:pumpkin15"
+    },
+    "energyValue": 144.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:pumpkin16"
+    },
+    "energyValue": 144.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:redstone_block",
+      "metaValue": 1
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:redstone_block",
+      "metaValue": 2
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:redstone_block",
+      "metaValue": 3
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:redstone_block",
+      "metaValue": 4
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:redstone_block",
+      "metaValue": 5
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:redstone_block",
+      "metaValue": 6
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:redstone_block",
+      "metaValue": 7
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:redstone_block",
+      "metaValue": 8
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:redstone_block",
+      "metaValue": 9
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:redstone_block",
+      "metaValue": 10
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:redstone_block",
+      "metaValue": 11
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:redstone_block",
+      "metaValue": 12
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:redstone_block",
+      "metaValue": 13
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:redstone_block",
+      "metaValue": 14
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:redstone_block",
+      "metaValue": 15
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:road_line"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:road_line",
+      "metaValue": 1
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:road_line",
+      "metaValue": 2
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:road_line",
+      "metaValue": 3
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone",
+      "metaValue": 1
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone",
+      "metaValue": 2
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone",
+      "metaValue": 3
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone",
+      "metaValue": 4
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone",
+      "metaValue": 5
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone",
+      "metaValue": 6
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone",
+      "metaValue": 7
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone",
+      "metaValue": 8
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone",
+      "metaValue": 9
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone",
+      "metaValue": 10
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone",
+      "metaValue": 11
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone",
+      "metaValue": 12
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone",
+      "metaValue": 13
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone",
+      "metaValue": 14
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone",
+      "metaValue": 15
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone_scribbles"
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone_scribbles",
+      "metaValue": 1
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone_scribbles",
+      "metaValue": 2
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone_scribbles",
+      "metaValue": 3
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone_scribbles",
+      "metaValue": 4
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone_scribbles",
+      "metaValue": 5
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone_scribbles",
+      "metaValue": 6
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone_scribbles",
+      "metaValue": 7
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone_scribbles",
+      "metaValue": 8
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone_scribbles",
+      "metaValue": 9
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone_scribbles",
+      "metaValue": 10
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone_scribbles",
+      "metaValue": 11
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone_scribbles",
+      "metaValue": 12
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone_scribbles",
+      "metaValue": 13
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone_scribbles",
+      "metaValue": 14
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sandstone_scribbles",
+      "metaValue": 15
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sand_snakestone",
+      "metaValue": 1
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:sand_snakestone",
+      "metaValue": 13
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stonebricksmooth"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stonebricksmooth",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stonebricksmooth",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stonebricksmooth",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stonebricksmooth",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stonebricksmooth",
+      "metaValue": 5
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stonebricksmooth",
+      "metaValue": 6
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stonebricksmooth",
+      "metaValue": 7
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stonebricksmooth",
+      "metaValue": 8
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stonebricksmooth",
+      "metaValue": 9
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stonebricksmooth",
+      "metaValue": 10
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stonebricksmooth",
+      "metaValue": 11
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stonebricksmooth",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stonebricksmooth",
+      "metaValue": 13
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stonebricksmooth",
+      "metaValue": 14
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:stonebricksmooth",
+      "metaValue": 15
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:technical"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:technical",
+      "metaValue": 1
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:technical",
+      "metaValue": 2
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:technical",
+      "metaValue": 3
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:technical",
+      "metaValue": 4
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:technical",
+      "metaValue": 5
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:technical",
+      "metaValue": 6
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:technical",
+      "metaValue": 7
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:technical",
+      "metaValue": 8
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:technical",
+      "metaValue": 9
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:technical",
+      "metaValue": 10
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:technical",
+      "metaValue": 11
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:technical",
+      "metaValue": 12
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:technical",
+      "metaValue": 13
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:technical",
+      "metaValue": 14
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:technical",
+      "metaValue": 15
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:technical2"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:technical2",
+      "metaValue": 1
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:technical2",
+      "metaValue": 2
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:technical2",
+      "metaValue": 3
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:templeblock"
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:templeblock",
+      "metaValue": 1
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:templeblock",
+      "metaValue": 2
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:templeblock",
+      "metaValue": 3
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:templeblock",
+      "metaValue": 4
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:templeblock",
+      "metaValue": 5
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:templeblock",
+      "metaValue": 6
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:templeblock",
+      "metaValue": 7
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:templeblock",
+      "metaValue": 8
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:templeblock",
+      "metaValue": 9
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:templeblock",
+      "metaValue": 10
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:templeblock",
+      "metaValue": 11
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:templeblock",
+      "metaValue": 12
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:templeblock",
+      "metaValue": 13
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:templeblock",
+      "metaValue": 14
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:templeblock",
+      "metaValue": 15
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_templeblock"
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_templeblock",
+      "metaValue": 1
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_templeblock",
+      "metaValue": 2
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_templeblock",
+      "metaValue": 3
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_templeblock",
+      "metaValue": 4
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_templeblock",
+      "metaValue": 5
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_templeblock",
+      "metaValue": 6
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_templeblock",
+      "metaValue": 7
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_templeblock",
+      "metaValue": 8
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_templeblock",
+      "metaValue": 9
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_templeblock",
+      "metaValue": 10
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_templeblock",
+      "metaValue": 11
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_templeblock",
+      "metaValue": 12
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_templeblock",
+      "metaValue": 13
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_templeblock",
+      "metaValue": 14
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:mossy_templeblock",
+      "metaValue": 15
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:torch1"
+    },
+    "energyValue": 9.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:torch2"
+    },
+    "energyValue": 9.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:torch3"
+    },
+    "energyValue": 9.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:torch4"
+    },
+    "energyValue": 9.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:torch5"
+    },
+    "energyValue": 9.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:torch6"
+    },
+    "energyValue": 9.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:torch7"
+    },
+    "energyValue": 9.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:torch8"
+    },
+    "energyValue": 9.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:torch9"
+    },
+    "energyValue": 9.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:torch10"
+    },
+    "energyValue": 9.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:tyrian"
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:tyrian",
+      "metaValue": 1
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:tyrian",
+      "metaValue": 2
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:tyrian",
+      "metaValue": 3
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:tyrian",
+      "metaValue": 4
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:tyrian",
+      "metaValue": 5
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:tyrian",
+      "metaValue": 6
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:tyrian",
+      "metaValue": 7
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:tyrian",
+      "metaValue": 8
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:tyrian",
+      "metaValue": 9
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:tyrian",
+      "metaValue": 10
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:tyrian",
+      "metaValue": 11
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:tyrian",
+      "metaValue": 12
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:tyrian",
+      "metaValue": 13
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:tyrian",
+      "metaValue": 14
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:tyrian",
+      "metaValue": 15
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:valentines"
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:valentines",
+      "metaValue": 1
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:valentines",
+      "metaValue": 2
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:valentines",
+      "metaValue": 3
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:valentines",
+      "metaValue": 4
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:valentines",
+      "metaValue": 5
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:valentines",
+      "metaValue": 6
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:valentines",
+      "metaValue": 7
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:valentines",
+      "metaValue": 8
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:valentines",
+      "metaValue": 9
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:voidstone"
+    },
+    "energyValue": 160.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:voidstone",
+      "metaValue": 1
+    },
+    "energyValue": 160.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:voidstone",
+      "metaValue": 2
+    },
+    "energyValue": 160.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:voidstone",
+      "metaValue": 3
+    },
+    "energyValue": 160.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:voidstone",
+      "metaValue": 4
+    },
+    "energyValue": 160.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:voidstone",
+      "metaValue": 5
+    },
+    "energyValue": 160.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:voidstone",
+      "metaValue": 6
+    },
+    "energyValue": 160.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:voidstone",
+      "metaValue": 7
+    },
+    "energyValue": 160.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:voidstone2"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:voidstone2",
+      "metaValue": 1
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:voidstone2",
+      "metaValue": 2
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:voidstone2",
+      "metaValue": 3
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:voidstone2",
+      "metaValue": 4
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:voidstone2",
+      "metaValue": 5
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:voidstone2",
+      "metaValue": 6
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:voidstone2",
+      "metaValue": 7
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:warningSign"
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:warningSign",
+      "metaValue": 1
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:warningSign",
+      "metaValue": 2
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:warningSign",
+      "metaValue": 3
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:warningSign",
+      "metaValue": 4
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:warningSign",
+      "metaValue": 5
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:warningSign",
+      "metaValue": 6
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:warningSign",
+      "metaValue": 7
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:warningSign",
+      "metaValue": 8
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:warningSign",
+      "metaValue": 9
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:warningSign",
+      "metaValue": 10
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:warningSign",
+      "metaValue": 11
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:warningSign",
+      "metaValue": 12
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:warningSign",
+      "metaValue": 13
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:warningSign",
+      "metaValue": 14
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:waterstone"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:waterstone",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:waterstone",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:waterstone",
+      "metaValue": 3
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:waterstone",
+      "metaValue": 4
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:waterstone",
+      "metaValue": 5
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:waterstone",
+      "metaValue": 6
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:oak_planks",
+      "metaValue": 1
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:oak_planks",
+      "metaValue": 2
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:oak_planks",
+      "metaValue": 3
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:oak_planks",
+      "metaValue": 4
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:oak_planks",
+      "metaValue": 5
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:oak_planks",
+      "metaValue": 6
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:oak_planks",
+      "metaValue": 7
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:oak_planks",
+      "metaValue": 8
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:oak_planks",
+      "metaValue": 9
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:oak_planks",
+      "metaValue": 10
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:oak_planks",
+      "metaValue": 11
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:oak_planks",
+      "metaValue": 12
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:oak_planks",
+      "metaValue": 13
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:oak_planks",
+      "metaValue": 14
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:oak_planks",
+      "metaValue": 15
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:spruce_planks",
+      "metaValue": 1
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:spruce_planks",
+      "metaValue": 2
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:spruce_planks",
+      "metaValue": 3
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:spruce_planks",
+      "metaValue": 4
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:spruce_planks",
+      "metaValue": 5
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:spruce_planks",
+      "metaValue": 6
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:spruce_planks",
+      "metaValue": 7
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:spruce_planks",
+      "metaValue": 8
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:spruce_planks",
+      "metaValue": 9
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:spruce_planks",
+      "metaValue": 10
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:spruce_planks",
+      "metaValue": 11
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:spruce_planks",
+      "metaValue": 12
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:spruce_planks",
+      "metaValue": 13
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:spruce_planks",
+      "metaValue": 14
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:spruce_planks",
+      "metaValue": 15
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:birch_planks",
+      "metaValue": 1
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:birch_planks",
+      "metaValue": 2
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:birch_planks",
+      "metaValue": 3
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:birch_planks",
+      "metaValue": 4
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:birch_planks",
+      "metaValue": 5
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:birch_planks",
+      "metaValue": 6
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:birch_planks",
+      "metaValue": 7
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:birch_planks",
+      "metaValue": 8
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:birch_planks",
+      "metaValue": 9
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:birch_planks",
+      "metaValue": 10
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:birch_planks",
+      "metaValue": 11
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:birch_planks",
+      "metaValue": 12
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:birch_planks",
+      "metaValue": 13
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:birch_planks",
+      "metaValue": 14
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:birch_planks",
+      "metaValue": 15
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jungle_planks",
+      "metaValue": 1
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jungle_planks",
+      "metaValue": 2
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jungle_planks",
+      "metaValue": 3
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jungle_planks",
+      "metaValue": 4
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jungle_planks",
+      "metaValue": 5
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jungle_planks",
+      "metaValue": 6
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jungle_planks",
+      "metaValue": 7
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jungle_planks",
+      "metaValue": 8
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jungle_planks",
+      "metaValue": 9
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jungle_planks",
+      "metaValue": 10
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jungle_planks",
+      "metaValue": 11
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jungle_planks",
+      "metaValue": 12
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jungle_planks",
+      "metaValue": 13
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jungle_planks",
+      "metaValue": 14
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:jungle_planks",
+      "metaValue": 15
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:acacia_planks",
+      "metaValue": 1
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:acacia_planks",
+      "metaValue": 2
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:acacia_planks",
+      "metaValue": 3
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:acacia_planks",
+      "metaValue": 4
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:acacia_planks",
+      "metaValue": 5
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:acacia_planks",
+      "metaValue": 6
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:acacia_planks",
+      "metaValue": 7
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:acacia_planks",
+      "metaValue": 8
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:acacia_planks",
+      "metaValue": 9
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:acacia_planks",
+      "metaValue": 10
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:acacia_planks",
+      "metaValue": 11
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:acacia_planks",
+      "metaValue": 12
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:acacia_planks",
+      "metaValue": 13
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:acacia_planks",
+      "metaValue": 14
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:acacia_planks",
+      "metaValue": 15
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dark_oak_planks",
+      "metaValue": 1
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dark_oak_planks",
+      "metaValue": 2
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dark_oak_planks",
+      "metaValue": 3
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dark_oak_planks",
+      "metaValue": 4
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dark_oak_planks",
+      "metaValue": 5
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dark_oak_planks",
+      "metaValue": 6
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dark_oak_planks",
+      "metaValue": 7
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dark_oak_planks",
+      "metaValue": 8
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dark_oak_planks",
+      "metaValue": 9
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dark_oak_planks",
+      "metaValue": 10
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dark_oak_planks",
+      "metaValue": 11
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dark_oak_planks",
+      "metaValue": 12
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dark_oak_planks",
+      "metaValue": 13
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dark_oak_planks",
+      "metaValue": 14
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:dark_oak_planks",
+      "metaValue": 15
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:woolen_clay"
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:woolen_clay",
+      "metaValue": 1
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:woolen_clay",
+      "metaValue": 2
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:woolen_clay",
+      "metaValue": 3
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:woolen_clay",
+      "metaValue": 4
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:woolen_clay",
+      "metaValue": 5
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:woolen_clay",
+      "metaValue": 6
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:woolen_clay",
+      "metaValue": 7
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:woolen_clay",
+      "metaValue": 8
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:woolen_clay",
+      "metaValue": 9
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:woolen_clay",
+      "metaValue": 10
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:woolen_clay",
+      "metaValue": 11
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:woolen_clay",
+      "metaValue": 12
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:woolen_clay",
+      "metaValue": 13
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:woolen_clay",
+      "metaValue": 14
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:woolen_clay",
+      "metaValue": 15
+    },
+    "energyValue": 153.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:treatedWood",
+      "metaValue": 32767
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:stoneDevice",
+      "metaValue": 4
+    },
+    "energyValue": 265.0
+  },
+  {
+    "itemstack": {
+      "name": "ForbiddenMagic:StarBlock"
+    },
+    "energyValue": 221184.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalDust"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalDust",
+      "metaValue": 1
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalDust",
+      "metaValue": 2
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalDust",
+      "metaValue": 3
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:shardMinium"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemManaBean"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemWispEssence"
+    },
+    "energyValue": 1024.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemResource",
+      "metaValue": 3
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemResource",
+      "metaValue": 4
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemResource",
+      "metaValue": 6
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemResource",
+      "metaValue": 7
+    },
+    "energyValue": 112.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemResource",
+      "metaValue": 8
+    },
+    "energyValue": 2056.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemResource",
+      "metaValue": 9
+    },
+    "energyValue": 5120.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemResource",
+      "metaValue": 11
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemResource",
+      "metaValue": 12
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemResource",
+      "metaValue": 18
+    },
+    "energyValue": 227.556
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemShard"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemShard",
+      "metaValue": 1
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemShard",
+      "metaValue": 2
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemShard",
+      "metaValue": 3
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemShard",
+      "metaValue": 4
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemShard",
+      "metaValue": 5
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemZombieBrain"
+    },
+    "energyValue": 1024.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemHelmetCultistRobe"
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemChestplateCultistRobe"
+    },
+    "energyValue": 2304.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemLeggingsCultistRobe"
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemBootsCultist"
+    },
+    "energyValue": 1280.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemHelmetCultistPlate"
+    },
+    "energyValue": 1280.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemChestplateCultistPlate"
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemLeggingsCultistPlate"
+    },
+    "energyValue": 1792.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemHelmetCultistLeaderPlate"
+    },
+    "energyValue": 49152.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemChestplateCultistLeaderPlate"
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemLeggingsCultistLeaderPlate"
+    },
+    "energyValue": 65536.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemSwordCrimson"
+    },
+    "energyValue": 24580.0
+  },
+  {
+    "itemstack": {
+      "name": "chisel:ballomoss"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 64
+    },
+    "energyValue": 128.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 65
+    },
+    "energyValue": 192.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 66
+    },
+    "energyValue": 512.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 67
+    },
+    "energyValue": 512.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 68
+    },
+    "energyValue": 1024.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 69
+    },
+    "energyValue": 16384.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 70
+    },
+    "energyValue": 16384.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 1024
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "ExtraUtilities:mini-soul"
+    },
+    "energyValue": 1515413.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:metal"
+    },
+    "energyValue": 128.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:metal",
+      "metaValue": 1
+    },
+    "energyValue": 192.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:metal",
+      "metaValue": 2
+    },
+    "energyValue": 512.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:metal",
+      "metaValue": 3
+    },
+    "energyValue": 512.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:metal",
+      "metaValue": 4
+    },
+    "energyValue": 1024.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:metal",
+      "metaValue": 5
+    },
+    "energyValue": 576.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:metal",
+      "metaValue": 6
+    },
+    "energyValue": 1280.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:metal",
+      "metaValue": 7
+    },
+    "energyValue": 320.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:metal",
+      "metaValue": 20
+    },
+    "energyValue": 384.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:material",
+      "metaValue": 3
+    },
+    "energyValue": 12.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:material",
+      "metaValue": 6
+    },
+    "energyValue": 48.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:material",
+      "metaValue": 13
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:seed"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:bullet"
+    },
+    "energyValue": 213.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:bullet",
+      "metaValue": 1
+    },
+    "energyValue": 96.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:bullet",
+      "metaValue": 2
+    },
+    "energyValue": 518.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:bullet",
+      "metaValue": 3
+    },
+    "energyValue": 604.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:bullet",
+      "metaValue": 4
+    },
+    "energyValue": 544.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:bullet",
+      "metaValue": 5
+    },
+    "energyValue": 1369.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:bullet",
+      "metaValue": 6
+    },
+    "energyValue": 672.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:bullet",
+      "metaValue": 7
+    },
+    "energyValue": 2737.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:bullet",
+      "metaValue": 8
+    },
+    "energyValue": 11236.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:bullet",
+      "metaValue": 9
+    },
+    "energyValue": 574.0
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:bullet",
+      "metaValue": 10
+    },
+    "energyValue": 662.0
+  },
+  {
+    "itemstack": {
+      "name": "ForbiddenMagic:NetherShard"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "ForbiddenMagic:NetherShard",
+      "metaValue": 1
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "ForbiddenMagic:NetherShard",
+      "metaValue": 2
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "ForbiddenMagic:NetherShard",
+      "metaValue": 3
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "ForbiddenMagic:NetherShard",
+      "metaValue": 4
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "ForbiddenMagic:NetherShard",
+      "metaValue": 5
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "ForbiddenMagic:NetherShard",
+      "metaValue": 6
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "ForbiddenMagic:GluttonyShard"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "PneumaticCraft:plasticPlant"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "PneumaticCraft:plasticPlant",
+      "metaValue": 1
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "PneumaticCraft:plasticPlant",
+      "metaValue": 2
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "PneumaticCraft:plasticPlant",
+      "metaValue": 3
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "PneumaticCraft:plasticPlant",
+      "metaValue": 4
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "PneumaticCraft:plasticPlant",
+      "metaValue": 5
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "PneumaticCraft:plasticPlant",
+      "metaValue": 6
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "PneumaticCraft:plasticPlant",
+      "metaValue": 8
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "PneumaticCraft:plasticPlant",
+      "metaValue": 9
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "PneumaticCraft:plasticPlant",
+      "metaValue": 10
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "PneumaticCraft:plasticPlant",
+      "metaValue": 11
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "PneumaticCraft:plasticPlant",
+      "metaValue": 12
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "PneumaticCraft:plasticPlant",
+      "metaValue": 14
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "PneumaticCraft:plasticPlant",
+      "metaValue": 15
+    },
+    "energyValue": 16.0
+  }
+]

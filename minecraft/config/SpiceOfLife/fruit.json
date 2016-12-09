@@ -1,0 +1,16 @@
+{
+	"food":{
+		"oredict":[
+			"listAllfruit",
+			"cropAvocado"
+		]
+	},
+	"exclude":{
+		"oredict":[
+			"listAllberry"
+		]
+	},
+	"name" : "Fruit",
+	"enabled" : true,
+	"color" : "red"
+}
