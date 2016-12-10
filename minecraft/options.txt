@@ -3,7 +3,7 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:1.0
 saturation:0.0
-renderDistance:8
+renderDistance:16
 guiScale:0
 particles:0
 bobView:true
@@ -11,11 +11,11 @@ anaglyph3d:false
 advancedOpengl:false
 maxFps:260
 fboEnable:true
-difficulty:3
+difficulty:2
 fancyGraphics:true
 ao:2
 clouds:true
-resourcePacks:["HEE Music v1.0.zip"]
+resourcePacks:["Faithful.zip"]
 lastServer:localhost
 lang:en_US
 chatVisibility:0
@@ -71,8 +71,8 @@ key_key.screenshot:60
 key_key.togglePerspective:63
 key_key.smoothCamera:0
 key_key.sprint:29
-key_key.streamStartStop:70
-key_key.streamPauseUnpause:197
+key_key.streamStartStop:64
+key_key.streamPauseUnpause:65
 key_key.streamCommercial:0
 key_key.streamToggleMic:0
 key_key.fullscreen:87
@@ -130,7 +130,7 @@ key_Debug Key:68
 key_Reload Models Key:67
 key_Gravi Fly Key:33
 key_Gravi Display Hud:35
-key_igwmod.keys.wiki:27
+key_igwmod.keys.wiki:23
 key_key.open_menu:19
 key_CharacterScreen:88
 key_MPM 1:44
@@ -151,7 +151,7 @@ key_simplyjetpacks.keybind.openPackGUI:22
 key_key.sapmanpack.updateKey:22
 key_Baubles Inventory:48
 key_Change Wand Focus:33
-key_Activate Hover Harness:41
+key_Activate Hover Harness:35
 key_Misc Wand Toggle:34
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
@@ -164,6 +164,7 @@ key_TG.keybind.activeaAbilities:19
 key_key.placeItem:25
 key_key.toolConfig:46
 key_key.toolProfileChange:43
+key_key.toggleFlight:0
 key_Glider Toggle:34
 key_Sound Locator:38
 key_Night Vision:25
@@ -173,9 +174,6 @@ key_Speed:0
 key_Jump:0
 key_Yeta Wrench Mode:21
 key_Toggle Electromagnet:0
-key_Reload Configs:78
-key_Add Custom Config:83
-key_Enviromine Menu:74
 key_key.tarmor:24
 key_key.tgoggles:34
 key_key.tbelt:48
@@ -212,20 +210,20 @@ key_railcraft.keybind.loco.slower:51
 key_railcraft.keybind.loco.mode:50
 key_railcraft.keybind.loco.whistle:49
 key_key.control:29
-key_enchiridion.key.wiki:59
+key_enchiridion.key.wiki:35
 key_key.journeymap.map_toggle:50
-key_key.journeymap.zoom_in:55
+key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
-key_key.journeymap.minimap_type:55
-key_key.journeymap.minimap_type:55
+key_key.journeymap.minimap_type:27
+key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_preset:43
-key_key.journeymap.create_waypoint:36
+key_key.journeymap.create_waypoint:48
 key_key.activate:47
 key_key.toggle:21
-key_BetterFps:28
-soundCategory_master:0.0
-soundCategory_music:1.0
-soundCategory_record:1.0
+key_BetterFps:88
+soundCategory_master:1.0
+soundCategory_music:0.6056338
+soundCategory_record:0.4084507
 soundCategory_weather:1.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0

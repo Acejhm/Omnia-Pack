@@ -10,7 +10,6 @@ Found creative tab: misc
 Found creative tab: IC2
 Found creative tab: agricraft
 Found creative tab: materials
-Found creative tab: combat
 Found creative tab: archimedesTab
 Found creative tab: Automagy
 Found creative tab: tools
@@ -34,6 +33,7 @@ Found creative tab: buildcraft.gates
 Found creative tab: CarpentersBlocks
 Found creative tab: decorations
 Found creative tab: CaveDecorations
+Found creative tab: combat
 Found creative tab: Deeper Caves Ores
 Found creative tab: Deeper Caves Blocks
 Found creative tab: Deeper Caves Items
@@ -167,7 +167,6 @@ Found creative tab: dendrology
 Found creative tab: storageDrawersAncientTrees
 Found creative tab: tabDesertcraft
 Found creative tab: doggytalents
-Found creative tab: enviromine.enviroTab
 Found creative tab: Eureka
 Found creative tab: Extra_Cells
 Found creative tab: tabFlan3
@@ -217,17 +216,17 @@ override called. Params: ThermalExpansion, florb, 0,1
 Regex match found! ThermalExpansion:florb matches ThermalExpansion:florb.
 Found ItemStack ThermalExpansion:florb. 16xitem.thermalexpansion.florb@0
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: ImmersiveEngineering:stoneDecoration_4
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ImmersiveEngineering:stoneDecoration_4
+getRandomMaterial called. Returned: ImmersiveEngineering:storage_1
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ImmersiveEngineering:storage_1
 Loading: ExtraUtilities.js
 override called. Params: ExtraUtilities, drum, 0,1
 Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
-Found ItemStack ExtraUtilities:drum. 16xtile.extrautils:drum@0
-getRandomMaterial called. Returned: ImmersiveEngineering:stoneDecoration
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, ImmersiveEngineering:stoneDecoration
+Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
+getRandomMaterial called. Returned: ImmersiveEngineering:storage_2
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, ImmersiveEngineering:storage_2
 Loading: BuildCraft.js
-getFacadesSize called. Returned: 4848
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 1265
+getFacadesSize called. Returned: 4846
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 1068
 Loading: Bibliocraft.js
 override called. Params: BiblioCraft, *, 0
 Regex match found! BiblioCraft:* matches BiblioCraft:Armor Stand.
@@ -295,39 +294,39 @@ Regex match found! BiblioCraft:* matches BiblioCraft:item.seatBack5.
 Regex match found! BiblioCraft:* matches BiblioCraft:item.tape.
 Regex match found! BiblioCraft:* matches BiblioCraft:item.tapeMeasure.
 Regex match found! BiblioCraft:* matches BiblioCraft:tile.BiblioFramedChest.
-Found ItemStack BiblioCraft:Armor Stand. 16xtile.BiblioArmorStand@0
-Found ItemStack BiblioCraft:BiblioBell. 11xtile.BiblioBell@0
-Found ItemStack BiblioCraft:BiblioBorderlessPainting. 32xtile.BiblioBorderlessPainting@0
-Found ItemStack BiblioCraft:BiblioCase. 32xtile.BiblioCase@0
-Found ItemStack BiblioCraft:BiblioClipboard. 32xtile.BiblioClipboard@0
-Found ItemStack BiblioCraft:BiblioClock. 32xtile.BiblioClock@0
-Found ItemStack BiblioCraft:BiblioDesk. 32xtile.BiblioDesk@0
-Found ItemStack BiblioCraft:BiblioFancyPainting. 32xtile.BiblioFancyPainting@0
-Found ItemStack BiblioCraft:BiblioFancySign. 32xtile.BiblioFancySign@0
-Found ItemStack BiblioCraft:BiblioFlatPainting. 32xtile.BiblioFlatPainting@0
-Found ItemStack BiblioCraft:BiblioIronLamp. 11xtile.BiblioIronLamp@0
-Found ItemStack BiblioCraft:BiblioIronLantern. 11xtile.BiblioIronLantern@0
-Found ItemStack BiblioCraft:BiblioLabel. 32xtile.BiblioLabel@0
-Found ItemStack BiblioCraft:BiblioLamp. 11xtile.BiblioLamp@0
-Found ItemStack BiblioCraft:BiblioLantern. 11xtile.BiblioLantern@0
-Found ItemStack BiblioCraft:BiblioMapFrames. 32xtile.BiblioMapFrames@0
-Found ItemStack BiblioCraft:BiblioMiddlePainting. 32xtile.BiblioMiddlePainting@0
-Found ItemStack BiblioCraft:BiblioPaintPress. 11xtile.BiblioPaintPress@0
-Found ItemStack BiblioCraft:BiblioPaneler. 32xtile.BiblioPaneler@0
-Found ItemStack BiblioCraft:BiblioPotionShelf. 32xtile.BiblioPotionShelf@0
-Found ItemStack BiblioCraft:BiblioRack. 32xtile.BiblioRack@0
-Found ItemStack BiblioCraft:BiblioSeats. 32xtile.BiblioSeats@0
-Found ItemStack BiblioCraft:BiblioShelf. 32xtile.BiblioShelf@0
-Found ItemStack BiblioCraft:BiblioSimplePainting. 32xtile.BiblioSimplePainting@0
-Found ItemStack BiblioCraft:BiblioStuffs. 16xtile.BiblioStuffs@0
-Found ItemStack BiblioCraft:BiblioSwordPedestal. 16xtile.BiblioSwordPedestal@0
-Found ItemStack BiblioCraft:BiblioTable. 32xtile.BiblioTable@0
-Found ItemStack BiblioCraft:BiblioTypewriter. 11xtile.BiblioTypewriter@0
-Found ItemStack BiblioCraft:BiblioWorkbench. 32xtile.BiblioWorkbench@0
-Found ItemStack BiblioCraft:Bibliotheca. 32xtile.BiblioBookcase@0
-Found ItemStack BiblioCraft:BookcaseFilled. 32xtile.BookcaseFilled@0
-Found ItemStack BiblioCraft:Printing Press. 11xtile.BiblioPress@0
-Found ItemStack BiblioCraft:Typesetting Machine. 32xtile.BiblioType@0
+Found ItemStack BiblioCraft:Armor Stand. 64xtile.BiblioArmorStand@0
+Found ItemStack BiblioCraft:BiblioBell. 64xtile.BiblioBell@0
+Found ItemStack BiblioCraft:BiblioBorderlessPainting. 64xtile.BiblioBorderlessPainting@0
+Found ItemStack BiblioCraft:BiblioCase. 64xtile.BiblioCase@0
+Found ItemStack BiblioCraft:BiblioClipboard. 64xtile.BiblioClipboard@0
+Found ItemStack BiblioCraft:BiblioClock. 64xtile.BiblioClock@0
+Found ItemStack BiblioCraft:BiblioDesk. 64xtile.BiblioDesk@0
+Found ItemStack BiblioCraft:BiblioFancyPainting. 64xtile.BiblioFancyPainting@0
+Found ItemStack BiblioCraft:BiblioFancySign. 64xtile.BiblioFancySign@0
+Found ItemStack BiblioCraft:BiblioFlatPainting. 64xtile.BiblioFlatPainting@0
+Found ItemStack BiblioCraft:BiblioIronLamp. 64xtile.BiblioIronLamp@0
+Found ItemStack BiblioCraft:BiblioIronLantern. 64xtile.BiblioIronLantern@0
+Found ItemStack BiblioCraft:BiblioLabel. 64xtile.BiblioLabel@0
+Found ItemStack BiblioCraft:BiblioLamp. 64xtile.BiblioLamp@0
+Found ItemStack BiblioCraft:BiblioLantern. 64xtile.BiblioLantern@0
+Found ItemStack BiblioCraft:BiblioMapFrames. 64xtile.BiblioMapFrames@0
+Found ItemStack BiblioCraft:BiblioMiddlePainting. 64xtile.BiblioMiddlePainting@0
+Found ItemStack BiblioCraft:BiblioPaintPress. 64xtile.BiblioPaintPress@0
+Found ItemStack BiblioCraft:BiblioPaneler. 64xtile.BiblioPaneler@0
+Found ItemStack BiblioCraft:BiblioPotionShelf. 64xtile.BiblioPotionShelf@0
+Found ItemStack BiblioCraft:BiblioRack. 64xtile.BiblioRack@0
+Found ItemStack BiblioCraft:BiblioSeats. 64xtile.BiblioSeats@0
+Found ItemStack BiblioCraft:BiblioShelf. 64xtile.BiblioShelf@0
+Found ItemStack BiblioCraft:BiblioSimplePainting. 64xtile.BiblioSimplePainting@0
+Found ItemStack BiblioCraft:BiblioStuffs. 64xtile.BiblioStuffs@0
+Found ItemStack BiblioCraft:BiblioSwordPedestal. 64xtile.BiblioSwordPedestal@0
+Found ItemStack BiblioCraft:BiblioTable. 64xtile.BiblioTable@0
+Found ItemStack BiblioCraft:BiblioTypewriter. 64xtile.BiblioTypewriter@0
+Found ItemStack BiblioCraft:BiblioWorkbench. 64xtile.BiblioWorkbench@0
+Found ItemStack BiblioCraft:Bibliotheca. 64xtile.BiblioBookcase@0
+Found ItemStack BiblioCraft:BookcaseFilled. 64xtile.BookcaseFilled@0
+Found ItemStack BiblioCraft:Printing Press. 64xtile.BiblioPress@0
+Found ItemStack BiblioCraft:Typesetting Machine. 64xtile.BiblioType@0
 Found ItemStack BiblioCraft:item.AtlasBook. 1xitem.AtlasBook@0
 Found ItemStack BiblioCraft:item.AtlasPlate. 1xitem.AtlasPlate@0
 Found ItemStack BiblioCraft:item.BiblioChase. 64xitem.BiblioChase@0
@@ -359,7 +358,7 @@ Found ItemStack BiblioCraft:item.seatBack4. 64xitem.seatBack@0
 Found ItemStack BiblioCraft:item.seatBack5. 64xitem.seatBack@0
 Found ItemStack BiblioCraft:item.tape. 64xitem.tape@0
 Found ItemStack BiblioCraft:item.tapeMeasure. 1xitem.tapeMeasure@0
-Found ItemStack BiblioCraft:tile.BiblioFramedChest. 32xtile.BiblioFramedChest@0
+Found ItemStack BiblioCraft:tile.BiblioFramedChest. 64xtile.BiblioFramedChest@0
 hide called. Params: BiblioWoodsBoP, *
 Regex match found! BiblioWoodsBoP:* matches BiblioWoodsBoP:BiblioWoodBookcase.
 Regex match found! BiblioWoodsBoP:* matches BiblioWoodsBoP:BiblioWoodClock.
@@ -384,24 +383,24 @@ Regex match found! BiblioWoodsBoP:* matches BiblioWoodsBoP:seatBack2.
 Regex match found! BiblioWoodsBoP:* matches BiblioWoodsBoP:seatBack3.
 Regex match found! BiblioWoodsBoP:* matches BiblioWoodsBoP:seatBack4.
 Regex match found! BiblioWoodsBoP:* matches BiblioWoodsBoP:seatBack5.
-Found ItemStack BiblioWoodsBoP:BiblioWoodBookcase. 32xtile.BiblioWoodBookcase@0
-Found ItemStack BiblioWoodsBoP:BiblioWoodClock. 32xtile.BiblioWoodClock@0
-Found ItemStack BiblioWoodsBoP:BiblioWoodFancySign. 32xtile.BiblioWoodFancySign@0
-Found ItemStack BiblioWoodsBoP:BiblioWoodFancyWorkbench. 32xtile.BiblioWoodFancyWorkbench@0
-Found ItemStack BiblioWoodsBoP:BiblioWoodMapFrame. 32xtile.BiblioWoodMapFrame@0
-Found ItemStack BiblioWoodsBoP:BiblioWoodPaintingT0. 32xtile.BiblioWoodPaintingT0@0
-Found ItemStack BiblioWoodsBoP:BiblioWoodPaintingT1. 32xtile.BiblioWoodPaintingT1@0
-Found ItemStack BiblioWoodsBoP:BiblioWoodPaintingT2. 32xtile.BiblioWoodPaintingT2@0
-Found ItemStack BiblioWoodsBoP:BiblioWoodPaintingT3. 32xtile.BiblioWoodPaintingT3@0
-Found ItemStack BiblioWoodsBoP:BiblioWoodPaintingT4. 32xtile.BiblioWoodPaintingT4@0
-Found ItemStack BiblioWoodsBoP:BiblioWoodSeat. 32xtile.BiblioWoodSeat@0
-Found ItemStack BiblioWoodsBoP:BiblioWoodcase. 32xtile.BiblioWoodcase@0
-Found ItemStack BiblioWoodsBoP:BiblioWooddesk. 32xtile.BiblioWooddesk@0
-Found ItemStack BiblioWoodsBoP:BiblioWoodlabel. 32xtile.BiblioWoodlabel@0
-Found ItemStack BiblioWoodsBoP:BiblioWoodpotshelf. 32xtile.BiblioWoodpotshelf@0
-Found ItemStack BiblioWoodsBoP:BiblioWoodrack. 32xtile.BiblioWoodrack@0
-Found ItemStack BiblioWoodsBoP:BiblioWoodshelf. 32xtile.BiblioWoodshelf@0
-Found ItemStack BiblioWoodsBoP:BiblioWoodtable. 32xtile.BiblioWoodtable@0
+Found ItemStack BiblioWoodsBoP:BiblioWoodBookcase. 64xtile.BiblioWoodBookcase@0
+Found ItemStack BiblioWoodsBoP:BiblioWoodClock. 64xtile.BiblioWoodClock@0
+Found ItemStack BiblioWoodsBoP:BiblioWoodFancySign. 64xtile.BiblioWoodFancySign@0
+Found ItemStack BiblioWoodsBoP:BiblioWoodFancyWorkbench. 64xtile.BiblioWoodFancyWorkbench@0
+Found ItemStack BiblioWoodsBoP:BiblioWoodMapFrame. 64xtile.BiblioWoodMapFrame@0
+Found ItemStack BiblioWoodsBoP:BiblioWoodPaintingT0. 64xtile.BiblioWoodPaintingT0@0
+Found ItemStack BiblioWoodsBoP:BiblioWoodPaintingT1. 64xtile.BiblioWoodPaintingT1@0
+Found ItemStack BiblioWoodsBoP:BiblioWoodPaintingT2. 64xtile.BiblioWoodPaintingT2@0
+Found ItemStack BiblioWoodsBoP:BiblioWoodPaintingT3. 64xtile.BiblioWoodPaintingT3@0
+Found ItemStack BiblioWoodsBoP:BiblioWoodPaintingT4. 64xtile.BiblioWoodPaintingT4@0
+Found ItemStack BiblioWoodsBoP:BiblioWoodSeat. 64xtile.BiblioWoodSeat@0
+Found ItemStack BiblioWoodsBoP:BiblioWoodcase. 64xtile.BiblioWoodcase@0
+Found ItemStack BiblioWoodsBoP:BiblioWooddesk. 64xtile.BiblioWooddesk@0
+Found ItemStack BiblioWoodsBoP:BiblioWoodlabel. 64xtile.BiblioWoodlabel@0
+Found ItemStack BiblioWoodsBoP:BiblioWoodpotshelf. 64xtile.BiblioWoodpotshelf@0
+Found ItemStack BiblioWoodsBoP:BiblioWoodrack. 64xtile.BiblioWoodrack@0
+Found ItemStack BiblioWoodsBoP:BiblioWoodshelf. 64xtile.BiblioWoodshelf@0
+Found ItemStack BiblioWoodsBoP:BiblioWoodtable. 64xtile.BiblioWoodtable@0
 Found ItemStack BiblioWoodsBoP:seatBack1. 64xitem.seatBack@0
 Found ItemStack BiblioWoodsBoP:seatBack2. 64xitem.seatBack@0
 Found ItemStack BiblioWoodsBoP:seatBack3. 64xitem.seatBack@0
@@ -449,42 +448,42 @@ Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:seatBack2.
 Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:seatBack3.
 Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:seatBack4.
 Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:seatBack5.
-Found ItemStack BiblioWoodsForestry:BiblioWoodClock. 32xtile.BiblioWoodClock@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodClock2. 32xtile.BiblioWoodClock2@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodFancySign. 32xtile.BiblioWoodFancySign@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodFancySign2. 32xtile.BiblioWoodFancySign2@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodFancyWorkbench. 32xtile.BiblioWoodFancyWorkbench@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodFancyWorkbench2. 32xtile.BiblioWoodFancyWorkbench2@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodFstBookcase. 32xtile.BiblioWoodFstBookcase@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodFstBookcase2. 32xtile.BiblioWoodFstBookcase2@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodFstcase0. 32xtile.BiblioWoodFstcase0@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodFstcase1. 32xtile.BiblioWoodFstcase1@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodFstdesk. 32xtile.BiblioWoodFstdesk@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodFstdesk2. 32xtile.BiblioWoodFstdesk2@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodFstlabel. 32xtile.BiblioWoodFstlabel@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodFstlabel2. 32xtile.BiblioWoodFstlabel2@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodFstpotshelf. 32xtile.BiblioWoodFstpotshelf@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodFstpotshelf2. 32xtile.BiblioWoodFstpotshelf2@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodFstrack. 32xtile.BiblioWoodFstrack@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodFstrack2. 32xtile.BiblioWoodFstrack2@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodFstshelf. 32xtile.BiblioWoodFstshelf@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodFstshelf2. 32xtile.BiblioWoodFstshelf2@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodFsttable. 32xtile.BiblioWoodFsttable@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodFsttable2. 32xtile.BiblioWoodFsttable2@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodMapFrame. 32xtile.BiblioWoodMapFrame@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodMapFrame2. 32xtile.BiblioWoodMapFrame2@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT0. 32xtile.BiblioWoodPaintingT0@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT0b. 32xtile.BiblioWoodPaintingT0b@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT1. 32xtile.BiblioWoodPaintingT1@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT1b. 32xtile.BiblioWoodPaintingT1b@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT2. 32xtile.BiblioWoodPaintingT2@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT2b. 32xtile.BiblioWoodPaintingT2b@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT3. 32xtile.BiblioWoodPaintingT3@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT3b. 32xtile.BiblioWoodPaintingT3b@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT4. 32xtile.BiblioWoodPaintingT4@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT4b. 32xtile.BiblioWoodPaintingT4b@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodSeat. 32xtile.BiblioWoodSeat@0
-Found ItemStack BiblioWoodsForestry:BiblioWoodSeat2. 32xtile.BiblioWoodSea2t@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodClock. 64xtile.BiblioWoodClock@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodClock2. 64xtile.BiblioWoodClock2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFancySign. 64xtile.BiblioWoodFancySign@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFancySign2. 64xtile.BiblioWoodFancySign2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFancyWorkbench. 64xtile.BiblioWoodFancyWorkbench@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFancyWorkbench2. 64xtile.BiblioWoodFancyWorkbench2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstBookcase. 64xtile.BiblioWoodFstBookcase@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstBookcase2. 64xtile.BiblioWoodFstBookcase2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstcase0. 64xtile.BiblioWoodFstcase0@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstcase1. 64xtile.BiblioWoodFstcase1@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstdesk. 64xtile.BiblioWoodFstdesk@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstdesk2. 64xtile.BiblioWoodFstdesk2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstlabel. 64xtile.BiblioWoodFstlabel@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstlabel2. 64xtile.BiblioWoodFstlabel2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstpotshelf. 64xtile.BiblioWoodFstpotshelf@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstpotshelf2. 64xtile.BiblioWoodFstpotshelf2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstrack. 64xtile.BiblioWoodFstrack@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstrack2. 64xtile.BiblioWoodFstrack2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstshelf. 64xtile.BiblioWoodFstshelf@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstshelf2. 64xtile.BiblioWoodFstshelf2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFsttable. 64xtile.BiblioWoodFsttable@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFsttable2. 64xtile.BiblioWoodFsttable2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodMapFrame. 64xtile.BiblioWoodMapFrame@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodMapFrame2. 64xtile.BiblioWoodMapFrame2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT0. 64xtile.BiblioWoodPaintingT0@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT0b. 64xtile.BiblioWoodPaintingT0b@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT1. 64xtile.BiblioWoodPaintingT1@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT1b. 64xtile.BiblioWoodPaintingT1b@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT2. 64xtile.BiblioWoodPaintingT2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT2b. 64xtile.BiblioWoodPaintingT2b@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT3. 64xtile.BiblioWoodPaintingT3@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT3b. 64xtile.BiblioWoodPaintingT3b@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT4. 64xtile.BiblioWoodPaintingT4@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT4b. 64xtile.BiblioWoodPaintingT4b@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodSeat. 64xtile.BiblioWoodSeat@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodSeat2. 64xtile.BiblioWoodSea2t@0
 Found ItemStack BiblioWoodsForestry:seatBack1. 64xitem.seatBack@0
 Found ItemStack BiblioWoodsForestry:seatBack2. 64xitem.seatBack@0
 Found ItemStack BiblioWoodsForestry:seatBack3. 64xitem.seatBack@0
@@ -514,24 +513,24 @@ Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:seatBack2.
 Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:seatBack3.
 Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:seatBack4.
 Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:seatBack5.
-Found ItemStack BiblioWoodsNatura:BiblioWoodBookcase. 32xtile.BiblioWoodBookcase@0
-Found ItemStack BiblioWoodsNatura:BiblioWoodClock. 32xtile.BiblioWoodClock@0
-Found ItemStack BiblioWoodsNatura:BiblioWoodFancySign. 32xtile.BiblioWoodFancySign@0
-Found ItemStack BiblioWoodsNatura:BiblioWoodFancyWorkbench. 32xtile.BiblioWoodFancyWorkbench@0
-Found ItemStack BiblioWoodsNatura:BiblioWoodMapFrame. 32xtile.BiblioWoodMapFrame@0
-Found ItemStack BiblioWoodsNatura:BiblioWoodPaintingT0. 32xtile.BiblioWoodPaintingT0@0
-Found ItemStack BiblioWoodsNatura:BiblioWoodPaintingT1. 32xtile.BiblioWoodPaintingT1@0
-Found ItemStack BiblioWoodsNatura:BiblioWoodPaintingT2. 32xtile.BiblioWoodPaintingT2@0
-Found ItemStack BiblioWoodsNatura:BiblioWoodPaintingT3. 32xtile.BiblioWoodPaintingT3@0
-Found ItemStack BiblioWoodsNatura:BiblioWoodPaintingT4. 32xtile.BiblioWoodPaintingT4@0
-Found ItemStack BiblioWoodsNatura:BiblioWoodSeat. 32xtile.BiblioWoodSeat@0
-Found ItemStack BiblioWoodsNatura:BiblioWoodcase0. 32xtile.BiblioWoodcase@0
-Found ItemStack BiblioWoodsNatura:BiblioWooddesk. 32xtile.BiblioWooddesk@0
-Found ItemStack BiblioWoodsNatura:BiblioWoodlabel. 32xtile.BiblioWoodlabel@0
-Found ItemStack BiblioWoodsNatura:BiblioWoodpotshelf. 32xtile.BiblioWoodpotshelf@0
-Found ItemStack BiblioWoodsNatura:BiblioWoodrack. 32xtile.BiblioWoodrack@0
-Found ItemStack BiblioWoodsNatura:BiblioWoodshelf. 32xtile.BiblioWoodshelf@0
-Found ItemStack BiblioWoodsNatura:BiblioWoodtable. 32xtile.BiblioWoodtable@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodBookcase. 64xtile.BiblioWoodBookcase@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodClock. 64xtile.BiblioWoodClock@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodFancySign. 64xtile.BiblioWoodFancySign@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodFancyWorkbench. 64xtile.BiblioWoodFancyWorkbench@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodMapFrame. 64xtile.BiblioWoodMapFrame@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodPaintingT0. 64xtile.BiblioWoodPaintingT0@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodPaintingT1. 64xtile.BiblioWoodPaintingT1@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodPaintingT2. 64xtile.BiblioWoodPaintingT2@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodPaintingT3. 64xtile.BiblioWoodPaintingT3@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodPaintingT4. 64xtile.BiblioWoodPaintingT4@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodSeat. 64xtile.BiblioWoodSeat@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodcase0. 64xtile.BiblioWoodcase@0
+Found ItemStack BiblioWoodsNatura:BiblioWooddesk. 64xtile.BiblioWooddesk@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodlabel. 64xtile.BiblioWoodlabel@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodpotshelf. 64xtile.BiblioWoodpotshelf@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodrack. 64xtile.BiblioWoodrack@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodshelf. 64xtile.BiblioWoodshelf@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodtable. 64xtile.BiblioWoodtable@0
 Found ItemStack BiblioWoodsNatura:seatBack1. 64xitem.seatBack@0
 Found ItemStack BiblioWoodsNatura:seatBack2. 64xitem.seatBack@0
 Found ItemStack BiblioWoodsNatura:seatBack3. 64xitem.seatBack@0
@@ -540,8 +539,8 @@ Found ItemStack BiblioWoodsNatura:seatBack5. 64xitem.seatBack@0
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
-getNumberOfTypes called. Returned: 3228
-override called. Params: appliedenergistics2, item.ItemFacade, 2686
+getNumberOfTypes called. Returned: 2999
+override called. Params: appliedenergistics2, item.ItemFacade, 2961
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 override called. Params: extracells, pattern.fluid, 0
@@ -559,20 +558,20 @@ Regex match found! TConstruct:potionLauncher matches TConstruct:potionLauncher.
 Found ItemStack TConstruct:potionLauncher. 1xitem.tconstruct.PotionLauncher@0
 hide called. Params: TConstruct, HeldItemBlock
 Regex match found! TConstruct:HeldItemBlock matches TConstruct:HeldItemBlock.
-Found ItemStack TConstruct:HeldItemBlock. 32xtile.Frypan@0
+Found ItemStack TConstruct:HeldItemBlock. 64xtile.Frypan@0
 hide called. Params: TConstruct, BattleSignBlock
 Regex match found! TConstruct:BattleSignBlock matches TConstruct:BattleSignBlock.
-Found ItemStack TConstruct:BattleSignBlock. 32xtile.Battlesign@0
+Found ItemStack TConstruct:BattleSignBlock. 64xtile.Battlesign@0
 Loading: AgriCraft.js
 override called. Params: AgriCraft, waterTank, 0
 Regex match found! AgriCraft:waterTank matches AgriCraft:waterTank.
-Found ItemStack AgriCraft:waterTank. 32xtile.agricraft:waterTank@0
+Found ItemStack AgriCraft:waterTank. 64xtile.agricraft:waterTank@0
 override called. Params: AgriCraft, waterChannel, 0
 Regex match found! AgriCraft:waterChannel matches AgriCraft:waterChannel.
-Found ItemStack AgriCraft:waterChannel. 32xtile.agricraft:waterChannel@0
+Found ItemStack AgriCraft:waterChannel. 64xtile.agricraft:waterChannel@0
 override called. Params: AgriCraft, channelValve, 0
 Regex match found! AgriCraft:channelValve matches AgriCraft:channelValve.
-Found ItemStack AgriCraft:channelValve. 32xtile.agricraft:channelValve@0
+Found ItemStack AgriCraft:channelValve. 64xtile.agricraft:channelValve@0
 Loading: IC2.js
 override called. Params: IC2, itemFluidCell, 0
 Regex match found! IC2:itemFluidCell matches IC2:itemFluidCell.
@@ -583,324 +582,324 @@ Found ItemStack IC2:itemCellEmpty. 64xic2.itemCellEmpty@0
 Loading: HarvestCraft.js
 hide called. Params: harvestcraft, ovenon
 Regex match found! harvestcraft:ovenon matches harvestcraft:ovenon.
-Found ItemStack harvestcraft:ovenon. 11xtile.ovenon@0
+Found ItemStack harvestcraft:ovenon. 64xtile.ovenon@0
 hide called. Params: harvestcraft, churnon
 Regex match found! harvestcraft:churnon matches harvestcraft:churnon.
-Found ItemStack harvestcraft:churnon. 32xtile.churnon@0
+Found ItemStack harvestcraft:churnon. 64xtile.churnon@0
 hide called. Params: harvestcraft, quernon
 Regex match found! harvestcraft:quernon matches harvestcraft:quernon.
-Found ItemStack harvestcraft:quernon. 11xtile.quernon@0
+Found ItemStack harvestcraft:quernon. 64xtile.quernon@0
 hide called. Params: harvestcraft, pamApple
 Regex match found! harvestcraft:pamApple matches harvestcraft:pamApple.
-Found ItemStack harvestcraft:pamApple. 32xtile.pamApple@0
+Found ItemStack harvestcraft:pamApple. 64xtile.pamApple@0
 hide called. Params: harvestcraft, pamAlmond
 Regex match found! harvestcraft:pamAlmond matches harvestcraft:pamAlmond.
-Found ItemStack harvestcraft:pamAlmond. 32xtile.pamAlmond@0
+Found ItemStack harvestcraft:pamAlmond. 64xtile.pamAlmond@0
 hide called. Params: harvestcraft, pamApricot
 Regex match found! harvestcraft:pamApricot matches harvestcraft:pamApricot.
-Found ItemStack harvestcraft:pamApricot. 32xtile.pamApricot@0
+Found ItemStack harvestcraft:pamApricot. 64xtile.pamApricot@0
 hide called. Params: harvestcraft, pamAvocado
 Regex match found! harvestcraft:pamAvocado matches harvestcraft:pamAvocado.
-Found ItemStack harvestcraft:pamAvocado. 32xtile.pamAvocado@0
+Found ItemStack harvestcraft:pamAvocado. 64xtile.pamAvocado@0
 hide called. Params: harvestcraft, pamBanana
 Regex match found! harvestcraft:pamBanana matches harvestcraft:pamBanana.
-Found ItemStack harvestcraft:pamBanana. 32xtile.pamBanana@0
+Found ItemStack harvestcraft:pamBanana. 64xtile.pamBanana@0
 hide called. Params: harvestcraft, pamCashew
 Regex match found! harvestcraft:pamCashew matches harvestcraft:pamCashew.
-Found ItemStack harvestcraft:pamCashew. 32xtile.pamCashew@0
+Found ItemStack harvestcraft:pamCashew. 64xtile.pamCashew@0
 hide called. Params: harvestcraft, pamCherry
 Regex match found! harvestcraft:pamCherry matches harvestcraft:pamCherry.
-Found ItemStack harvestcraft:pamCherry. 32xtile.pamCherry@0
+Found ItemStack harvestcraft:pamCherry. 64xtile.pamCherry@0
 hide called. Params: harvestcraft, pamChestnut
 Regex match found! harvestcraft:pamChestnut matches harvestcraft:pamChestnut.
-Found ItemStack harvestcraft:pamChestnut. 32xtile.pamChestnut@0
+Found ItemStack harvestcraft:pamChestnut. 64xtile.pamChestnut@0
 hide called. Params: harvestcraft, pamCinnamon
 Regex match found! harvestcraft:pamCinnamon matches harvestcraft:pamCinnamon.
-Found ItemStack harvestcraft:pamCinnamon. 32xtile.pamCinnamon@0
+Found ItemStack harvestcraft:pamCinnamon. 64xtile.pamCinnamon@0
 hide called. Params: harvestcraft, pamCoconut
 Regex match found! harvestcraft:pamCoconut matches harvestcraft:pamCoconut.
-Found ItemStack harvestcraft:pamCoconut. 32xtile.pamCoconut@0
+Found ItemStack harvestcraft:pamCoconut. 64xtile.pamCoconut@0
 hide called. Params: harvestcraft, pamDate
 Regex match found! harvestcraft:pamDate matches harvestcraft:pamDate.
-Found ItemStack harvestcraft:pamDate. 32xtile.pamDate@0
+Found ItemStack harvestcraft:pamDate. 64xtile.pamDate@0
 hide called. Params: harvestcraft, pamDragonfruit
 Regex match found! harvestcraft:pamDragonfruit matches harvestcraft:pamDragonfruit.
-Found ItemStack harvestcraft:pamDragonfruit. 32xtile.pamDragonfruit@0
+Found ItemStack harvestcraft:pamDragonfruit. 64xtile.pamDragonfruit@0
 hide called. Params: harvestcraft, pamDurian
 Regex match found! harvestcraft:pamDurian matches harvestcraft:pamDurian.
-Found ItemStack harvestcraft:pamDurian. 32xtile.pamDurian@0
+Found ItemStack harvestcraft:pamDurian. 64xtile.pamDurian@0
 hide called. Params: harvestcraft, pamFig
 Regex match found! harvestcraft:pamFig matches harvestcraft:pamFig.
-Found ItemStack harvestcraft:pamFig. 32xtile.pamFig@0
+Found ItemStack harvestcraft:pamFig. 64xtile.pamFig@0
 hide called. Params: harvestcraft, pamGrapefruit
 Regex match found! harvestcraft:pamGrapefruit matches harvestcraft:pamGrapefruit.
-Found ItemStack harvestcraft:pamGrapefruit. 32xtile.pamGrapefruit@0
+Found ItemStack harvestcraft:pamGrapefruit. 64xtile.pamGrapefruit@0
 hide called. Params: harvestcraft, pamLemon
 Regex match found! harvestcraft:pamLemon matches harvestcraft:pamLemon.
-Found ItemStack harvestcraft:pamLemon. 32xtile.pamLemon@0
+Found ItemStack harvestcraft:pamLemon. 64xtile.pamLemon@0
 hide called. Params: harvestcraft, pamLime
 Regex match found! harvestcraft:pamLime matches harvestcraft:pamLime.
-Found ItemStack harvestcraft:pamLime. 32xtile.pamLime@0
+Found ItemStack harvestcraft:pamLime. 64xtile.pamLime@0
 hide called. Params: harvestcraft, pamMaple
 Regex match found! harvestcraft:pamMaple matches harvestcraft:pamMaple.
-Found ItemStack harvestcraft:pamMaple. 32xtile.pamMaple@0
+Found ItemStack harvestcraft:pamMaple. 64xtile.pamMaple@0
 hide called. Params: harvestcraft, pamMango
 Regex match found! harvestcraft:pamMango matches harvestcraft:pamMango.
-Found ItemStack harvestcraft:pamMango. 32xtile.pamMango@0
+Found ItemStack harvestcraft:pamMango. 64xtile.pamMango@0
 hide called. Params: harvestcraft, pamNutmeg
 Regex match found! harvestcraft:pamNutmeg matches harvestcraft:pamNutmeg.
-Found ItemStack harvestcraft:pamNutmeg. 32xtile.pamNutmeg@0
+Found ItemStack harvestcraft:pamNutmeg. 64xtile.pamNutmeg@0
 hide called. Params: harvestcraft, pamOlive
 Regex match found! harvestcraft:pamOlive matches harvestcraft:pamOlive.
-Found ItemStack harvestcraft:pamOlive. 32xtile.pamOlive@0
+Found ItemStack harvestcraft:pamOlive. 64xtile.pamOlive@0
 hide called. Params: harvestcraft, pamOrange
 Regex match found! harvestcraft:pamOrange matches harvestcraft:pamOrange.
-Found ItemStack harvestcraft:pamOrange. 32xtile.pamOrange@0
+Found ItemStack harvestcraft:pamOrange. 64xtile.pamOrange@0
 hide called. Params: harvestcraft, pamPapaya
 Regex match found! harvestcraft:pamPapaya matches harvestcraft:pamPapaya.
-Found ItemStack harvestcraft:pamPapaya. 32xtile.pamPapaya@0
+Found ItemStack harvestcraft:pamPapaya. 64xtile.pamPapaya@0
 hide called. Params: harvestcraft, pamPaperbark
 Regex match found! harvestcraft:pamPaperbark matches harvestcraft:pamPaperbark.
-Found ItemStack harvestcraft:pamPaperbark. 32xtile.pamPaperbark@0
+Found ItemStack harvestcraft:pamPaperbark. 64xtile.pamPaperbark@0
 hide called. Params: harvestcraft, pamPeach
 Regex match found! harvestcraft:pamPeach matches harvestcraft:pamPeach.
-Found ItemStack harvestcraft:pamPeach. 32xtile.pamPeach@0
+Found ItemStack harvestcraft:pamPeach. 64xtile.pamPeach@0
 hide called. Params: harvestcraft, pamPear
 Regex match found! harvestcraft:pamPear matches harvestcraft:pamPear.
-Found ItemStack harvestcraft:pamPear. 32xtile.pamPear@0
+Found ItemStack harvestcraft:pamPear. 64xtile.pamPear@0
 hide called. Params: harvestcraft, pamPecan
 Regex match found! harvestcraft:pamPecan matches harvestcraft:pamPecan.
-Found ItemStack harvestcraft:pamPecan. 32xtile.pamPecan@0
+Found ItemStack harvestcraft:pamPecan. 64xtile.pamPecan@0
 hide called. Params: harvestcraft, pamPeppercorn
 Regex match found! harvestcraft:pamPeppercorn matches harvestcraft:pamPeppercorn.
-Found ItemStack harvestcraft:pamPeppercorn. 32xtile.pamPeppercorn@0
+Found ItemStack harvestcraft:pamPeppercorn. 64xtile.pamPeppercorn@0
 hide called. Params: harvestcraft, pamPersimmon
 Regex match found! harvestcraft:pamPersimmon matches harvestcraft:pamPersimmon.
-Found ItemStack harvestcraft:pamPersimmon. 32xtile.pamPersimmon@0
+Found ItemStack harvestcraft:pamPersimmon. 64xtile.pamPersimmon@0
 hide called. Params: harvestcraft, pamPistachio
 Regex match found! harvestcraft:pamPistachio matches harvestcraft:pamPistachio.
-Found ItemStack harvestcraft:pamPistachio. 32xtile.pamPistachio@0
+Found ItemStack harvestcraft:pamPistachio. 64xtile.pamPistachio@0
 hide called. Params: harvestcraft, pamPlum
 Regex match found! harvestcraft:pamPlum matches harvestcraft:pamPlum.
-Found ItemStack harvestcraft:pamPlum. 32xtile.pamPlum@0
+Found ItemStack harvestcraft:pamPlum. 64xtile.pamPlum@0
 hide called. Params: harvestcraft, pamPomegranate
 Regex match found! harvestcraft:pamPomegranate matches harvestcraft:pamPomegranate.
-Found ItemStack harvestcraft:pamPomegranate. 32xtile.pamPomegranate@0
+Found ItemStack harvestcraft:pamPomegranate. 64xtile.pamPomegranate@0
 hide called. Params: harvestcraft, pamStarfruit
 Regex match found! harvestcraft:pamStarfruit matches harvestcraft:pamStarfruit.
-Found ItemStack harvestcraft:pamStarfruit. 32xtile.pamStarfruit@0
+Found ItemStack harvestcraft:pamStarfruit. 64xtile.pamStarfruit@0
 hide called. Params: harvestcraft, pamVanillabean
 Regex match found! harvestcraft:pamVanillabean matches harvestcraft:pamVanillabean.
-Found ItemStack harvestcraft:pamVanillabean. 32xtile.pamVanillabean@0
+Found ItemStack harvestcraft:pamVanillabean. 64xtile.pamVanillabean@0
 hide called. Params: harvestcraft, pamWalnut
 Regex match found! harvestcraft:pamWalnut matches harvestcraft:pamWalnut.
-Found ItemStack harvestcraft:pamWalnut. 32xtile.pamWalnut@0
+Found ItemStack harvestcraft:pamWalnut. 64xtile.pamWalnut@0
 hide called. Params: harvestcraft, pamblackberryCrop
 Regex match found! harvestcraft:pamblackberryCrop matches harvestcraft:pamblackberryCrop.
-Found ItemStack harvestcraft:pamblackberryCrop. 32xtile.pamblackberryCrop@0
+Found ItemStack harvestcraft:pamblackberryCrop. 64xtile.pamblackberryCrop@0
 hide called. Params: harvestcraft, pamblueberryCrop
 Regex match found! harvestcraft:pamblueberryCrop matches harvestcraft:pamblueberryCrop.
-Found ItemStack harvestcraft:pamblueberryCrop. 32xtile.pamblueberryCrop@0
+Found ItemStack harvestcraft:pamblueberryCrop. 64xtile.pamblueberryCrop@0
 hide called. Params: harvestcraft, pamcandleberryCrop
 Regex match found! harvestcraft:pamcandleberryCrop matches harvestcraft:pamcandleberryCrop.
-Found ItemStack harvestcraft:pamcandleberryCrop. 32xtile.pamcandleberryCrop@0
+Found ItemStack harvestcraft:pamcandleberryCrop. 64xtile.pamcandleberryCrop@0
 hide called. Params: harvestcraft, pamraspberryCrop
 Regex match found! harvestcraft:pamraspberryCrop matches harvestcraft:pamraspberryCrop.
-Found ItemStack harvestcraft:pamraspberryCrop. 32xtile.pamraspberryCrop@0
+Found ItemStack harvestcraft:pamraspberryCrop. 64xtile.pamraspberryCrop@0
 hide called. Params: harvestcraft, pamstrawberryCrop
 Regex match found! harvestcraft:pamstrawberryCrop matches harvestcraft:pamstrawberryCrop.
-Found ItemStack harvestcraft:pamstrawberryCrop. 32xtile.pamstrawberryCrop@0
+Found ItemStack harvestcraft:pamstrawberryCrop. 64xtile.pamstrawberryCrop@0
 hide called. Params: harvestcraft, pamcactusfruitCrop
 Regex match found! harvestcraft:pamcactusfruitCrop matches harvestcraft:pamcactusfruitCrop.
-Found ItemStack harvestcraft:pamcactusfruitCrop. 32xtile.pamcactusfruitCrop@0
+Found ItemStack harvestcraft:pamcactusfruitCrop. 64xtile.pamcactusfruitCrop@0
 hide called. Params: harvestcraft, pamasparagusCrop
 Regex match found! harvestcraft:pamasparagusCrop matches harvestcraft:pamasparagusCrop.
-Found ItemStack harvestcraft:pamasparagusCrop. 32xtile.pamasparagusCrop@0
+Found ItemStack harvestcraft:pamasparagusCrop. 64xtile.pamasparagusCrop@0
 hide called. Params: harvestcraft, pambarleyCrop
 Regex match found! harvestcraft:pambarleyCrop matches harvestcraft:pambarleyCrop.
-Found ItemStack harvestcraft:pambarleyCrop. 32xtile.pambarleyCrop@0
+Found ItemStack harvestcraft:pambarleyCrop. 64xtile.pambarleyCrop@0
 hide called. Params: harvestcraft, pamoatsCrop
 Regex match found! harvestcraft:pamoatsCrop matches harvestcraft:pamoatsCrop.
-Found ItemStack harvestcraft:pamoatsCrop. 32xtile.pamoatsCrop@0
+Found ItemStack harvestcraft:pamoatsCrop. 64xtile.pamoatsCrop@0
 hide called. Params: harvestcraft, pamryeCrop
 Regex match found! harvestcraft:pamryeCrop matches harvestcraft:pamryeCrop.
-Found ItemStack harvestcraft:pamryeCrop. 32xtile.pamryeCrop@0
+Found ItemStack harvestcraft:pamryeCrop. 64xtile.pamryeCrop@0
 hide called. Params: harvestcraft, pamcornCrop
 Regex match found! harvestcraft:pamcornCrop matches harvestcraft:pamcornCrop.
-Found ItemStack harvestcraft:pamcornCrop. 32xtile.pamcornCrop@0
+Found ItemStack harvestcraft:pamcornCrop. 64xtile.pamcornCrop@0
 hide called. Params: harvestcraft, pambambooshootCrop
 Regex match found! harvestcraft:pambambooshootCrop matches harvestcraft:pambambooshootCrop.
-Found ItemStack harvestcraft:pambambooshootCrop. 32xtile.pambambooshootCrop@0
+Found ItemStack harvestcraft:pambambooshootCrop. 64xtile.pambambooshootCrop@0
 hide called. Params: harvestcraft, pamcantaloupeCrop
 Regex match found! harvestcraft:pamcantaloupeCrop matches harvestcraft:pamcantaloupeCrop.
-Found ItemStack harvestcraft:pamcantaloupeCrop. 32xtile.pamcantaloupeCrop@0
+Found ItemStack harvestcraft:pamcantaloupeCrop. 64xtile.pamcantaloupeCrop@0
 hide called. Params: harvestcraft, pamcucumberCrop
 Regex match found! harvestcraft:pamcucumberCrop matches harvestcraft:pamcucumberCrop.
-Found ItemStack harvestcraft:pamcucumberCrop. 32xtile.pamcucumberCrop@0
+Found ItemStack harvestcraft:pamcucumberCrop. 64xtile.pamcucumberCrop@0
 hide called. Params: harvestcraft, pamwintersquashCrop
 Regex match found! harvestcraft:pamwintersquashCrop matches harvestcraft:pamwintersquashCrop.
-Found ItemStack harvestcraft:pamwintersquashCrop. 32xtile.pamwintersquashCrop@0
+Found ItemStack harvestcraft:pamwintersquashCrop. 64xtile.pamwintersquashCrop@0
 hide called. Params: harvestcraft, pamzucchiniCrop
 Regex match found! harvestcraft:pamzucchiniCrop matches harvestcraft:pamzucchiniCrop.
-Found ItemStack harvestcraft:pamzucchiniCrop. 32xtile.pamzucchiniCrop@0
+Found ItemStack harvestcraft:pamzucchiniCrop. 64xtile.pamzucchiniCrop@0
 hide called. Params: harvestcraft, pambeetCrop
 Regex match found! harvestcraft:pambeetCrop matches harvestcraft:pambeetCrop.
-Found ItemStack harvestcraft:pambeetCrop. 32xtile.pambeetCrop@0
+Found ItemStack harvestcraft:pambeetCrop. 64xtile.pambeetCrop@0
 hide called. Params: harvestcraft, pamonionCrop
 Regex match found! harvestcraft:pamonionCrop matches harvestcraft:pamonionCrop.
-Found ItemStack harvestcraft:pamonionCrop. 32xtile.pamonionCrop@0
+Found ItemStack harvestcraft:pamonionCrop. 64xtile.pamonionCrop@0
 hide called. Params: harvestcraft, pamparsnipCrop
 Regex match found! harvestcraft:pamparsnipCrop matches harvestcraft:pamparsnipCrop.
-Found ItemStack harvestcraft:pamparsnipCrop. 32xtile.pamparsnipCrop@0
+Found ItemStack harvestcraft:pamparsnipCrop. 64xtile.pamparsnipCrop@0
 hide called. Params: harvestcraft, pampeanutCrop
 Regex match found! harvestcraft:pampeanutCrop matches harvestcraft:pampeanutCrop.
-Found ItemStack harvestcraft:pampeanutCrop. 32xtile.pampeanutCrop@0
+Found ItemStack harvestcraft:pampeanutCrop. 64xtile.pampeanutCrop@0
 hide called. Params: harvestcraft, pamradishCrop
 Regex match found! harvestcraft:pamradishCrop matches harvestcraft:pamradishCrop.
-Found ItemStack harvestcraft:pamradishCrop. 32xtile.pamradishCrop@0
+Found ItemStack harvestcraft:pamradishCrop. 64xtile.pamradishCrop@0
 hide called. Params: harvestcraft, pamrutabagaCrop
 Regex match found! harvestcraft:pamrutabagaCrop matches harvestcraft:pamrutabagaCrop.
-Found ItemStack harvestcraft:pamrutabagaCrop. 32xtile.pamrutabagaCrop@0
+Found ItemStack harvestcraft:pamrutabagaCrop. 64xtile.pamrutabagaCrop@0
 hide called. Params: harvestcraft, pamsweetpotatoCrop
 Regex match found! harvestcraft:pamsweetpotatoCrop matches harvestcraft:pamsweetpotatoCrop.
-Found ItemStack harvestcraft:pamsweetpotatoCrop. 32xtile.pamsweetpotatoCrop@0
+Found ItemStack harvestcraft:pamsweetpotatoCrop. 64xtile.pamsweetpotatoCrop@0
 hide called. Params: harvestcraft, pamturnipCrop
 Regex match found! harvestcraft:pamturnipCrop matches harvestcraft:pamturnipCrop.
-Found ItemStack harvestcraft:pamturnipCrop. 32xtile.pamturnipCrop@0
+Found ItemStack harvestcraft:pamturnipCrop. 64xtile.pamturnipCrop@0
 hide called. Params: harvestcraft, pamrhubarbCrop
 Regex match found! harvestcraft:pamrhubarbCrop matches harvestcraft:pamrhubarbCrop.
-Found ItemStack harvestcraft:pamrhubarbCrop. 32xtile.pamrhubarbCrop@0
+Found ItemStack harvestcraft:pamrhubarbCrop. 64xtile.pamrhubarbCrop@0
 hide called. Params: harvestcraft, pamceleryCrop
 Regex match found! harvestcraft:pamceleryCrop matches harvestcraft:pamceleryCrop.
-Found ItemStack harvestcraft:pamceleryCrop. 32xtile.pamceleryCrop@0
+Found ItemStack harvestcraft:pamceleryCrop. 64xtile.pamceleryCrop@0
 hide called. Params: harvestcraft, pamgarlicCrop
 Regex match found! harvestcraft:pamgarlicCrop matches harvestcraft:pamgarlicCrop.
-Found ItemStack harvestcraft:pamgarlicCrop. 32xtile.pamgarlicCrop@0
+Found ItemStack harvestcraft:pamgarlicCrop. 64xtile.pamgarlicCrop@0
 hide called. Params: harvestcraft, pamgingerCrop
 Regex match found! harvestcraft:pamgingerCrop matches harvestcraft:pamgingerCrop.
-Found ItemStack harvestcraft:pamgingerCrop. 32xtile.pamgingerCrop@0
+Found ItemStack harvestcraft:pamgingerCrop. 64xtile.pamgingerCrop@0
 hide called. Params: harvestcraft, pamspiceleafCrop
 Regex match found! harvestcraft:pamspiceleafCrop matches harvestcraft:pamspiceleafCrop.
-Found ItemStack harvestcraft:pamspiceleafCrop. 32xtile.pamspiceleafCrop@0
+Found ItemStack harvestcraft:pamspiceleafCrop. 64xtile.pamspiceleafCrop@0
 hide called. Params: harvestcraft, pamtealeafCrop
 Regex match found! harvestcraft:pamtealeafCrop matches harvestcraft:pamtealeafCrop.
-Found ItemStack harvestcraft:pamtealeafCrop. 32xtile.pamtealeafCrop@0
+Found ItemStack harvestcraft:pamtealeafCrop. 64xtile.pamtealeafCrop@0
 hide called. Params: harvestcraft, pamcoffeebeanCrop
 Regex match found! harvestcraft:pamcoffeebeanCrop matches harvestcraft:pamcoffeebeanCrop.
-Found ItemStack harvestcraft:pamcoffeebeanCrop. 32xtile.pamcoffeebeanCrop@0
+Found ItemStack harvestcraft:pamcoffeebeanCrop. 64xtile.pamcoffeebeanCrop@0
 hide called. Params: harvestcraft, pammustardseedsCrop
 Regex match found! harvestcraft:pammustardseedsCrop matches harvestcraft:pammustardseedsCrop.
-Found ItemStack harvestcraft:pammustardseedsCrop. 32xtile.pammustardseedsCrop@0
+Found ItemStack harvestcraft:pammustardseedsCrop. 64xtile.pammustardseedsCrop@0
 hide called. Params: harvestcraft, pambroccoliCrop
 Regex match found! harvestcraft:pambroccoliCrop matches harvestcraft:pambroccoliCrop.
-Found ItemStack harvestcraft:pambroccoliCrop. 32xtile.pambroccoliCrop@0
+Found ItemStack harvestcraft:pambroccoliCrop. 64xtile.pambroccoliCrop@0
 hide called. Params: harvestcraft, pamcauliflowerCrop
 Regex match found! harvestcraft:pamcauliflowerCrop matches harvestcraft:pamcauliflowerCrop.
-Found ItemStack harvestcraft:pamcauliflowerCrop. 32xtile.pamcauliflowerCrop@0
+Found ItemStack harvestcraft:pamcauliflowerCrop. 64xtile.pamcauliflowerCrop@0
 hide called. Params: harvestcraft, pamleekCrop
 Regex match found! harvestcraft:pamleekCrop matches harvestcraft:pamleekCrop.
-Found ItemStack harvestcraft:pamleekCrop. 32xtile.pamleekCrop@0
+Found ItemStack harvestcraft:pamleekCrop. 64xtile.pamleekCrop@0
 hide called. Params: harvestcraft, pamlettuceCrop
 Regex match found! harvestcraft:pamlettuceCrop matches harvestcraft:pamlettuceCrop.
-Found ItemStack harvestcraft:pamlettuceCrop. 32xtile.pamlettuceCrop@0
+Found ItemStack harvestcraft:pamlettuceCrop. 64xtile.pamlettuceCrop@0
 hide called. Params: harvestcraft, pamscallionCrop
 Regex match found! harvestcraft:pamscallionCrop matches harvestcraft:pamscallionCrop.
-Found ItemStack harvestcraft:pamscallionCrop. 32xtile.pamscallionCrop@0
+Found ItemStack harvestcraft:pamscallionCrop. 64xtile.pamscallionCrop@0
 hide called. Params: harvestcraft, pamartichokeCrop
 Regex match found! harvestcraft:pamartichokeCrop matches harvestcraft:pamartichokeCrop.
-Found ItemStack harvestcraft:pamartichokeCrop. 32xtile.pamartichokeCrop@0
+Found ItemStack harvestcraft:pamartichokeCrop. 64xtile.pamartichokeCrop@0
 hide called. Params: harvestcraft, pambrusselsproutCrop
 Regex match found! harvestcraft:pambrusselsproutCrop matches harvestcraft:pambrusselsproutCrop.
-Found ItemStack harvestcraft:pambrusselsproutCrop. 32xtile.pambrusselsproutCrop@0
+Found ItemStack harvestcraft:pambrusselsproutCrop. 64xtile.pambrusselsproutCrop@0
 hide called. Params: harvestcraft, pamcabbageCrop
 Regex match found! harvestcraft:pamcabbageCrop matches harvestcraft:pamcabbageCrop.
-Found ItemStack harvestcraft:pamcabbageCrop. 32xtile.pamcabbageCrop@0
+Found ItemStack harvestcraft:pamcabbageCrop. 64xtile.pamcabbageCrop@0
 hide called. Params: harvestcraft, pamspinachCrop
 Regex match found! harvestcraft:pamspinachCrop matches harvestcraft:pamspinachCrop.
-Found ItemStack harvestcraft:pamspinachCrop. 32xtile.pamspinachCrop@0
+Found ItemStack harvestcraft:pamspinachCrop. 64xtile.pamspinachCrop@0
 hide called. Params: harvestcraft, pamwhitemushroomCrop
 Regex match found! harvestcraft:pamwhitemushroomCrop matches harvestcraft:pamwhitemushroomCrop.
-Found ItemStack harvestcraft:pamwhitemushroomCrop. 32xtile.pamwhitemushroomCrop@0
+Found ItemStack harvestcraft:pamwhitemushroomCrop. 64xtile.pamwhitemushroomCrop@0
 hide called. Params: harvestcraft, pambeanCrop
 Regex match found! harvestcraft:pambeanCrop matches harvestcraft:pambeanCrop.
-Found ItemStack harvestcraft:pambeanCrop. 32xtile.pambeanCrop@0
+Found ItemStack harvestcraft:pambeanCrop. 64xtile.pambeanCrop@0
 hide called. Params: harvestcraft, pamsoybeanCrop
 Regex match found! harvestcraft:pamsoybeanCrop matches harvestcraft:pamsoybeanCrop.
-Found ItemStack harvestcraft:pamsoybeanCrop. 32xtile.pamsoybeanCrop@0
+Found ItemStack harvestcraft:pamsoybeanCrop. 64xtile.pamsoybeanCrop@0
 hide called. Params: harvestcraft, pambellpepperCrop
 Regex match found! harvestcraft:pambellpepperCrop matches harvestcraft:pambellpepperCrop.
-Found ItemStack harvestcraft:pambellpepperCrop. 32xtile.pambellpepperCrop@0
+Found ItemStack harvestcraft:pambellpepperCrop. 64xtile.pambellpepperCrop@0
 hide called. Params: harvestcraft, pamchilipepperCrop
 Regex match found! harvestcraft:pamchilipepperCrop matches harvestcraft:pamchilipepperCrop.
-Found ItemStack harvestcraft:pamchilipepperCrop. 32xtile.pamchilipepperCrop@0
+Found ItemStack harvestcraft:pamchilipepperCrop. 64xtile.pamchilipepperCrop@0
 hide called. Params: harvestcraft, pameggplantCrop
 Regex match found! harvestcraft:pameggplantCrop matches harvestcraft:pameggplantCrop.
-Found ItemStack harvestcraft:pameggplantCrop. 32xtile.pameggplantCrop@0
+Found ItemStack harvestcraft:pameggplantCrop. 64xtile.pameggplantCrop@0
 hide called. Params: harvestcraft, pamokraCrop
 Regex match found! harvestcraft:pamokraCrop matches harvestcraft:pamokraCrop.
-Found ItemStack harvestcraft:pamokraCrop. 32xtile.pamokraCrop@0
+Found ItemStack harvestcraft:pamokraCrop. 64xtile.pamokraCrop@0
 hide called. Params: harvestcraft, pampeasCrop
 Regex match found! harvestcraft:pampeasCrop matches harvestcraft:pampeasCrop.
-Found ItemStack harvestcraft:pampeasCrop. 32xtile.pampeasCrop@0
+Found ItemStack harvestcraft:pampeasCrop. 64xtile.pampeasCrop@0
 hide called. Params: harvestcraft, pamtomatoCrop
 Regex match found! harvestcraft:pamtomatoCrop matches harvestcraft:pamtomatoCrop.
-Found ItemStack harvestcraft:pamtomatoCrop. 32xtile.pamtomatoCrop@0
+Found ItemStack harvestcraft:pamtomatoCrop. 64xtile.pamtomatoCrop@0
 hide called. Params: harvestcraft, pamcottonCrop
 Regex match found! harvestcraft:pamcottonCrop matches harvestcraft:pamcottonCrop.
-Found ItemStack harvestcraft:pamcottonCrop. 32xtile.pamcottonCrop@0
+Found ItemStack harvestcraft:pamcottonCrop. 64xtile.pamcottonCrop@0
 hide called. Params: harvestcraft, pampineappleCrop
 Regex match found! harvestcraft:pampineappleCrop matches harvestcraft:pampineappleCrop.
-Found ItemStack harvestcraft:pampineappleCrop. 32xtile.pampineappleCrop@0
+Found ItemStack harvestcraft:pampineappleCrop. 64xtile.pampineappleCrop@0
 hide called. Params: harvestcraft, pamgrapeCrop
 Regex match found! harvestcraft:pamgrapeCrop matches harvestcraft:pamgrapeCrop.
-Found ItemStack harvestcraft:pamgrapeCrop. 32xtile.pamgrapeCrop@0
+Found ItemStack harvestcraft:pamgrapeCrop. 64xtile.pamgrapeCrop@0
 hide called. Params: harvestcraft, pamkiwiCrop
 Regex match found! harvestcraft:pamkiwiCrop matches harvestcraft:pamkiwiCrop.
-Found ItemStack harvestcraft:pamkiwiCrop. 32xtile.pamkiwiCrop@0
+Found ItemStack harvestcraft:pamkiwiCrop. 64xtile.pamkiwiCrop@0
 hide called. Params: harvestcraft, pamcranberryCrop
 Regex match found! harvestcraft:pamcranberryCrop matches harvestcraft:pamcranberryCrop.
-Found ItemStack harvestcraft:pamcranberryCrop. 32xtile.pamcranberryCrop@0
+Found ItemStack harvestcraft:pamcranberryCrop. 64xtile.pamcranberryCrop@0
 hide called. Params: harvestcraft, pamriceCrop
 Regex match found! harvestcraft:pamriceCrop matches harvestcraft:pamriceCrop.
-Found ItemStack harvestcraft:pamriceCrop. 32xtile.pamriceCrop@0
+Found ItemStack harvestcraft:pamriceCrop. 64xtile.pamriceCrop@0
 hide called. Params: harvestcraft, pamseaweedCrop
 Regex match found! harvestcraft:pamseaweedCrop matches harvestcraft:pamseaweedCrop.
-Found ItemStack harvestcraft:pamseaweedCrop. 32xtile.pamseaweedCrop@0
+Found ItemStack harvestcraft:pamseaweedCrop. 64xtile.pamseaweedCrop@0
 Loading: vanilla.js
 hide called. Params: minecraft, portal
 Regex match found! minecraft:portal matches minecraft:portal.
-Found ItemStack minecraft:portal. 32xtile.portal@0
+Found ItemStack minecraft:portal. 64xtile.portal@0
 hide called. Params: minecraft, end_portal
 Regex match found! minecraft:end_portal matches minecraft:end_portal.
-Found ItemStack minecraft:end_portal. 32xtile.null@0
+Found ItemStack minecraft:end_portal. 64xtile.null@0
 hide called. Params: minecraft, fire
 Regex match found! minecraft:fire matches minecraft:fire.
-Found ItemStack minecraft:fire. 32xtile.fire@0
+Found ItemStack minecraft:fire. 64xtile.fire@0
 hide called. Params: minecraft, water
 Regex match found! minecraft:water matches minecraft:water.
-Found ItemStack minecraft:water. 32xtile.water@0
+Found ItemStack minecraft:water. 64xtile.water@0
 hide called. Params: minecraft, lava
 Regex match found! minecraft:lava matches minecraft:lava.
-Found ItemStack minecraft:lava. 32xtile.lava@0
+Found ItemStack minecraft:lava. 64xtile.lava@0
 hide called. Params: minecraft, lit_furnace
 Regex match found! minecraft:lit_furnace matches minecraft:lit_furnace.
-Found ItemStack minecraft:lit_furnace. 16xtile.furnace@0
+Found ItemStack minecraft:lit_furnace. 64xtile.furnace@0
 Loading: Misc.js
 hide called. Params: Botany, flower
 Regex match found! Botany:flower matches Botany:flower.
-Found ItemStack Botany:flower. 32xtile.flower@0
+Found ItemStack Botany:flower. 64xtile.flower@0
 override called. Params: BuildCraft|Core, paintbrush, 0
 Regex match found! BuildCraft|Core:paintbrush matches BuildCraft|Core:paintbrush.
 Found ItemStack BuildCraft|Core:paintbrush. 1xitem.paintbrush@0
 hide called. Params: BuildCraft|Transport, pipeBlock
 Regex match found! BuildCraft|Transport:pipeBlock matches BuildCraft|Transport:pipeBlock.
-Found ItemStack BuildCraft|Transport:pipeBlock. 32xtile.pipeBlock@0
+Found ItemStack BuildCraft|Transport:pipeBlock. 64xtile.pipeBlock@0
 hide called. Params: CarpentersBlocks, blockCarpentersDoor
 Regex match found! CarpentersBlocks:blockCarpentersDoor matches CarpentersBlocks:blockCarpentersDoor.
-Found ItemStack CarpentersBlocks:blockCarpentersDoor. 32xtile.blockCarpentersDoor@0
+Found ItemStack CarpentersBlocks:blockCarpentersDoor. 64xtile.blockCarpentersDoor@0
 hide called. Params: CarpentersBlocks, blockCarpentersBed
 Regex match found! CarpentersBlocks:blockCarpentersBed matches CarpentersBlocks:blockCarpentersBed.
-Found ItemStack CarpentersBlocks:blockCarpentersBed. 32xtile.blockCarpentersBed@0
+Found ItemStack CarpentersBlocks:blockCarpentersBed. 64xtile.blockCarpentersBed@0
 hide called. Params: Genetics, serumArray
 Regex match found! Genetics:serumArray matches Genetics:serumArray.
 Found ItemStack Genetics:serumArray. 1xitem.serumArray@0
@@ -1148,4 +1147,4 @@ Found ItemStack Forestry:cratedWheatenCombs. 64xitem.cratedWheatenCombs@0
 Found ItemStack Forestry:cratedWood. 64xitem.cratedWood@0
 override called. Params: Forestry, ffarm, 0,2,3,4,5
 Regex match found! Forestry:ffarm matches Forestry:ffarm.
-Found ItemStack Forestry:ffarm. 16xtile.for.ffarm@0
+Found ItemStack Forestry:ffarm. 64xtile.for.ffarm@0

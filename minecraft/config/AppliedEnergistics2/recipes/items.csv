@@ -745,12 +745,12 @@ minecraft:spawn_egg:348, Spawn Mammoth
 minecraft:spawn_egg:349, Spawn Smilodon
 minecraft:spawn_egg:350, Spawn Quagga
 minecraft:spawn_egg:351, Spawn Elasmotherium
-minecraft:spawn_egg:25, Spawn Necromantic Teddy
-minecraft:spawn_egg:26, Spawn Night Crawler
-minecraft:spawn_egg:27, Spawn Isaac
-minecraft:spawn_egg:28, Spawn Blood Isaac
-minecraft:spawn_egg:29, Spawn Isaac's Head
-minecraft:spawn_egg:30, Spawn Isaac's Body
+minecraft:spawn_egg:24, Spawn Necromantic Teddy
+minecraft:spawn_egg:25, Spawn Night Crawler
+minecraft:spawn_egg:26, Spawn Isaac
+minecraft:spawn_egg:27, Spawn Blood Isaac
+minecraft:spawn_egg:28, Spawn Isaac's Head
+minecraft:spawn_egg:29, Spawn Isaac's Body
 minecraft:spawn_egg:352, Spawn Chicken Minion
 minecraft:spawn_egg:6396, Spawn Demon
 minecraft:spawn_egg:6397, Spawn Mandrake
@@ -3715,6 +3715,21 @@ AWWayofTime:demonPortalMain, Demon Portal
 AWWayofTime:blockSchemSaver, Schematic Saver
 AWWayofTime:blockReagentConduit, Alchemy Relay
 AWWayofTime:blockAlchemicCalcinator, Alchemic Calcinator
+AWWayofTime:blockCrystalBelljar:0, Crystal Belljar
+AWWayofTime:blockCrystalBelljar:0, Crystal Belljar
+AWWayofTime:blockCrystalBelljar:0, Crystal Belljar
+AWWayofTime:blockCrystalBelljar:0, Crystal Belljar
+AWWayofTime:blockCrystalBelljar:0, Crystal Belljar
+AWWayofTime:blockCrystalBelljar:0, Crystal Belljar
+AWWayofTime:blockCrystalBelljar:0, Crystal Belljar
+AWWayofTime:blockCrystalBelljar:0, Crystal Belljar
+AWWayofTime:blockCrystalBelljar:0, Crystal Belljar
+AWWayofTime:blockCrystalBelljar:0, Crystal Belljar
+AWWayofTime:blockCrystalBelljar:0, Crystal Belljar
+AWWayofTime:blockCrystalBelljar:0, Crystal Belljar
+AWWayofTime:blockCrystalBelljar:0, Crystal Belljar
+AWWayofTime:blockCrystalBelljar:0, Crystal Belljar
+AWWayofTime:blockCrystalBelljar:0, Crystal Belljar
 AWWayofTime:blockCrystalBelljar:0, Crystal Belljar
 AWWayofTime:blockDemonChest, Demon's Chest
 AWWayofTime:blockCrystal:0, Crystal Cluster
@@ -9432,7 +9447,7 @@ DraconicEvolution:energyStorageCore, Energy Core
 DraconicEvolution:draconium:0, Draconium Block
 DraconicEvolution:draconium:1, Resurrection Stone
 DraconicEvolution:draconium:2, Charged Draconium Block
-DraconicEvolution:invisibleMultiblock, tile.draconicevolution:invisibleMultiblock.name
+DraconicEvolution:invisibleMultiblock, Energy Core
 DraconicEvolution:energyPylon, Energy Pylon
 DraconicEvolution:placedItem, tile.draconicevolution:placedItem.name
 DraconicEvolution:safetyFlame, tile.draconicevolution:safetyFlame.name
@@ -9583,17 +9598,13 @@ EnderTech:healthPad:1, Redstone Health Pad
 EnderZoo:blockConfusingCharge, Confusing Charge
 EnderZoo:blockEnderCharge, Ender Charge
 EnderZoo:blockConcussionCharge, Concussion Charge
-enviromine:gas, Gas
-enviromine:firegas, Gas Fire
-enviromine:elevator:0, Elevator Top
-enviromine:elevator:1, Elevator Bottom
-enviromine:elevator:2, Elevator Top
-enviromine:elevator:3, Elevator Bottom
-enviromine:davy_lamp:0, Davy Lamp
-enviromine:davy_lamp:1, Davy Lamp
-enviromine:davy_lamp:2, Davy Lamp
-enviromine:firetorch, Torch
-enviromine:offtorch, Torch
+extracells:certustank, extracells.block.certustank.name
+extracells:walrus, Walrus
+extracells:fluidcrafter, ME Fluid Assembler
+extracells:ecbaseblock:0, ME Fluid Interface
+extracells:ecbaseblock:1, ME Fluid Auto Filler
+extracells:hardmedrive, Blast resistant ME Drive [WIP]
+extracells:vibrantchamberfluid, Fluid Vibration Chamber
 minecraft:record_13, Music Disc
 minecraft:record_cat, Music Disc
 minecraft:record_blocks, Music Disc
@@ -9606,22 +9617,10 @@ minecraft:record_strad, Music Disc
 minecraft:record_ward, Music Disc
 minecraft:record_11, Music Disc
 minecraft:record_wait, Music Disc
-enviromine:burningcoal, Burning Coal
-enviromine:flammablecoal, Coal Ore
-enviromine:esky, Esky
-enviromine:freezer, Freezer
-enviromine:no_phys_block, No Physics Block
-extracells:certustank, extracells.block.certustank.name
-extracells:walrus, Walrus
-extracells:fluidcrafter, ME Fluid Assembler
-extracells:ecbaseblock:0, ME Fluid Interface
-extracells:ecbaseblock:1, ME Fluid Auto Filler
-extracells:hardmedrive, Blast resistant ME Drive [WIP]
-extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Entanglement Diviner)
+ExtraUtilities:endConstructor:0, QED (Quantum Entity Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -10591,43 +10590,43 @@ flansmod:teamsSpawner:0, Item Spawner
 flansmod:teamsSpawner:1, Player Spawner
 flansmod:teamsSpawner:2, Vehicle Spawner
 FlatSigns:blockFlatSign, Sign
-ThaumicTinkerer:repairer, Thaumic Restorer
-ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
-ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:forcefield, Forcefield
-ThaumicTinkerer:travelStairs, Paving Stair of Travel
-ThaumicTinkerer:interface, Transvector Interface
 ThaumicTinkerer:animationTablet, Dynamism Tablet
-ThaumicTinkerer:funnel, Essentia Funnel
-ThaumicTinkerer:fireWater, Aqua Imbued Fire
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
+ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:platform, Ethereal Platform
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:travelStairs, Paving Stair of Travel
+ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
 ThaumicTinkerer:magnet:0, Kinetic Attractor
 ThaumicTinkerer:magnet:1, Corporeal Attractor
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:fireEarth, Terra Imbued Fire
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:fireAir, Aer Imbued Fire
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
-ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
-ThaumicTinkerer:spawner, Tablet of Necromancy
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:repairer, Thaumic Restorer
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
+ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
+ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
+ThaumicTinkerer:funnel, Essentia Funnel
+ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:enchanter, Osmotic Enchanter
+ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
+ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:fireWater, Aqua Imbued Fire
+ThaumicTinkerer:fireOrder, Ordo Imbued Fire
 ThaumicTinkerer:wardSlab:0, tile.wardSlab.name
 ThaumicTinkerer:wardSlabFull:0, tile.wardSlab.name
 ThaumicTinkerer:dislocator, Transvector Dislocator
-ThaumicTinkerer:warpGate, Celestial Gateway
-ThaumicTinkerer:platform, Ethereal Platform
-ThaumicTinkerer:fireChaos, Perditio Imbued Fire
-ThaumicTinkerer:enchanter, Osmotic Enchanter
 ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
-ThaumicTinkerer:fireOrder, Ordo Imbued Fire
-ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
+ThaumicTinkerer:warpGate, Celestial Gateway
 ForbiddenMagic:ArcaneCake, Thaumic Cake
 ForbiddenMagic:WrathCage, Wrath Cage
 ForbiddenMagic:InkFlower, Umbral Rose
@@ -11167,12 +11166,12 @@ OpenComputers:waypoint:0, Waypoint
 OpenComputers:endstone:0, End Stone
 OpenComputers:netSplitter:0, Net Splitter
 OpenComputers:transposer:0, Transposer
+icbm:icbmDirectSiloConnector, Silo Control Computer
 icbm:SmallMissileWorkStation, Missile Station
 icbm:StandardMissileLauncher, Standard Launcher
 icbm:ICBMxAMS, AMS Turret
 icbm:ICBMxFoF, FoF Station
 icbm:icbmCommandSiloDisplay, Silo Command Display
-icbm:icbmDirectSiloConnector, Silo Control Computer
 icbm:warhead:0, Micro Warhead
 icbm:warhead:1, Small Warhead
 icbm:warhead:2, Warhead
@@ -15881,7 +15880,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Electrical Steel Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Confusing Charge
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Ender Charge
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Concussion Charge
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Coal Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Angel Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block Update Detector
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Edged Stone Bricks
@@ -16239,11 +16237,11 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Fairy Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pokefennium Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - RedAurum Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Vehicle Crafting Table
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Paving Slab of Travel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Smokey Quartz
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Smokey Quartz Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pillar Smokey Quartz Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Paving Slab of Travel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Nether Star Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Log
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Planks
@@ -18104,6 +18102,24 @@ Forestry:bucketIce, Crushed Ice Bucket
 Forestry:bucketJuice, Juice Bucket
 Forestry:bucketSeedoil, Seed Oil Bucket
 Forestry:bucketShortMead, Short Mead Bucket
+Forestry:beeDroneGE:0, Forest Drone
+Forestry:beeDroneGE:0, Meadows Drone
+Forestry:beeDroneGE:0, Modest Drone
+Forestry:beeDroneGE:0, Tropical Drone
+Forestry:beeDroneGE:0, Wintry Drone
+Forestry:beeDroneGE:0, Marshy Drone
+Forestry:beePrincessGE:0, Forest Princess
+Forestry:beePrincessGE:0, Meadows Princess
+Forestry:beePrincessGE:0, Modest Princess
+Forestry:beePrincessGE:0, Tropical Princess
+Forestry:beePrincessGE:0, Wintry Princess
+Forestry:beePrincessGE:0, Marshy Princess
+Forestry:beeLarvaeGE:0, Forest Larvae
+Forestry:beeLarvaeGE:0, Meadows Larvae
+Forestry:beeLarvaeGE:0, Modest Larvae
+Forestry:beeLarvaeGE:0, Tropical Larvae
+Forestry:beeLarvaeGE:0, Wintry Larvae
+Forestry:beeLarvaeGE:0, Marshy Larvae
 Forestry:beealyzer, Beealyzer
 Forestry:habitatLocator, Habitat Locator
 Forestry:imprinter, Imprinter
@@ -18152,6 +18168,76 @@ Forestry:cratedWheatenCombs, item.cratedWheatenCombs.name
 Forestry:cratedMossyCombs, item.cratedMossyCombs.name
 Forestry:cratedMellowCombs, item.cratedMellowCombs.name
 Forestry:cratedRefractoryWax, item.cratedRefractoryWax.name
+Forestry:sapling:0, Apple Oak Sapling
+Forestry:sapling:0, Silver Birch Sapling
+Forestry:sapling:0, Red Spruce Sapling
+Forestry:sapling:0, Jungle Sapling
+Forestry:sapling:0, Acacia Sapling
+Forestry:sapling:0, Dark Oak Sapling
+Forestry:sapling:0, Silver Lime Sapling
+Forestry:sapling:0, Hill Cherry Sapling
+Forestry:sapling:0, Sweet Chestnut Sapling
+Forestry:sapling:0, Common Walnut Sapling
+Forestry:sapling:0, Mundane Larch Sapling
+Forestry:sapling:0, Bull Pine Sapling
+Forestry:sapling:0, Coast Sequoia Sapling
+Forestry:sapling:0, Giant Sequoia Sapling
+Forestry:sapling:0, Balsa Sapling
+Forestry:sapling:0, Desert Acacia Sapling
+Forestry:sapling:0, Wenge Sapling
+Forestry:sapling:0, Grandidier's Baobab Sapling
+Forestry:sapling:0, Padauk Sapling
+Forestry:sapling:0, Cocobolo Sapling
+Forestry:sapling:0, Teak Sapling
+Forestry:sapling:0, Ipe Sapling
+Forestry:sapling:0, Kapok Sapling
+Forestry:sapling:0, Myrtle Ebony Sapling
+Forestry:sapling:0, Zebrawood Sapling
+Forestry:sapling:0, Yellow Meranti Sapling
+Forestry:sapling:0, White Willow Sapling
+Forestry:sapling:0, Sipiri Sapling
+Forestry:sapling:0, Blue Mahoe Sapling
+Forestry:sapling:0, White Poplar Sapling
+Forestry:sapling:0, Lemon Sapling
+Forestry:sapling:0, Plum Sapling
+Forestry:sapling:0, Sugar Maple Sapling
+Forestry:sapling:0, Papaya Sapling
+Forestry:sapling:0, Date Palm Sapling
+Forestry:pollenFertile:0, Apple Oak Pollen
+Forestry:pollenFertile:0, Silver Birch Pollen
+Forestry:pollenFertile:0, Red Spruce Pollen
+Forestry:pollenFertile:0, Jungle Pollen
+Forestry:pollenFertile:0, Acacia Pollen
+Forestry:pollenFertile:0, Dark Oak Pollen
+Forestry:pollenFertile:0, Silver Lime Pollen
+Forestry:pollenFertile:0, Hill Cherry Pollen
+Forestry:pollenFertile:0, Sweet Chestnut Pollen
+Forestry:pollenFertile:0, Common Walnut Pollen
+Forestry:pollenFertile:0, Mundane Larch Pollen
+Forestry:pollenFertile:0, Bull Pine Pollen
+Forestry:pollenFertile:0, Coast Sequoia Pollen
+Forestry:pollenFertile:0, Giant Sequoia Pollen
+Forestry:pollenFertile:0, Balsa Pollen
+Forestry:pollenFertile:0, Desert Acacia Pollen
+Forestry:pollenFertile:0, Wenge Pollen
+Forestry:pollenFertile:0, Grandidier's Baobab Pollen
+Forestry:pollenFertile:0, Padauk Pollen
+Forestry:pollenFertile:0, Cocobolo Pollen
+Forestry:pollenFertile:0, Teak Pollen
+Forestry:pollenFertile:0, Ipe Pollen
+Forestry:pollenFertile:0, Kapok Pollen
+Forestry:pollenFertile:0, Myrtle Ebony Pollen
+Forestry:pollenFertile:0, Zebrawood Pollen
+Forestry:pollenFertile:0, Yellow Meranti Pollen
+Forestry:pollenFertile:0, White Willow Pollen
+Forestry:pollenFertile:0, Sipiri Pollen
+Forestry:pollenFertile:0, Blue Mahoe Pollen
+Forestry:pollenFertile:0, White Poplar Pollen
+Forestry:pollenFertile:0, Lemon Pollen
+Forestry:pollenFertile:0, Plum Pollen
+Forestry:pollenFertile:0, Sugar Maple Pollen
+Forestry:pollenFertile:0, Papaya Pollen
+Forestry:pollenFertile:0, Date Palm Pollen
 Forestry:treealyzer, Treealyzer
 Forestry:grafter, Grafter
 Forestry:grafterProven, Proven Grafter
@@ -18168,6 +18254,24 @@ Forestry:ambrosia, Ambrosia
 Forestry:honeyPot, Honey Pot
 Forestry:infuser, Infuser
 Forestry:flutterlyzer, Flutterlyzer
+Forestry:butterflyGE:0, Brimstone Moth
+Forestry:butterflyGE:0, Cabbage White
+Forestry:butterflyGE:0, Citrus Swallowtail
+Forestry:butterflyGE:0, Black Swallowtail
+Forestry:butterflyGE:0, Speckled Wood
+Forestry:butterflyGE:0, Brimstone
+Forestry:serumGE:0, Brimstone Moth
+Forestry:serumGE:0, Cabbage White
+Forestry:serumGE:0, Citrus Swallowtail
+Forestry:serumGE:0, Black Swallowtail
+Forestry:serumGE:0, Speckled Wood
+Forestry:serumGE:0, Brimstone
+Forestry:caterpillarGE:0, Brimstone Moth
+Forestry:caterpillarGE:0, Cabbage White
+Forestry:caterpillarGE:0, Citrus Swallowtail
+Forestry:caterpillarGE:0, Black Swallowtail
+Forestry:caterpillarGE:0, Speckled Wood
+Forestry:caterpillarGE:0, Brimstone
 Forestry:stamps:0, Stamp (1n)
 Forestry:stamps:1, Stamp (2n)
 Forestry:stamps:2, Stamp (5n)
@@ -18253,7 +18357,6 @@ StorageDrawers:personalKey:0, Personal Key
 StorageDrawers:personalKey:1, Personal Key (CoFH)
 StorageDrawers:tape, Packing Tape
 dendrology:parcel, Ancient Parcel
-Apocalypse:bucketHelm, Bucket Helmet
 MineFactoryReloaded:hammer, Precision Sledgehammer
 MineFactoryReloaded:plastic.boots, Plastic Boots
 MineFactoryReloaded:rubber.raw, Raw Rubber
@@ -18981,6 +19084,8 @@ ThermalFoundation:tool.sicklePlatinum, Shiny Sickle
 ThermalFoundation:tool.bowPlatinum, Shiny Reinforced Bow
 ThermalExpansion:wrench:0, Crescent Hammer
 ThermalExpansion:tool.battleWrenchInvar, BattleWrench
+ThermalExpansion:meter:0, Multimeter
+ThermalExpansion:meter:1, Debugger
 ThermalExpansion:igniter, item.thermalexpansion.tool.name
 ThermalExpansion:chiller, item.thermalexpansion.tool.name
 ThermalExpansion:pump, item.thermalexpansion.tool.name
@@ -18999,8 +19104,44 @@ ThermalExpansion:satchel:1, Satchel
 ThermalExpansion:satchel:2, Hardened Satchel
 ThermalExpansion:satchel:3, Reinforced Satchel
 ThermalExpansion:satchel:4, Resonant Satchel
-ThermalExpansion:florb:0, Invalid Item (Destroy) (Empty§r)
-ThermalExpansion:florb:1, Invalid Item (Destroy) (Empty§r)
+ThermalExpansion:diagram:0, Schematic
+ThermalExpansion:diagram:1, Redprint
+ThermalExpansion:material:0, Pneumatic Servo
+ThermalExpansion:material:1, Redstone Reception Coil
+ThermalExpansion:material:2, Redstone Transmission Coil
+ThermalExpansion:material:3, Redstone Conductance Coil
+ThermalExpansion:material:16, Signalum Security Lock
+ThermalExpansion:material:512, Sawdust
+ThermalExpansion:material:513, Compressed Sawdust
+ThermalExpansion:material:514, Slag
+ThermalExpansion:material:515, Rich Slag
+ThermalExpansion:material:516, Phyto-Gro
+ThermalExpansion:material:517, Rich Phyto-Gro
+ThermalExpansion:augment:0, Augment: Integrated Servo Mechanism
+ThermalExpansion:augment:1, Augment: Integrated Hopper Apparatus
+ThermalExpansion:augment:16, Augment: Integrated Modular Framework
+ThermalExpansion:augment:32, Augment: Integrated Redstone Circuit
+ThermalExpansion:augment:48, Augment: Transmission Coil Ducting
+ThermalExpansion:augment:49, Augment: Excitation Field Limiter
+ThermalExpansion:augment:64, Augment: Secondary Gearbox
+ThermalExpansion:augment:65, Augment: Flux Linkage Optimization
+ThermalExpansion:augment:66, Augment: CryoCoil Regulator
+ThermalExpansion:augment:80, Augment: Secondary Transmission Coil
+ThermalExpansion:augment:81, Augment: Flux Modulation Booster
+ThermalExpansion:augment:82, Augment: CryoCoil Flux Amplifier
+ThermalExpansion:augment:112, Augment: Secondary Sieve
+ThermalExpansion:augment:113, Augment: Stabilized Frame
+ThermalExpansion:augment:114, Augment: GyroServo Feedback
+ThermalExpansion:augment:128, Augment: Secondary Reception Coil
+ThermalExpansion:augment:129, Augment: Overclocked Modular Gearbox
+ThermalExpansion:augment:130, Augment: Space-Time Flux Unifier
+ThermalExpansion:augment:144, Augment: Nullification Chamber
+ThermalExpansion:augment:256, Augment: Trivection Chamber
+ThermalExpansion:augment:312, Augment: Accelerated Extrusion
+ThermalExpansion:augment:313, Augment: Igneous Catalyst
+ThermalExpansion:augment:314, Augment: Pyroclastic Generation
+ThermalExpansion:florb:0, Florb (Empty§r)
+ThermalExpansion:florb:1, Magmatic Florb (Empty§r)
 BigReactors:BRIngot:0, Yellorium Ingot
 BigReactors:BRIngot:1, Cyanite Ingot
 BigReactors:BRIngot:2, Graphite Bar
@@ -19137,6 +19278,106 @@ BinnieCore:containerCylinder:771, Raw DNA Cylinder
 BinnieCore:containerCylinder:772, Bacteria Vector Cylinder
 BinnieCore:genesis, item.genesis.name
 BinnieCore:fieldKit, item.fieldKit.name
+Botany:seed:0, Dandelion Germling
+Botany:seed:0, Poppy Germling
+Botany:seed:0, Orchid Germling
+Botany:seed:0, Allium Germling
+Botany:seed:0, Bluet Germling
+Botany:seed:0, Tulip Germling
+Botany:seed:0, Tulip Germling
+Botany:seed:0, Tulip Germling
+Botany:seed:0, Tulip Germling
+Botany:seed:0, Daisy Germling
+Botany:seed:0, Cornflower Germling
+Botany:seed:0, Pansy Germling
+Botany:seed:0, Iris Germling
+Botany:seed:0, Lavender Germling
+Botany:seed:0, Viola Germling
+Botany:seed:0, Daffodil Germling
+Botany:seed:0, Dahlia Germling
+Botany:seed:0, Peony Germling
+Botany:seed:0, Rose Germling
+Botany:seed:0, Lilac Germling
+Botany:seed:0, Hydrangea Germling
+Botany:seed:0, Foxglove Germling
+Botany:seed:0, Zinnia Germling
+Botany:seed:0, Chrysanthemum Germling
+Botany:seed:0, Marigold Germling
+Botany:seed:0, Geranium Germling
+Botany:seed:0, Azalea Germling
+Botany:seed:0, Primrose Germling
+Botany:seed:0, Aster Germling
+Botany:seed:0, Carnation Germling
+Botany:seed:0, Lily Germling
+Botany:seed:0, Yarrow Germling
+Botany:seed:0, Petunia Germling
+Botany:seed:0, Agapanthus Germling
+Botany:seed:0, Fuchsia Germling
+Botany:seed:0, Dianthus Germling
+Botany:seed:0, Forget-me-nots Germling
+Botany:seed:0, Anemone Germling
+Botany:seed:0, Aquilegia Germling
+Botany:seed:0, Edelweiss Germling
+Botany:seed:0, Scabious Germling
+Botany:seed:0, Coneflower Germling
+Botany:seed:0, Gaillardia Germling
+Botany:seed:0, Auricula Germling
+Botany:seed:0, Camellia Germling
+Botany:seed:0, Goldenrod Germling
+Botany:seed:0, Althea Germling
+Botany:seed:0, Penstemon Germling
+Botany:seed:0, Delphinium Germling
+Botany:seed:0, Hollyhock Germling
+Botany:pollen:0, Dandelion Pollen
+Botany:pollen:0, Poppy Pollen
+Botany:pollen:0, Orchid Pollen
+Botany:pollen:0, Allium Pollen
+Botany:pollen:0, Bluet Pollen
+Botany:pollen:0, Tulip Pollen
+Botany:pollen:0, Tulip Pollen
+Botany:pollen:0, Tulip Pollen
+Botany:pollen:0, Tulip Pollen
+Botany:pollen:0, Daisy Pollen
+Botany:pollen:0, Cornflower Pollen
+Botany:pollen:0, Pansy Pollen
+Botany:pollen:0, Iris Pollen
+Botany:pollen:0, Lavender Pollen
+Botany:pollen:0, Viola Pollen
+Botany:pollen:0, Daffodil Pollen
+Botany:pollen:0, Dahlia Pollen
+Botany:pollen:0, Peony Pollen
+Botany:pollen:0, Rose Pollen
+Botany:pollen:0, Lilac Pollen
+Botany:pollen:0, Hydrangea Pollen
+Botany:pollen:0, Foxglove Pollen
+Botany:pollen:0, Zinnia Pollen
+Botany:pollen:0, Chrysanthemum Pollen
+Botany:pollen:0, Marigold Pollen
+Botany:pollen:0, Geranium Pollen
+Botany:pollen:0, Azalea Pollen
+Botany:pollen:0, Primrose Pollen
+Botany:pollen:0, Aster Pollen
+Botany:pollen:0, Carnation Pollen
+Botany:pollen:0, Lily Pollen
+Botany:pollen:0, Yarrow Pollen
+Botany:pollen:0, Petunia Pollen
+Botany:pollen:0, Agapanthus Pollen
+Botany:pollen:0, Fuchsia Pollen
+Botany:pollen:0, Dianthus Pollen
+Botany:pollen:0, Forget-me-nots Pollen
+Botany:pollen:0, Anemone Pollen
+Botany:pollen:0, Aquilegia Pollen
+Botany:pollen:0, Edelweiss Pollen
+Botany:pollen:0, Scabious Pollen
+Botany:pollen:0, Coneflower Pollen
+Botany:pollen:0, Gaillardia Pollen
+Botany:pollen:0, Auricula Pollen
+Botany:pollen:0, Camellia Pollen
+Botany:pollen:0, Goldenrod Pollen
+Botany:pollen:0, Althea Pollen
+Botany:pollen:0, Penstemon Pollen
+Botany:pollen:0, Delphinium Pollen
+Botany:pollen:0, Hollyhock Pollen
 Botany:database, item.database.name
 Botany:trowelWood, Wooden Trowel
 Botany:trowelStone, Stone Trowel
@@ -19155,6 +19396,56 @@ Botany:misc:6, Mortar
 Botany:misc:7, Weedkiller
 Botany:encylopedia, item.encylopedia.name
 Botany:encylopediaIron, item.encylopediaIron.name
+Botany:itemFlower:0, Dandelion
+Botany:itemFlower:0, Poppy
+Botany:itemFlower:0, Orchid
+Botany:itemFlower:0, Allium
+Botany:itemFlower:0, Bluet
+Botany:itemFlower:0, Tulip
+Botany:itemFlower:0, Tulip
+Botany:itemFlower:0, Tulip
+Botany:itemFlower:0, Tulip
+Botany:itemFlower:0, Daisy
+Botany:itemFlower:0, Cornflower
+Botany:itemFlower:0, Pansy
+Botany:itemFlower:0, Iris
+Botany:itemFlower:0, Lavender
+Botany:itemFlower:0, Viola
+Botany:itemFlower:0, Daffodil
+Botany:itemFlower:0, Dahlia
+Botany:itemFlower:0, Peony
+Botany:itemFlower:0, Rose
+Botany:itemFlower:0, Lilac
+Botany:itemFlower:0, Hydrangea
+Botany:itemFlower:0, Foxglove
+Botany:itemFlower:0, Zinnia
+Botany:itemFlower:0, Chrysanthemum
+Botany:itemFlower:0, Marigold
+Botany:itemFlower:0, Geranium
+Botany:itemFlower:0, Azalea
+Botany:itemFlower:0, Primrose
+Botany:itemFlower:0, Aster
+Botany:itemFlower:0, Carnation
+Botany:itemFlower:0, Lily
+Botany:itemFlower:0, Yarrow
+Botany:itemFlower:0, Petunia
+Botany:itemFlower:0, Agapanthus
+Botany:itemFlower:0, Fuchsia
+Botany:itemFlower:0, Dianthus
+Botany:itemFlower:0, Forget-me-nots
+Botany:itemFlower:0, Anemone
+Botany:itemFlower:0, Aquilegia
+Botany:itemFlower:0, Edelweiss
+Botany:itemFlower:0, Scabious
+Botany:itemFlower:0, Coneflower
+Botany:itemFlower:0, Gaillardia
+Botany:itemFlower:0, Auricula
+Botany:itemFlower:0, Camellia
+Botany:itemFlower:0, Goldenrod
+Botany:itemFlower:0, Althea
+Botany:itemFlower:0, Penstemon
+Botany:itemFlower:0, Delphinium
+Botany:itemFlower:0, Hollyhock
 Botany:pigment:0, Aquamarine Pigment
 Botany:pigment:1, Black Pigment
 Botany:pigment:2, Deep Blue Pigment
@@ -19334,7 +19625,6 @@ ExtraBees:honeyComb:10, Alcoholic Comb
 ExtraBees:honeyComb:11, Rocky Comb
 ExtraBees:honeyComb:12, Energetic Comb
 ExtraBees:honeyComb:13, Amber Comb
-ExtraBees:honeyComb:14, Static Comb
 ExtraBees:honeyComb:15, Iron Comb
 ExtraBees:honeyComb:16, Golden Comb
 ExtraBees:honeyComb:17, Copper Comb
@@ -19354,9 +19644,7 @@ ExtraBees:honeyComb:31, Caffeinated Comb
 ExtraBees:honeyComb:32, Glacial Comb
 ExtraBees:honeyComb:36, Shadow Comb
 ExtraBees:honeyComb:37, Leaden Comb
-ExtraBees:honeyComb:40, Zinc Comb
 ExtraBees:honeyComb:41, Titanium Comb
-ExtraBees:honeyComb:42, Tungsten Comb
 ExtraBees:honeyComb:45, Platinum Comb
 ExtraBees:honeyComb:46, Lapis Comb
 ExtraBees:honeyComb:52, Emerald Comb
@@ -19400,22 +19688,6 @@ ExtraBees:honeyDrop:5, Kelvin Drop
 ExtraBees:honeyDrop:6, Milkdew
 ExtraBees:honeyDrop:7, Nutdew
 ExtraBees:honeyDrop:8, Tipsy Drop
-ExtraBees:honeyDrop:13, Red Tinted Honey
-ExtraBees:honeyDrop:14, Yellow Tinted Honey
-ExtraBees:honeyDrop:15, Blue Tinted Honey
-ExtraBees:honeyDrop:16, Green Tinted Honey
-ExtraBees:honeyDrop:17, Black Tinted Honey
-ExtraBees:honeyDrop:18, White Tinted Honey
-ExtraBees:honeyDrop:19, Brown Tinted Honey
-ExtraBees:honeyDrop:20, Orange Tinted Honey
-ExtraBees:honeyDrop:21, Cyan Tinted Honey
-ExtraBees:honeyDrop:22, Purple Tinted Honey
-ExtraBees:honeyDrop:23, Gray Tinted Honey
-ExtraBees:honeyDrop:24, Light Blue Tinted Honey
-ExtraBees:honeyDrop:25, Pink Tinted Honey
-ExtraBees:honeyDrop:26, Lime Green Tinted Honey
-ExtraBees:honeyDrop:27, Magenta Tinted Honey
-ExtraBees:honeyDrop:28, Light Gray Tinted Honey
 ExtraBees:honeyCrystal, item.honeyCrystal.name
 ExtraBees:honeyCrystalEmpty, item.honeyCrystalEmpty.name
 ExtraBees:dictionary, item.dictionary.name
@@ -21626,15 +21898,6 @@ EnderZoo:witheringDust, Withering Dust
 EnderZoo:confusingDust, Confusing Powder
 EnderZoo:enderFragment, Ender Fragment
 EnderZoo:guardiansBow, Guardians Bow
-enviromine:badWaterBottle, Dirty Water Bottle
-enviromine:saltWaterBottle, Salt Water Bottle
-enviromine:coldWaterBottle, Cold Water Bottle
-enviromine:airFilter, Air Filter
-enviromine:rottenFood, Rotten Food
-enviromine:spoiledMilk, Spoiled Milk
-enviromine:camelPack, Camel Pack
-enviromine:gasMask, Respirator
-enviromine:hardHat, Hard Hat
 eureka:engineeringDiary, Engineering Diary
 extracells:part.base:0, ME Fluid Export Bus
 extracells:part.base:1, ME Fluid Import Bus
@@ -26074,31 +26337,6 @@ icbm:explosiveUnit:14, Biome Shift Charge
 icbm:explosiveUnit:14, Biome Shift Charge
 icbm:explosiveUnit:14, Biome Shift Charge
 icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
-icbm:explosiveUnit:14, Biome Shift Charge
 icbm:explosiveUnit:15, Ore Up Draft Charge
 icbm:explosiveUnit:16, item.icbm:explosiveItem.SlimeRain.name
 icbm:explosiveUnitParts:0, Arrow Tube
@@ -27187,9 +27425,6 @@ SolarExpansion:solarHelmetRedstone, Redstone Solar Helmet
 SolarExpansion:solarHelmetResonant, Resonant Solar Helmet
 SolarExpansion:solarHelmetAdvanced, Advanced Solar Helmet
 SolarExpansion:solarHelmetUltimate, Ultimate Solar Helmet
-SpiceOfLife:bookfoodjournal, Food Journal
-SpiceOfLife:lunchbox, Lunch Box
-SpiceOfLife:lunchbag, Lunch Bag
 StevesAddons:duplicator, Manager Duplicator
 StevesAddons:labeler, Factory Labeler
 StevesCarts:ModularCart:0, Modular cart
@@ -31590,10 +31825,6 @@ ThermalDynamics:cover:0, Dark Iron Bars Cover
 ThermalDynamics:cover:0, Confusing Charge Cover
 ThermalDynamics:cover:0, Ender Charge Cover
 ThermalDynamics:cover:0, Concussion Charge Cover
-ThermalDynamics:cover:0, Torch Cover
-ThermalDynamics:cover:0, Torch Cover
-ThermalDynamics:cover:0, Coal Ore Cover
-ThermalDynamics:cover:0, No Physics Block Cover
 ThermalDynamics:cover:0, Blackout Curtains Cover
 ThermalDynamics:cover:0, Angel Block Cover
 ThermalDynamics:cover:0, Block Update Detector Cover
@@ -32351,25 +32582,25 @@ ThermalDynamics:cover:0, Molten Constantan Cover
 ThermalDynamics:cover:0, Fairy Block Cover
 ThermalDynamics:cover:0, Pokefennium Block Cover
 ThermalDynamics:cover:0, RedAurum Block Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
 ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
 ThermalDynamics:cover:0, Bedrock Portal Cover
-ThermalDynamics:cover:0, Paving Stair of Travel Cover
-ThermalDynamics:cover:0, Aqua Imbued Fire Cover
-ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
-ThermalDynamics:cover:0, Terra Imbued Fire Cover
 ThermalDynamics:cover:0, Aer Imbued Fire Cover
 ThermalDynamics:cover:0, tile.gaseousLight.name Cover
-ThermalDynamics:cover:0, Paving Slab of Travel Cover
-ThermalDynamics:cover:0, Paving Slab of Travel Cover
+ThermalDynamics:cover:0, Paving Stair of Travel Cover
+ThermalDynamics:cover:0, Perditio Imbued Fire Cover
 ThermalDynamics:cover:0, Block of Smokey Quartz Cover
 ThermalDynamics:cover:0, Chiseled Smokey Quartz Block Cover
 ThermalDynamics:cover:0, Pillar Smokey Quartz Block Cover
-ThermalDynamics:cover:0, Perditio Imbued Fire Cover
-ThermalDynamics:cover:0, tile.nitorGas.name Cover
+ThermalDynamics:cover:0, Paving Slab of Travel Cover
+ThermalDynamics:cover:0, Paving Slab of Travel Cover
+ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
 ThermalDynamics:cover:0, Ignis Imbued Fire Cover
+ThermalDynamics:cover:0, Terra Imbued Fire Cover
+ThermalDynamics:cover:0, Aqua Imbued Fire Cover
 ThermalDynamics:cover:0, Ordo Imbued Fire Cover
+ThermalDynamics:cover:0, tile.nitorGas.name Cover
 ThermalDynamics:cover:0, Thaumic Cake Cover
 ThermalDynamics:cover:0, Umbral Rose Cover
 ThermalDynamics:cover:0, Nether Star Block Cover
@@ -33184,6 +33415,37 @@ ThermalDynamics:cover:0, Witchwood Slab Cover
 ThermalDynamics:cover:0, Witchwood Slab Cover
 ThermalDynamics:cover:0, Illusion Block Cover
 ThermalDynamics:cover:0, Ethereal Illusion Block Cover
+ThermalDynamics:cover:0, Machine Frame (Basic) Cover
+ThermalDynamics:cover:0, Machine Frame (Hardened) Cover
+ThermalDynamics:cover:0, Machine Frame (Reinforced) Cover
+ThermalDynamics:cover:0, Machine Frame (Resonant) Cover
+ThermalDynamics:cover:0, Leadstone Energy Cell Frame Cover
+ThermalDynamics:cover:0, Hardened Energy Cell Frame Cover
+ThermalDynamics:cover:0, Redstone Energy Cell Frame (Empty) Cover
+ThermalDynamics:cover:0, Redstone Energy Cell Frame (Full) Cover
+ThermalDynamics:cover:0, Resonant Energy Cell Frame (Empty) Cover
+ThermalDynamics:cover:0, Resonant Energy Cell Frame (Full) Cover
+ThermalDynamics:cover:0, Tesseract Frame (Empty) Cover
+ThermalDynamics:cover:0, Tesseract Frame (Full) Cover
+ThermalDynamics:cover:0, Illuminator Frame Cover
+ThermalDynamics:cover:0, Hardened Glass Cover
+ThermalDynamics:cover:0, Hardened Lumium Glass Cover
+ThermalDynamics:cover:0, White Rockwool Cover
+ThermalDynamics:cover:0, Orange Rockwool Cover
+ThermalDynamics:cover:0, Magenta Rockwool Cover
+ThermalDynamics:cover:0, Light Blue Rockwool Cover
+ThermalDynamics:cover:0, Yellow Rockwool Cover
+ThermalDynamics:cover:0, Lime Rockwool Cover
+ThermalDynamics:cover:0, Pink Rockwool Cover
+ThermalDynamics:cover:0, Gray Rockwool Cover
+ThermalDynamics:cover:0, Light Gray Rockwool Cover
+ThermalDynamics:cover:0, Cyan Rockwool Cover
+ThermalDynamics:cover:0, Purple Rockwool Cover
+ThermalDynamics:cover:0, Blue Rockwool Cover
+ThermalDynamics:cover:0, Brown Rockwool Cover
+ThermalDynamics:cover:0, Green Rockwool Cover
+ThermalDynamics:cover:0, Red Rockwool Cover
+ThermalDynamics:cover:0, Black Rockwool Cover
 ThermalDynamics:retriever:0, Retriever
 ThermalDynamics:retriever:1, Hardened Retriever
 ThermalDynamics:retriever:2, Reinforced Retriever
@@ -33192,7 +33454,6 @@ ThermalDynamics:retriever:4, Resonant Retriever
 ThermalDynamics:relay:0, Redstone Relay
 TMechworks:LengthWire, Length of Wire
 TMechworks:SpoolWire:0, Spool of Wire
-trophyslots:trophy, Trophy
 witchery:ingredient:0, Candelabra
 witchery:ingredient:1, Chalice
 witchery:ingredient:2, Chalice (Filled)
