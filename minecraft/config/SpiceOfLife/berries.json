@@ -2,7 +2,10 @@
 	"food":{
 		"oredict":[
 			"listAllberry",
-			"cropCandleberry"
+			"cropCandleberry",
+			"cropBlueberry",
+			"cropBlackberry",
+			"cropRasberry"
 		]
 	},
 	"name" : "Berries",

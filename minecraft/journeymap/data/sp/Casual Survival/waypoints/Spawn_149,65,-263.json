@@ -1,0 +1,17 @@
+{
+  "id": "Spawn_149,65,-263",
+  "name": "Spawn",
+  "icon": "waypoint-normal.png",
+  "x": 149,
+  "y": 65,
+  "z": -263,
+  "r": 246,
+  "g": 255,
+  "b": 241,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

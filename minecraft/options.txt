@@ -27,7 +27,7 @@ snooperEnabled:true
 fullscreen:false
 enableVsync:false
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 showCape:true
 touchscreen:false
@@ -223,7 +223,7 @@ key_key.journeymap.create_waypoint:36
 key_key.activate:47
 key_key.toggle:21
 key_BetterFps:28
-soundCategory_master:0.0
+soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
