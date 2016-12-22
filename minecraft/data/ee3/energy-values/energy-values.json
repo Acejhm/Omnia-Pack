@@ -733,7 +733,7 @@
     "itemstack": {
       "name": "minecraft:torch"
     },
-    "energyValue": 9.0
+    "energyValue": 20.0
   },
   {
     "itemstack": {
@@ -877,7 +877,7 @@
     "itemstack": {
       "name": "minecraft:lit_pumpkin"
     },
-    "energyValue": 153.0
+    "energyValue": 160.5
   },
   {
     "itemstack": {
@@ -1623,7 +1623,7 @@
     "itemstack": {
       "name": "minecraft:bread"
     },
-    "energyValue": 13.6
+    "energyValue": 24.0
   },
   {
     "itemstack": {
@@ -3822,69 +3822,69 @@
       "name": "Railcraft:lantern.stone",
       "metaValue": 1
     },
-    "energyValue": 185.0
+    "energyValue": 196.0
   },
   {
     "itemstack": {
       "name": "Railcraft:lantern.stone",
       "metaValue": 2
     },
-    "energyValue": 65.0
+    "energyValue": 76.0
   },
   {
     "itemstack": {
       "name": "Railcraft:lantern.stone",
       "metaValue": 3
     },
-    "energyValue": 227.0
+    "energyValue": 238.0
   },
   {
     "itemstack": {
       "name": "Railcraft:lantern.stone",
       "metaValue": 4
     },
-    "energyValue": 115.0
+    "energyValue": 126.0
   },
   {
     "itemstack": {
       "name": "Railcraft:lantern.stone",
       "metaValue": 5
     },
-    "energyValue": 17.0
+    "energyValue": 28.0
   },
   {
     "itemstack": {
       "name": "Railcraft:lantern.stone",
       "metaValue": 7
     },
-    "energyValue": 269.0
+    "energyValue": 280.0
   },
   {
     "itemstack": {
       "name": "Railcraft:lantern.stone",
       "metaValue": 8
     },
-    "energyValue": 13.0
+    "energyValue": 24.0
   },
   {
     "itemstack": {
       "name": "Railcraft:lantern.stone",
       "metaValue": 9
     },
-    "energyValue": 10.0
+    "energyValue": 21.0
   },
   {
     "itemstack": {
       "name": "Railcraft:lantern.metal"
     },
-    "energyValue": 2313.0
+    "energyValue": 2324.0
   },
   {
     "itemstack": {
       "name": "Railcraft:lantern.metal",
       "metaValue": 1
     },
-    "energyValue": 18441.0
+    "energyValue": 18452.0
   },
   {
     "itemstack": {
@@ -12802,14 +12802,14 @@
     "itemstack": {
       "name": "BiblioCraft:BiblioDesk"
     },
-    "energyValue": 69.7
+    "energyValue": 80.7
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioDesk",
       "metaValue": 6
     },
-    "energyValue": 71.0
+    "energyValue": 82.0
   },
   {
     "itemstack": {
@@ -12846,223 +12846,223 @@
     "itemstack": {
       "name": "BiblioCraft:BiblioLantern"
     },
-    "energyValue": 4873.5
+    "energyValue": 4884.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioLantern",
       "metaValue": 1
     },
-    "energyValue": 4889.5
+    "energyValue": 4900.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioLantern",
       "metaValue": 2
     },
-    "energyValue": 4889.5
+    "energyValue": 4900.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioLantern",
       "metaValue": 3
     },
-    "energyValue": 4889.5
+    "energyValue": 4900.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioLantern",
       "metaValue": 4
     },
-    "energyValue": 4889.5
+    "energyValue": 4900.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioLantern",
       "metaValue": 5
     },
-    "energyValue": 4889.5
+    "energyValue": 4900.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioLantern",
       "metaValue": 6
     },
-    "energyValue": 4889.5
+    "energyValue": 4900.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioLantern",
       "metaValue": 7
     },
-    "energyValue": 4889.5
+    "energyValue": 4900.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioLantern",
       "metaValue": 8
     },
-    "energyValue": 4889.5
+    "energyValue": 4900.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioLantern",
       "metaValue": 9
     },
-    "energyValue": 4889.5
+    "energyValue": 4900.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioLantern",
       "metaValue": 10
     },
-    "energyValue": 4889.5
+    "energyValue": 4900.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioLantern",
       "metaValue": 11
     },
-    "energyValue": 4889.5
+    "energyValue": 4900.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioLantern",
       "metaValue": 12
     },
-    "energyValue": 4889.5
+    "energyValue": 4900.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioLantern",
       "metaValue": 13
     },
-    "energyValue": 4889.5
+    "energyValue": 4900.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioLantern",
       "metaValue": 14
     },
-    "energyValue": 4889.5
+    "energyValue": 4900.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioLantern",
       "metaValue": 15
     },
-    "energyValue": 4889.5
+    "energyValue": 4900.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioIronLantern"
     },
-    "energyValue": 1289.5
+    "energyValue": 1300.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioIronLantern",
       "metaValue": 1
     },
-    "energyValue": 1305.5
+    "energyValue": 1316.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioIronLantern",
       "metaValue": 2
     },
-    "energyValue": 1305.5
+    "energyValue": 1316.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioIronLantern",
       "metaValue": 3
     },
-    "energyValue": 1305.5
+    "energyValue": 1316.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioIronLantern",
       "metaValue": 4
     },
-    "energyValue": 1305.5
+    "energyValue": 1316.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioIronLantern",
       "metaValue": 5
     },
-    "energyValue": 1305.5
+    "energyValue": 1316.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioIronLantern",
       "metaValue": 6
     },
-    "energyValue": 1305.5
+    "energyValue": 1316.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioIronLantern",
       "metaValue": 7
     },
-    "energyValue": 1305.5
+    "energyValue": 1316.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioIronLantern",
       "metaValue": 8
     },
-    "energyValue": 1305.5
+    "energyValue": 1316.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioIronLantern",
       "metaValue": 9
     },
-    "energyValue": 1305.5
+    "energyValue": 1316.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioIronLantern",
       "metaValue": 10
     },
-    "energyValue": 1305.5
+    "energyValue": 1316.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioIronLantern",
       "metaValue": 11
     },
-    "energyValue": 1305.5
+    "energyValue": 1316.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioIronLantern",
       "metaValue": 12
     },
-    "energyValue": 1305.5
+    "energyValue": 1316.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioIronLantern",
       "metaValue": 13
     },
-    "energyValue": 1305.5
+    "energyValue": 1316.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioIronLantern",
       "metaValue": 14
     },
-    "energyValue": 1305.5
+    "energyValue": 1316.5
   },
   {
     "itemstack": {
       "name": "BiblioCraft:BiblioIronLantern",
       "metaValue": 15
     },
-    "energyValue": 1305.5
+    "energyValue": 1316.5
   },
   {
     "itemstack": {
@@ -14060,7 +14060,7 @@
     "itemstack": {
       "name": "DeeperCaves:fragmented_cobblestone"
     },
-    "energyValue": 8.0
+    "energyValue": 5.0
   },
   {
     "itemstack": {
@@ -14388,6 +14388,44 @@
   },
   {
     "itemstack": {
+      "name": "enviromine:elevator"
+    },
+    "energyValue": 6656.0
+  },
+  {
+    "itemstack": {
+      "name": "enviromine:elevator",
+      "metaValue": 1
+    },
+    "energyValue": 78560.0
+  },
+  {
+    "itemstack": {
+      "name": "enviromine:davy_lamp"
+    },
+    "energyValue": 8212.25
+  },
+  {
+    "itemstack": {
+      "name": "enviromine:davy_lamp",
+      "metaValue": 1
+    },
+    "energyValue": 8232.25
+  },
+  {
+    "itemstack": {
+      "name": "enviromine:esky"
+    },
+    "energyValue": 4386.999
+  },
+  {
+    "itemstack": {
+      "name": "enviromine:freezer"
+    },
+    "energyValue": 13606.999
+  },
+  {
+    "itemstack": {
       "name": "ExtraUtilities:chestMini"
     },
     "energyValue": 7.111
@@ -14446,7 +14484,7 @@
     "itemstack": {
       "name": "ExtraUtilities:chandelier"
     },
-    "energyValue": 12324.0
+    "energyValue": 12368.0
   },
   {
     "itemstack": {
@@ -16987,7 +17025,7 @@
     "itemstack": {
       "name": "ImmersiveEngineering:clothDevice"
     },
-    "energyValue": 160.5
+    "energyValue": 164.25
   },
   {
     "itemstack": {
@@ -17496,9 +17534,15 @@
   },
   {
     "itemstack": {
-      "name": "ThaumicTinkerer:darkQuartzSlab"
+      "name": "ThaumicTinkerer:travelStairs"
     },
-    "energyValue": 528.0
+    "energyValue": 588.0
+  },
+  {
+    "itemstack": {
+      "name": "ThaumicTinkerer:darkQuartzStairs"
+    },
+    "energyValue": 1584.0
   },
   {
     "itemstack": {
@@ -17528,21 +17572,15 @@
   },
   {
     "itemstack": {
+      "name": "ThaumicTinkerer:darkQuartzSlab"
+    },
+    "energyValue": 528.0
+  },
+  {
+    "itemstack": {
       "name": "ThaumicTinkerer:wardSlab"
     },
     "energyValue": 32.0
-  },
-  {
-    "itemstack": {
-      "name": "ThaumicTinkerer:darkQuartzStairs"
-    },
-    "energyValue": 1584.0
-  },
-  {
-    "itemstack": {
-      "name": "ThaumicTinkerer:travelStairs"
-    },
-    "energyValue": 588.0
   },
   {
     "itemstack": {
@@ -18167,6 +18205,19 @@
   },
   {
     "itemstack": {
+      "name": "LogisticsPipes:logisticsSolidBlock"
+    },
+    "energyValue": 1600.0
+  },
+  {
+    "itemstack": {
+      "name": "LogisticsPipes:logisticsSolidBlock",
+      "metaValue": 1
+    },
+    "energyValue": 1888.0
+  },
+  {
+    "itemstack": {
       "name": "Mariculture:metals",
       "metaValue": 5
     },
@@ -18571,6 +18622,12 @@
   },
   {
     "itemstack": {
+      "name": "OpenPeripheral:ticketmachine"
+    },
+    "energyValue": 2048.125
+  },
+  {
+    "itemstack": {
       "name": "OpenPeripheral:pim"
     },
     "energyValue": 319.999
@@ -18586,12 +18643,6 @@
       "name": "OpenPeripheral:selector"
     },
     "energyValue": 205.124
-  },
-  {
-    "itemstack": {
-      "name": "OpenPeripheral:ticketmachine"
-    },
-    "energyValue": 2048.125
   },
   {
     "itemstack": {
@@ -19235,7 +19286,7 @@
     "itemstack": {
       "name": "secretroomsmod:TorchLever"
     },
-    "energyValue": 41.0
+    "energyValue": 52.0
   },
   {
     "itemstack": {
@@ -19777,7 +19828,7 @@
     "itemstack": {
       "name": "arsmagica2:InscriptionTable"
     },
-    "energyValue": 125.0
+    "energyValue": 136.0
   },
   {
     "itemstack": {
@@ -20521,42 +20572,6 @@
       "metaValue": 10
     },
     "energyValue": 130.999
-  },
-  {
-    "itemstack": {
-      "name": "weather2:TornadoSensor"
-    },
-    "energyValue": 3136.0
-  },
-  {
-    "itemstack": {
-      "name": "weather2:TornadoSiren"
-    },
-    "energyValue": 4288.0
-  },
-  {
-    "itemstack": {
-      "name": "weather2:WindVane"
-    },
-    "energyValue": 1344.0
-  },
-  {
-    "itemstack": {
-      "name": "weather2:WeatherForecast"
-    },
-    "energyValue": 2208.0
-  },
-  {
-    "itemstack": {
-      "name": "weather2:WeatherMachine"
-    },
-    "energyValue": 9344.0
-  },
-  {
-    "itemstack": {
-      "name": "weather2:WeatherDeflector"
-    },
-    "energyValue": 10496.0
   },
   {
     "itemstack": {
@@ -21624,6 +21639,12 @@
   },
   {
     "itemstack": {
+      "name": "Railcraft:cart.gift"
+    },
+    "energyValue": 8788.0
+  },
+  {
+    "itemstack": {
       "name": "Railcraft:routing.table"
     },
     "energyValue": 200.0
@@ -21834,6 +21855,12 @@
       "name": "StorageDrawers:tape"
     },
     "energyValue": 120.0
+  },
+  {
+    "itemstack": {
+      "name": "Apocalypse:bucketHelm"
+    },
+    "energyValue": 1.0
   },
   {
     "itemstack": {
@@ -23114,14 +23141,14 @@
       "name": "ExtraTrees:misc",
       "metaValue": 6
     },
-    "energyValue": 13.7
+    "energyValue": 15.0
   },
   {
     "itemstack": {
       "name": "ExtraTrees:misc",
       "metaValue": 7
     },
-    "energyValue": 13.7
+    "energyValue": 15.0
   },
   {
     "itemstack": {
@@ -23816,12 +23843,6 @@
   },
   {
     "itemstack": {
-      "name": "MoCreatures:omelet"
-    },
-    "energyValue": 32.0
-  },
-  {
-    "itemstack": {
       "name": "MoCreatures:key"
     },
     "energyValue": 264.0
@@ -24330,6 +24351,56 @@
   },
   {
     "itemstack": {
+      "name": "enviromine:badWaterBottle"
+    },
+    "energyValue": 1.666
+  },
+  {
+    "itemstack": {
+      "name": "enviromine:saltWaterBottle"
+    },
+    "energyValue": 1.666
+  },
+  {
+    "itemstack": {
+      "name": "enviromine:coldWaterBottle"
+    },
+    "energyValue": 0.916
+  },
+  {
+    "itemstack": {
+      "name": "enviromine:airFilter"
+    },
+    "energyValue": 408.0
+  },
+  {
+    "itemstack": {
+      "name": "enviromine:camelPack",
+      "tagCompound": "{camelPackFill:0,camelPackMax:100,camelPath:\"enviromine:camelPack\",isCamelPack:1b}"
+    },
+    "energyValue": 512.333
+  },
+  {
+    "itemstack": {
+      "name": "enviromine:camelPack",
+      "tagCompound": "{camelPackFill:25,camelPackMax:100,camelPath:\"enviromine:camelPack\",isCamelPack:1b}"
+    },
+    "energyValue": 512.666
+  },
+  {
+    "itemstack": {
+      "name": "enviromine:gasMask"
+    },
+    "energyValue": 2352.125
+  },
+  {
+    "itemstack": {
+      "name": "enviromine:hardHat"
+    },
+    "energyValue": 2960.0
+  },
+  {
+    "itemstack": {
       "name": "eureka:engineeringDiary"
     },
     "energyValue": 376.0
@@ -24665,7 +24736,7 @@
     "itemstack": {
       "name": "harvestcraft:toastItem"
     },
-    "energyValue": 13.6
+    "energyValue": 24.0
   },
   {
     "itemstack": {
@@ -24731,7 +24802,7 @@
     "itemstack": {
       "name": "harvestcraft:toastsandwichItem"
     },
-    "energyValue": 27.2
+    "energyValue": 48.0
   },
   {
     "itemstack": {
@@ -25190,7 +25261,7 @@
       "name": "TConstruct:materials",
       "metaValue": 26
     },
-    "energyValue": 16768.0
+    "energyValue": 82304.0
   },
   {
     "itemstack": {
@@ -25355,6 +25426,12 @@
       "name": "fossil:essenceofChicken"
     },
     "energyValue": 3.208
+  },
+  {
+    "itemstack": {
+      "name": "fossil:cooked_egg"
+    },
+    "energyValue": 32.0
   },
   {
     "itemstack": {
@@ -26434,6 +26511,24 @@
   },
   {
     "itemstack": {
+      "name": "LogisticsPipes:item.itemModule"
+    },
+    "energyValue": 355.556
+  },
+  {
+    "itemstack": {
+      "name": "LogisticsPipes:item.itemDisk"
+    },
+    "energyValue": 1006.224
+  },
+  {
+    "itemstack": {
+      "name": "LogisticsPipes:item.PipeItemsBasicTransport"
+    },
+    "energyValue": 68.016
+  },
+  {
+    "itemstack": {
       "name": "Mariculture:materials",
       "metaValue": 14
     },
@@ -26499,7 +26594,7 @@
     "itemstack": {
       "name": "Mariculture:food"
     },
-    "energyValue": 4.9
+    "energyValue": 7.5
   },
   {
     "itemstack": {
@@ -28213,6 +28308,24 @@
   },
   {
     "itemstack": {
+      "name": "SpiceOfLife:bookfoodjournal"
+    },
+    "energyValue": 56.0
+  },
+  {
+    "itemstack": {
+      "name": "SpiceOfLife:lunchbox"
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "SpiceOfLife:lunchbag"
+    },
+    "energyValue": 96.0
+  },
+  {
+    "itemstack": {
       "name": "StevesAddons:duplicator"
     },
     "energyValue": 2910.0
@@ -28417,7 +28530,7 @@
       "name": "StevesCarts:ModuleComponents",
       "metaValue": 29
     },
-    "energyValue": 27.0
+    "energyValue": 60.0
   },
   {
     "itemstack": {
@@ -28605,7 +28718,7 @@
       "name": "StevesCarts:CartModule",
       "metaValue": 7
     },
-    "energyValue": 1334.0
+    "energyValue": 1400.0
   },
   {
     "itemstack": {
@@ -30934,6 +31047,20 @@
       "metaValue": 6
     },
     "energyValue": 2908.633
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transportation:projectred.transportation.pipe",
+      "metaValue": 9
+    },
+    "energyValue": 5.508
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Transportation:projectred.transportation.pipe",
+      "metaValue": 10
+    },
+    "energyValue": 4.133
   },
   {
     "itemstack": {
