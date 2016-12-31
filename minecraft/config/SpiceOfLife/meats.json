@@ -9,6 +9,10 @@
 			"foodZombiejerky",
 			"foodApricotglazedpork",
 			"foodBreadedporkchop"
+		],
+		"items":[
+			"MoCreatures:turkeyraw",
+			"MoCreatures:turkeycooked"
 		]
 	},
 	"name" : "Meats",
